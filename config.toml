@@ -1,6 +1,6 @@
 ## baseurl = "/"
 baseurl = "https://blog.mcdowell.si/"
-title = "Mainroad"
+title = "Martin's Blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
