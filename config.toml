@@ -1,4 +1,5 @@
-baseurl = "/"
+## baseurl = "/"
+baseurl = "https://blog.mcdowell.si/"
 title = "Mainroad"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
