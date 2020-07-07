@@ -1,14 +1,181 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Mainroad</title>
+    <link>/</link>
+    <description>Recent content on Mainroad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>/post/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>/post/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/goisforlovers/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in Go templates.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>/post/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugoisforlovers/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be using it in the next step.
+More complete instructions are available at Install Hugo
+Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
+Follow the following steps:
+ Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>/post/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/post/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
+▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Dodging storm clouds</title>
+      <link>/post/bike-trip-round-the-usa-2013/dodging-storm-clouds/</link>
+      <pubDate>Sun, 01 Sep 2013 22:00:00 +0000</pubDate>
+      
+      <guid>/post/bike-trip-round-the-usa-2013/dodging-storm-clouds/</guid>
+      <description>I guess a lot of seasoned bikers are familiar this skill but I had to develop olit completely from scratch and it was up to necessity rather than fancying myself taking on a skill I might not use ever again.
+During my few weeks biking in the US this June I got quite good at it. What it basically is that as a motorcyclist you try avoiding getting wet by avoiding rainy clouds as they intercept your route.</description>
+    </item>
+    
+    <item>
+      <title>Avenue of the Giants</title>
+      <link>/post/bike-trip-round-the-usa-2013/avenue-of-the-giants/</link>
+      <pubDate>Sun, 11 Aug 2013 17:15:38 +0000</pubDate>
+      
+      <guid>/post/bike-trip-round-the-usa-2013/avenue-of-the-giants/</guid>
+      <description>The name sounds like something from a children&amp;rsquo;s adventure book, perhaps depicting an overgrown legume, but this was an actually road-sign I saw in northern California that was inviting me to leave the route 101 and explore its mysteries.
+This is actually the name of a byway, a road that runs close to the Route 101 but is much MUCH nicer. The roads twists and rolls round enormous Redwood trees, which are really sequoia trees.</description>
+    </item>
+    
+    <item>
+      <title>The curse of the Christmas cards</title>
+      <link>/post/the-curse-of-the-christmas-cards/</link>
+      <pubDate>Thu, 14 Dec 2006 12:50:00 +0000</pubDate>
+      
+      <guid>/post/the-curse-of-the-christmas-cards/</guid>
+      <description>The story repeats itself every year. If you are savvy enough to start thinking which cards you intend to buy and for whom, the whole nonsense can begin as early as November. You can&amp;rsquo;t really stop thinking about it or even forget the whole thing as the absence of cards from you will eventually be noticed, especially if you still appear to be among the living. You could start outright lying that you converted to Islam and that you do not recognize the whole Christmas period.</description>
+    </item>
+    
+    <item>
+      <title>Nostrifikacija slovenske veterinarske diplome za delo v Veliki Britaniji</title>
+      <link>/post/nostrifikacija-slovenske-veterinarske-diplome-za-delo-v-veliki-britaniji/</link>
+      <pubDate>Sat, 09 Dec 2006 18:20:00 +0000</pubDate>
+      
+      <guid>/post/nostrifikacija-slovenske-veterinarske-diplome-za-delo-v-veliki-britaniji/</guid>
+      <description>Clanek je bil sestavljen leta 2006 tako da so navodila in postopki v njem zelo zastareli
+Ker to zanima predvsem tudi slovenske veterinarje, bom tale spletni članek spisal tudi v slovenskem jeziku (obstaja tudi članek v angleščini). Ker sem eden prvih, če ne prvi, ki je dokončal postopek nostrifikacije slovenske veterinarske diplome v VB (po vstopu Slovenije v EU), sem se odločil, da zadevo spišem drugim v pomoč. Pri tem moram poudariti, da se postopek nanaša name in na moje pogoje, tako da je popolnoma mogoče, da se bo postopek nekoliko razlikoval pri drugih kandidatih.</description>
+    </item>
+    
+    <item>
+      <title>How to work as a vet in the UK on a Slovene vet diploma</title>
+      <link>/post/how-to-work-as-a-vet-in-the-uk-on-a-slovene-vet-diploma/</link>
+      <pubDate>Wed, 06 Dec 2006 14:57:00 +0000</pubDate>
+      
+      <guid>/post/how-to-work-as-a-vet-in-the-uk-on-a-slovene-vet-diploma/</guid>
+      <description>This post was written in 2006 and is outdated
+This post will be dedicated to the description of the procedure I had to go through to get my Slovene veterinary qualifications recognized in the United Kingdom. I must stress that this is the procedure that was applicable to me and may vary for other individuals that have different circumstances.
+I first tried to get my diploma nostrified 6 years ago but because Slovenia was not yet part of the European Union I would have to go through professional exams in the area of small animal practice and horses.</description>
+    </item>
+    
+    <item>
+      <title>The London trip 2006 (days 4 and 5)</title>
+      <link>/post/the-london-trip-2006-days-4-and-5/</link>
+      <pubDate>Fri, 01 Dec 2006 19:00:00 +0000</pubDate>
+      
+      <guid>/post/the-london-trip-2006-days-4-and-5/</guid>
+      <description>These two days were mainly spent doing other stuff, but one of the things, that ended to be taking up quite a bit of my time was the search for the sodden curry powder. You know when you go abroad and you sometimes get a list of things to buy. I had Sharwoods mild curry powder on this one (among other things) and unlike a few years ago, when it was quite easy to find it in Tesco, this time it proved to be mission impossible.</description>
+    </item>
+    
+    <item>
+      <title>The London trip 2006 (day 3)</title>
+      <link>/post/the-london-trip-2006-day-3/</link>
+      <pubDate>Wed, 29 Nov 2006 19:00:00 +0000</pubDate>
+      
+      <guid>/post/the-london-trip-2006-day-3/</guid>
+      <description>Finally, I had much less to do today, unless you include driving - most of it on the M11, M25 and M3, M27 motorway (in that order). And the weather improved so I got to see that rarely seen English sunshine. I never stop being surprised on the size of the road and the chaotic sense of the M25. Cars keep on coming up to you from all directions and it is no place to be thinking of how last years boogie in Maribor went as you may find you are suddenly united by at least one car who&amp;rsquo;s driver was probably thinking about tonight&amp;rsquo;s supper.</description>
+    </item>
+    
+    <item>
+      <title>The London trip 2006 (day 2)</title>
+      <link>/post/the-london-trip-2006-day-2/</link>
+      <pubDate>Tue, 28 Nov 2006 19:00:00 +0000</pubDate>
+      
+      <guid>/post/the-london-trip-2006-day-2/</guid>
+      <description>OK, this time it was for real. No more messing about with strange-side-of-the-steering-wheel car and funny gear sticks that didn&amp;rsquo;t want to move. I had to get to London, find parking, get to the Redbridge tube station, change at Mile End, end up in Westiminster station, walk to the Royal College of Veterinary Surgeons (RCVS) and get myself registered. Luckily the London underground is just to big too big to implement any real security checks so I was spared the man handling I had to endure the previous day.</description>
+    </item>
+    
+    <item>
+      <title>The London trip 2006 (day 1)</title>
+      <link>/post/the-london-trip-2006-day-1/</link>
+      <pubDate>Mon, 27 Nov 2006 19:00:00 +0000</pubDate>
+      
+      <guid>/post/the-london-trip-2006-day-1/</guid>
+      <description>If you asked me a few months ago that I will have to go to the UK I would not be so cheerful as the security checks at the airports would probably be as pleasant as sticking your hand in a meat grinder. Luckily the EU recently imposed new regulations that make air travel a bit easier, just as long as you stick all your aftershaves and deodorants in the check-in luggage.</description>
+    </item>
+    
+    <item>
+      <title>OK, go</title>
+      <link>/post/2006/ok-go/</link>
+      <pubDate>Tue, 21 Nov 2006 15:09:00 +0000</pubDate>
+      
+      <guid>/post/2006/ok-go/</guid>
+      <description>Well, so far I never had any need to publish a blog whatsoever. I created the blogspot just to see what it looks alike and how Google has organized things. I have done much blogging but sorry to say the Blogspot.com leaves a lot to be desired. Hopefully they will put as much work into this as they did in Google Docs, which by the way is a great tool. It is very simple so don&amp;rsquo;t compare it to OpenOffice or Microsoft Office Excel, but it does some very good basic things and it is accessible everywhere.</description>
+    </item>
     
   </channel>
 </rss>
