@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gardens on Martin&#39;s Blog</title>
+    <link>https://blog.mcdowell.si/tags/gardens/</link>
+    <description>Recent content in gardens on Martin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 07:26:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/gardens/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aberglasney Garden</title>
+      <link>https://blog.mcdowell.si/post/aberglasney-garden/</link>
+      <pubDate>Tue, 01 Sep 2015 07:26:41 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/post/aberglasney-garden/</guid>
+      <description>This lovely estate is about 20 away from Carmarthen on the road to Llandeilo.
+[gallery link=&amp;quot;file&amp;rdquo; ids=&amp;quot;3009,3010,3011,3012,3013,3014&amp;rdquo;]</description>
+    </item>
+    
+  </channel>
+</rss>

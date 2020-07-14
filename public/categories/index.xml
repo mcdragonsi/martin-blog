@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 19:00:28 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mcdowell.si/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kilimanjaro 2019</title>
+      <link>https://blog.mcdowell.si/categories/kilimanjaro-2019/</link>
+      <pubDate>Wed, 02 Oct 2019 19:00:28 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/kilimanjaro-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorised</title>
+      <link>https://blog.mcdowell.si/categories/uncategorised/</link>
+      <pubDate>Sat, 10 Aug 2019 19:00:47 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/uncategorised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trips and outings</title>
+      <link>https://blog.mcdowell.si/categories/trips-and-outings/</link>
+      <pubDate>Sat, 22 Jun 2019 21:08:28 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/trips-and-outings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motorcycling</title>
+      <link>https://blog.mcdowell.si/categories/motorcycling/</link>
+      <pubDate>Wed, 05 Jun 2019 19:05:33 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/motorcycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slovenia</title>
+      <link>https://blog.mcdowell.si/categories/slovenia/</link>
+      <pubDate>Tue, 15 Jan 2019 14:01:19 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/slovenia/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Development</title>
@@ -17,6 +62,33 @@
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics and opinions</title>
+      <link>https://blog.mcdowell.si/categories/politics-and-opinions/</link>
+      <pubDate>Sun, 01 Apr 2018 11:19:21 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/politics-and-opinions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friends and family</title>
+      <link>https://blog.mcdowell.si/categories/friends-and-family/</link>
+      <pubDate>Tue, 16 May 2017 19:44:01 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/friends-and-family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carriacou 2015</title>
+      <link>https://blog.mcdowell.si/categories/carriacou-2015/</link>
+      <pubDate>Sun, 08 Feb 2015 14:54:14 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/carriacou-2015/</guid>
       <description></description>
     </item>
     
@@ -30,6 +102,15 @@
     </item>
     
     <item>
+      <title>Veterinary medicine</title>
+      <link>https://blog.mcdowell.si/categories/veterinary-medicine/</link>
+      <pubDate>Sun, 02 Mar 2014 18:44:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/veterinary-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bike trip round the USA 2013</title>
       <link>https://blog.mcdowell.si/categories/bike-trip-round-the-usa-2013/</link>
       <pubDate>Sun, 01 Sep 2013 22:00:00 +0000</pubDate>
@@ -39,11 +120,83 @@
     </item>
     
     <item>
-      <title>Motorcycling</title>
-      <link>https://blog.mcdowell.si/categories/motorcycling/</link>
-      <pubDate>Sun, 01 Sep 2013 22:00:00 +0000</pubDate>
+      <title>IT</title>
+      <link>https://blog.mcdowell.si/categories/it/</link>
+      <pubDate>Wed, 10 Apr 2013 19:00:30 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/categories/motorcycling/</guid>
+      <guid>https://blog.mcdowell.si/categories/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://blog.mcdowell.si/categories/technology/</link>
+      <pubDate>Wed, 10 Apr 2013 19:00:30 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leisure</title>
+      <link>https://blog.mcdowell.si/categories/leisure/</link>
+      <pubDate>Sun, 25 Nov 2012 13:12:34 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/leisure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health and medicine</title>
+      <link>https://blog.mcdowell.si/categories/health-and-medicine/</link>
+      <pubDate>Wed, 19 Sep 2012 21:33:19 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/health-and-medicine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filming locations</title>
+      <link>https://blog.mcdowell.si/categories/filming-locations/</link>
+      <pubDate>Wed, 21 Sep 2011 19:06:57 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/filming-locations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>https://blog.mcdowell.si/categories/music/</link>
+      <pubDate>Sat, 27 Mar 2010 18:50:36 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skydiving</title>
+      <link>https://blog.mcdowell.si/categories/skydiving/</link>
+      <pubDate>Fri, 25 Sep 2009 17:05:36 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/skydiving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guitar</title>
+      <link>https://blog.mcdowell.si/categories/guitar/</link>
+      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/guitar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indoor skydiving</title>
+      <link>https://blog.mcdowell.si/categories/indoor-skydiving/</link>
+      <pubDate>Sat, 16 Feb 2008 05:48:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/indoor-skydiving/</guid>
       <description></description>
     </item>
     
