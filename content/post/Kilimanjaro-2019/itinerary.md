@@ -16,48 +16,14 @@ categories:
 
 So the plan is to go by car to Heathrow T4, catch a light to Nairobi, Kenya. I am supposed to get a shuttle from the airport from the airport to a hotel in downtown Nairobi. The group I am travelling with have a meeting the following day in the same hotel. 
 
-
-
-
-
-
-
-![](https://mcdowell.si/wp-content/uploads/2019/09/ygomc_2019.gif)Image: Intrepid Travel
-
-
-
-
-
-
-
 The day after we get on a private bus aka "safari truck" and go towards [Kisii](https://en.wikipedia.org/wiki/Kisii,_Kenya). We are supposed to arrive there about 9h later!!
-
-
-
-
-
-
 
 After Kisii we cross the border to Tanzania and arrive at Lake Victoria. The next two days we are in the [Serengeti national park](https://en.wikipedia.org/wiki/Serengeti_National_Park). Now the fun thing in Serengeti will be the overnight camping as apparently there will no barrier between us and the wildlife. Yep. Okidoki.  
 In the past it has not been uncommon for buffalo and hyenas wandering into the campsite.
 
-
-
-
-
-
-
 The next stop is the [Ngorongoro crater](https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area#Ngorongoro_Crater).
 
-
-
-
-
 [![](https://mcdowell.si/wp-content/uploads/2019/09/ngorongoro-crater-1024x536.jpg)](https://mcdowell.si/wp-content/uploads/2019/09/ngorongoro-crater.jpg)Image: Peakplanet.com
-
-
-
-
 
 Then comes the hard bit as we approach the foot of Mt Kilimanjaro in a town called Marangu. This is the last time we see any degree of creature comforts in a form of a hotel and wifi.
 
