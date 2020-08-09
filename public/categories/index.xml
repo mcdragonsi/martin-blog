@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 19:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://blog.mcdowell.si/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Kilimanjaro 2019</title>
       <link>https://blog.mcdowell.si/categories/kilimanjaro-2019/</link>
-      <pubDate>Wed, 02 Oct 2019 19:00:28 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/categories/kilimanjaro-2019/</guid>
       <description></description>
@@ -66,20 +66,20 @@
     </item>
     
     <item>
-      <title>Politics and opinions</title>
-      <link>https://blog.mcdowell.si/categories/politics-and-opinions/</link>
-      <pubDate>Sun, 01 Apr 2018 11:19:21 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/categories/politics-and-opinions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Friends and family</title>
       <link>https://blog.mcdowell.si/categories/friends-and-family/</link>
       <pubDate>Tue, 16 May 2017 19:44:01 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/categories/friends-and-family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics and opinions</title>
+      <link>https://blog.mcdowell.si/categories/politics-and-opinions/</link>
+      <pubDate>Sun, 12 Jul 2015 14:43:17 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/categories/politics-and-opinions/</guid>
       <description></description>
     </item>
     
