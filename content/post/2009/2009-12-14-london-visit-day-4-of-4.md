@@ -16,11 +16,11 @@ tags:
 - London visit
 ---
 
-[caption id="attachment_1453" align="aligncenter" width="720"][![A shark in the big tank in the London Aquarium](https://mcdowell.si/wp-content/uploads/2009/12/london_aquarium1-1.jpg)](https://mcdowell.si/wp-content/uploads/2009/12/london_aquarium1.jpg) A shark in the big tank in the London Aquarium[/caption]
+[caption id="attachment_1453" align="aligncenter" width="720"][![A shark in the big tank in the London Aquarium](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/london_aquarium1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/london_aquarium1.jpg) A shark in the big tank in the London Aquarium[/caption]
 
 Not feeling very well in the morning of the last day, this cold has been getting the better of me and running around London does not help it getting any better. Drugging-up with anti-inflammatories not helped either.
 
-[caption id="attachment_1454" align="alignright" width="225"][![The London Eye - close to the top](https://mcdowell.si/wp-content/uploads/2009/12/london_eye1-1-225x300.jpg)](https://mcdowell.si/wp-content/uploads/2009/12/london_eye1.jpg) The London Eye - close to the top[/caption]
+[caption id="attachment_1454" align="alignright" width="225"][![The London Eye - close to the top](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/london_eye1-1-225x300.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/london_eye1.jpg) The London Eye - close to the top[/caption]
 
 First port of call was the [London eye](http://en.wikipedia.org/wiki/London_Eye) I booked the previous day on-line. Looks amazing when standing underneath it and the views of London once you are right at the very top are stunning. Wasn't really sure how they get people on and off - I thought they had to keep on starting and stopping the whole wheel but in fact it just keeps on moving all the time at about 1 km/h and you have to be quick to get on and off. The whole trip takes about 30 minutes. There are two positions in each capsule - if you stand there you can get an automatic picture taken of you at the end of the ride.
 

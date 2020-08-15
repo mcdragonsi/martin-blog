@@ -35,7 +35,7 @@ Passed my motorcycle theory test in Haverfordwest :-) On to the practical ones :
 Have been having quite a few lessons in Haverfordwest and Swansea as I seem to suck a little at riding a motorcycle but I can see some signs of improvement lately so there is still hope yet.
 
 
-![Me at Motorcycle Training Wales](https://mcdowell.si/wp-content/uploads/2012/04/WMT-1-300x225.jpg)
+![Me at Motorcycle Training Wales](https://dwlcvfkt1l4wn.cloudfront.net/2012/04/WMT-1-300x225.jpg)
 
 
 

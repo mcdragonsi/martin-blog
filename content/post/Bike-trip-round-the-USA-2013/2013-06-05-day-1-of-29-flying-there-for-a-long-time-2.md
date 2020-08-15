@@ -12,7 +12,7 @@ categories:
 - Motorcycling
 ---
 
-![](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130605_1201031-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130605_1201031-1.jpg)
 
 First item on the menu is an apology. This was typed on my Samsung Galaxy phone and considering the quality of my usual typing on its virtual keyboard I think I will probably have some absolute spelling gems ;-)
 
@@ -35,8 +35,8 @@ Feels weird when everyone you know is asleep and you can't chat with them online
 
 Another topic ... vending machines. Never seem to have any problems with them AT ALL when I am in the UK or Slovenia. Just see people hitting them in films - american films that is. And guess what. Got shafted the second time (the first time being the taxi driver) when the machine took the money but kept the drink. Luckily the staff were nice enough and vended me another one for free :-D
 
-![](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130605_1015591-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130605_1015591-1.jpg)
 
-![](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130605_1620351-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130605_1620351-1.jpg)
 
 

@@ -16,4 +16,4 @@ After staying in a great KOA campsite in Winthrop, Washington, I took the road a
 
 Stopped for a cup of coffee on the way and took the ferry crossing to Port Townsend. Rubbish campsite where I couldn't even use my pegs to pitch my tent. There was also a storm brewing and my tent would surely be airborne with such poor anchorage. So I decided to go to a hotel for the night.
 
-![wpid-20130618_091839.jpg](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130618_0918391-1.jpg)
+![wpid-20130618_091839.jpg](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130618_0918391-1.jpg)

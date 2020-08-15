@@ -15,7 +15,7 @@ tags:
 - Waterfall
 ---
 
-[caption id="attachment_1102" align="alignleft" width="143"][![entrance to the mine](https://mcdowell.si/wp-content/uploads/2009/03/waterfall1-1-143x300.jpg)](https://mcdowell.si/about/gallery?album=Rhydwilym) entrance to the mine[/caption]
+[caption id="attachment_1102" align="alignleft" width="143"][![entrance to the mine](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/waterfall1-1-143x300.jpg)](https://mcdowell.si/about/gallery?album=Rhydwilym) entrance to the mine[/caption]
 
 As the book states this is a walk where you can see lots of nice views and hardly meet anyone. And it was true for me. Only people I met were some farmers on a field, however the fact that I did the walk on a Tuesday afternoon might have had something to do with it.
 

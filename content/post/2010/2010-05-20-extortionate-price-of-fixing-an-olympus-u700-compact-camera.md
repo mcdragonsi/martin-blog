@@ -15,7 +15,7 @@ tags:
 - service charges
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2010/05/olympus-u7001-1.jpg)](https://mcdowell.si/wp-content/uploads/2010/05/olympus-u7001.jpg)Just had a nasty surprise about my Olympus µ700 compact camera I bought 3 years ago from Pixmania and cost me about** £164**.
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/olympus-u7001-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/olympus-u7001.jpg)Just had a nasty surprise about my Olympus µ700 compact camera I bought 3 years ago from Pixmania and cost me about** £164**.
 
 Last year it started to bleach/overexpose all outdoor photos. Defaulting to factory settings did not work. I finally called the Olympus UK support line this morning  and they told me that for that model they charge **£90.77!!! **to repair any kind of fault. Does not make any sense at all. That is just over £73 less than the price for when it was new.
 

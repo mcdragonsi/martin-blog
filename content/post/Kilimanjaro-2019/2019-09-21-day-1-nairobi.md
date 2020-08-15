@@ -52,21 +52,21 @@ At 6pm we had the Serengeti group meeting. Some of them were already on Kilimanj
 
 
 
-![](https://mcdowell.si/wp-content/uploads/2019/09/IMG_2969.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_2969.jpg)
 
 
 
 
 
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-20-16.08.39-1024x577.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-20-16-08-39)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-10.55.50-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-10-55-50)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-13.17.37-576x1024.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-17-37)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-13.30.39-1024x576.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-30-39)Health and safety (not) in action
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-13.30.46-576x1024.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-30-46)Health and safety (not) in action
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-13.59.21-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-59-21)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-21-14.21.37-1024x576.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-14-21-37)Meeting a friend at the top of Nairobi
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/IMG_2967-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2967)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/IMG_2968-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2968)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/IMG_2969-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2969)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-20-16.08.39-1024x577.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-20-16-08-39)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-10.55.50-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-10-55-50)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.17.37-576x1024.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-17-37)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.30.39-1024x576.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-30-39)Health and safety (not) in action
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.30.46-576x1024.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-30-46)Health and safety (not) in action
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.59.21-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-13-59-21)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-14.21.37-1024x576.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/2019-09-21-14-21-37)Meeting a friend at the top of Nairobi
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2967-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2967)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2968-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2968)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2969-1024x683.jpg)](https://mcdowell.si/day-1-nairobi-3794.html/img_2969)
 
 

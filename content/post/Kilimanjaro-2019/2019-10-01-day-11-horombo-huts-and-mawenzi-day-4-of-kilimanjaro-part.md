@@ -38,7 +38,7 @@ A slightly different day today. Planned to be an acclimatisation day but difficu
 
 
 
-![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-08.48.35.resized.jpg)A sunny morning at Horombo
+![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-08.48.35.resized.jpg)A sunny morning at Horombo
 
 
 
@@ -68,25 +68,25 @@ We were in these quite cosy and very drafty A-frame huts that had 4 basic beds. 
 
 
 
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-08.48.21.resized.jpg)](https://mcdowell.si/?attachment_id=4547)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-08.48.29.resized.jpg)](https://mcdowell.si/?attachment_id=4548)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-08.48.35.resized.jpg)](https://mcdowell.si/?attachment_id=4549)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-09.05.19.resized.jpg)](https://mcdowell.si/?attachment_id=4550)Mawenzi
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-09.49.50.resized.jpg)](https://mcdowell.si/?attachment_id=4551)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.11.31.resized.jpg)](https://mcdowell.si/?attachment_id=4552)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.15.52.resized.jpg)](https://mcdowell.si/?attachment_id=4553)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.16.10.resized.jpg)](https://mcdowell.si/?attachment_id=4554)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.16.20.resized.jpg)](https://mcdowell.si/?attachment_id=4555)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.16.34.resized.jpg)](https://mcdowell.si/?attachment_id=4556)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.17.14.resized.jpg)](https://mcdowell.si/?attachment_id=4557)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.17.29.resized.jpg)](https://mcdowell.si/?attachment_id=4558)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.24.34.resized.jpg)](https://mcdowell.si/?attachment_id=4559)Group photo at Zebra rocks
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.26.01.resized.jpg)](https://mcdowell.si/?attachment_id=4560)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.48.34.resized.jpg)](https://mcdowell.si/?attachment_id=4561)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.51.22.resized.jpg)](https://mcdowell.si/?attachment_id=4562)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-10.58.37.resized.jpg)](https://mcdowell.si/?attachment_id=4563)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-12.08.38.resized.jpg)](https://mcdowell.si/?attachment_id=4564)Returning to Horombo after our hike through snow to Zebra rocks
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-17.16.46.resized.jpg)](https://mcdowell.si/?attachment_id=4565)The kitchen
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-01-17.20.50.resized.jpg)](https://mcdowell.si/?attachment_id=4566)The kitchen
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-08.48.21.resized.jpg)](https://mcdowell.si/?attachment_id=4547)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-08.48.29.resized.jpg)](https://mcdowell.si/?attachment_id=4548)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-08.48.35.resized.jpg)](https://mcdowell.si/?attachment_id=4549)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-09.05.19.resized.jpg)](https://mcdowell.si/?attachment_id=4550)Mawenzi
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-09.49.50.resized.jpg)](https://mcdowell.si/?attachment_id=4551)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.11.31.resized.jpg)](https://mcdowell.si/?attachment_id=4552)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.15.52.resized.jpg)](https://mcdowell.si/?attachment_id=4553)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.16.10.resized.jpg)](https://mcdowell.si/?attachment_id=4554)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.16.20.resized.jpg)](https://mcdowell.si/?attachment_id=4555)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.16.34.resized.jpg)](https://mcdowell.si/?attachment_id=4556)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.17.14.resized.jpg)](https://mcdowell.si/?attachment_id=4557)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.17.29.resized.jpg)](https://mcdowell.si/?attachment_id=4558)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.24.34.resized.jpg)](https://mcdowell.si/?attachment_id=4559)Group photo at Zebra rocks
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.26.01.resized.jpg)](https://mcdowell.si/?attachment_id=4560)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.48.34.resized.jpg)](https://mcdowell.si/?attachment_id=4561)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.51.22.resized.jpg)](https://mcdowell.si/?attachment_id=4562)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-10.58.37.resized.jpg)](https://mcdowell.si/?attachment_id=4563)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-12.08.38.resized.jpg)](https://mcdowell.si/?attachment_id=4564)Returning to Horombo after our hike through snow to Zebra rocks
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-17.16.46.resized.jpg)](https://mcdowell.si/?attachment_id=4565)The kitchen
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-01-17.20.50.resized.jpg)](https://mcdowell.si/?attachment_id=4566)The kitchen
 
 

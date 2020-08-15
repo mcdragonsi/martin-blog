@@ -13,7 +13,7 @@ Danes zjutraj so na Britanskih TV postajah predvajali video, ki ga je časopisna
 
 Britanija je že sicer znana kot prva v številu mladoletnih nosečnic samo ta primer te pa kar malo zmrazi. Oče je sicer star trenutno 13 let, bil pa je 12, ko je spočel otroka s svojo petnajst-letno punco.
 
-[caption id="attachment_1002" align="aligncenter" width="492"]![Foto: The Sun](https://mcdowell.si/wp-content/uploads/2009/02/mladoletna_starsa1-1.jpg) Foto: The Sun[/caption]
+[caption id="attachment_1002" align="aligncenter" width="492"]![Foto: The Sun](https://dwlcvfkt1l4wn.cloudfront.net/2009/02/mladoletna_starsa1-1.jpg) Foto: The Sun[/caption]
 
 Med intervjujem je voditeljica vprašala, kaj bo delal v s smislu finančne podpore in fant ni vedel, kaj pomeni beseda "finančno" - seveda ne razume, saj je star 13 let!!!
 

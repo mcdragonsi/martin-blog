@@ -15,7 +15,7 @@ tags:
 - Pembrokeshire
 ---
 
-[caption id="attachment_1407" align="alignleft" width="200"][![This is not a photo from the incident](https://mcdowell.si/wp-content/uploads/2009/12/scary_horse_11-1.jpg)](https://mcdowell.si/wp-content/uploads/2009/12/scary_horse_11.jpg) This is not a photo from the incident[/caption]
+[caption id="attachment_1407" align="alignleft" width="200"][![This is not a photo from the incident](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/scary_horse_11-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/scary_horse_11.jpg) This is not a photo from the incident[/caption]
 
 Recently I haven not been writing about my treks round [Pembrokeshire](http://maps.google.com/maps?ll=51.845,-4.84222222222&spn=1.0,1.0&q=51.845,-4.84222222222%20%28Pembrokeshire%29&t=h) and how I have been working my way through the "[Walking in Pembrokeshire](http://www.amazon.co.uk/Walking-Pembrokeshire-Circular-National-Cicerone/dp/1852844310)" guide. I've done so many now I have been repeating some of them two to three times. This last walk I did for the first time and is worth mentioning as it was one of the more unusual.
 

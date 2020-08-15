@@ -21,7 +21,7 @@ tags:
 - Whitesands
 ---
 
-[caption id="attachment_976" align="aligncenter" width="500"][![carn_llidi_1](https://mcdowell.si/wp-content/uploads/2009/02/carn_llidi_11-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) Coetan Arthur burial chamber on St Davids Head[/caption]
+[caption id="attachment_976" align="aligncenter" width="500"][![carn_llidi_1](https://dwlcvfkt1l4wn.cloudfront.net/2009/02/carn_llidi_11-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) Coetan Arthur burial chamber on St Davids Head[/caption]
 
 
 OK, same book used from the [last walk](https://mcdowell.si/stonehenge-made-in-the-preselis-962.html), but this time it was walk no. 11:  [St David's Head](http://en.wikipedia.org/wiki/St_Davids_Head) and Carn Llidi. You start off at [Whitesands](http://en.wikipedia.org/wiki/Whitesands) near St David which is convenient as there is lots of parking available - you will be charged parking if you come during the tourist season.
@@ -29,7 +29,7 @@ OK, same book used from the [last walk](https://mcdowell.si/stonehenge-made-in-t
 
 The Carn Lidi hill is a prominent feature in southern [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire) and you can see it from miles away. In fact I could clearly see it from the [Preseli](http://en.wikipedia.org/wiki/Preseli_Pembrokeshire) mountains from the a trek I did a couple of weeks ago to Foel Eryr. The walk is straightforward enough but by the time I got to the north-western part of the walk the wind was really really strong. In fact I was a bit tempted to do some skydiving practice by performing some RW (relative work) positions.
 
-[caption id="attachment_977" align="aligncenter" width="775"][![carn_llidi_2](https://mcdowell.si/wp-content/uploads/2009/02/carn_llidi_21-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) At this point I was barely able to stand up properly, yet alone take a photo[/caption]
+[caption id="attachment_977" align="aligncenter" width="775"][![carn_llidi_2](https://dwlcvfkt1l4wn.cloudfront.net/2009/02/carn_llidi_21-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) At this point I was barely able to stand up properly, yet alone take a photo[/caption]
 
 As I turned inland and looked towards the summit of Carl Llidi the slovene genes in me were starting to kick-in again and the unexplainable urge to climb on top of stuff was getting the better of me. As I got about mid way to the top I was met by these small thick and very thorny bushes for which I know somebody somewehere knows the latin name of. In my book they are probably something like _Frutex dolens vulgaris_ (the common painful bush). There were some very narrow paths through this bushy thorniness and as I was scrambling up I surprised a few horses that were grazing below the summit. I tried to ignore them but the relation was not reciprocated. The presence of so many horses explained the huge ammount of poo that I was forced to walk around on my way to the top.
 
@@ -39,7 +39,7 @@ Getting down the hill, however, proved to be even trickier than the trip up as I
 
 Just as I was approaching the Whitesands car-park I was met by these beautiful scenes of a sunset above the ocean facing east south-east. Sorry for the poor quality as I took it with my [Nokia N95](http://en.wikipedia.org/wiki/Nokia_N95) phone cam. Not happy with it, plan on getting an [iPhone](http://en.wikipedia.org/wiki/IPhone) anyway soon :-)
 
-[caption id="attachment_975" align="aligncenter" width="500"][![carn_llidi_3](https://mcdowell.si/wp-content/uploads/2009/02/carn_llidi_31-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) Beautiful sunset above the sea at Whitesands[/caption]
+[caption id="attachment_975" align="aligncenter" width="500"][![carn_llidi_3](https://dwlcvfkt1l4wn.cloudfront.net/2009/02/carn_llidi_31-1.jpg)](https://mcdowell.si/about/gallery?album=CarnLlidi) Beautiful sunset above the sea at Whitesands[/caption]
 
 
 

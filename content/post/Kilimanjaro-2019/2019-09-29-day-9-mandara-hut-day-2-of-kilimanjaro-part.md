@@ -36,7 +36,7 @@ We had a quick meeting at reception and we were given water, we also gave the 9k
 
 
 
-[![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.29.46.resized.jpg)](https://mcdowell.si/?attachment_id=4506)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.29.46.resized.jpg)](https://mcdowell.si/?attachment_id=4506)
 
 
 
@@ -56,7 +56,7 @@ The porters packed the luggage on a small bus and we also checked in any excess 
 
 
 
-[![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-15.42.23.resized.jpg)](https://mcdowell.si/?attachment_id=4505)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-15.42.23.resized.jpg)](https://mcdowell.si/?attachment_id=4505)
 
 
 
@@ -70,27 +70,27 @@ After a bit of rest we set of on a lovely short hike to a nearby crater/caldera.
 
 
 
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-09.19.11.resized.jpg)](https://mcdowell.si/?attachment_id=4507)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-09.19.17.resized.jpg)](https://mcdowell.si/?attachment_id=4508)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-09.42.51.resized.jpg)](https://mcdowell.si/?attachment_id=4509)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.29.46.resized-1.jpg)](https://mcdowell.si/?attachment_id=4510)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.32.04.resized.jpg)](https://mcdowell.si/?attachment_id=4511)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.33.50-1.resized.jpg)](https://mcdowell.si/?attachment_id=4512)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.34.05.resized.jpg)](https://mcdowell.si/?attachment_id=4513)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-10.58.52.resized.jpg)](https://mcdowell.si/?attachment_id=4514)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-11.01.05.resized.jpg)](https://mcdowell.si/?attachment_id=4515)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-11.11.22.resized.jpg)](https://mcdowell.si/?attachment_id=4516)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-11.11.40.resized.jpg)](https://mcdowell.si/?attachment_id=4517)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-14.07.38.resized.jpg)](https://mcdowell.si/?attachment_id=4518)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-14.07.53.resized.jpg)](https://mcdowell.si/?attachment_id=4519)A view of the path from Kinapa to Mandara
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-14.08.59.resized.jpg)](https://mcdowell.si/?attachment_id=4520)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-15.09.36.resized.jpg)](https://mcdowell.si/?attachment_id=4521)A view of the path from Kinapa to Mandara
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-15.36.04.resized.jpg)](https://mcdowell.si/?attachment_id=4522)Mandara huts
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-15.42.23.resized-1.jpg)](https://mcdowell.si/?attachment_id=4523)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-15.46.05.resized.jpg)](https://mcdowell.si/?attachment_id=4524)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-16.21.48.resized.jpg)](https://mcdowell.si/?attachment_id=4525)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-16.23.48.resized.jpg)](https://mcdowell.si/?attachment_id=4526)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-09-29-16.30.51.resized.jpg)](https://mcdowell.si/?attachment_id=4527)The caldera we hiked to
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-09.19.11.resized.jpg)](https://mcdowell.si/?attachment_id=4507)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-09.19.17.resized.jpg)](https://mcdowell.si/?attachment_id=4508)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-09.42.51.resized.jpg)](https://mcdowell.si/?attachment_id=4509)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.29.46.resized-1.jpg)](https://mcdowell.si/?attachment_id=4510)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.32.04.resized.jpg)](https://mcdowell.si/?attachment_id=4511)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.33.50-1.resized.jpg)](https://mcdowell.si/?attachment_id=4512)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.34.05.resized.jpg)](https://mcdowell.si/?attachment_id=4513)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-10.58.52.resized.jpg)](https://mcdowell.si/?attachment_id=4514)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-11.01.05.resized.jpg)](https://mcdowell.si/?attachment_id=4515)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-11.11.22.resized.jpg)](https://mcdowell.si/?attachment_id=4516)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-11.11.40.resized.jpg)](https://mcdowell.si/?attachment_id=4517)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-14.07.38.resized.jpg)](https://mcdowell.si/?attachment_id=4518)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-14.07.53.resized.jpg)](https://mcdowell.si/?attachment_id=4519)A view of the path from Kinapa to Mandara
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-14.08.59.resized.jpg)](https://mcdowell.si/?attachment_id=4520)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-15.09.36.resized.jpg)](https://mcdowell.si/?attachment_id=4521)A view of the path from Kinapa to Mandara
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-15.36.04.resized.jpg)](https://mcdowell.si/?attachment_id=4522)Mandara huts
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-15.42.23.resized-1.jpg)](https://mcdowell.si/?attachment_id=4523)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-15.46.05.resized.jpg)](https://mcdowell.si/?attachment_id=4524)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-16.21.48.resized.jpg)](https://mcdowell.si/?attachment_id=4525)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-16.23.48.resized.jpg)](https://mcdowell.si/?attachment_id=4526)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-29-16.30.51.resized.jpg)](https://mcdowell.si/?attachment_id=4527)The caldera we hiked to
 
 
 

@@ -16,17 +16,17 @@ Decided to leave most of my gear and head to the Black Hills in South Dakota to 
 
 The first looks much more impressive when you are actully there. The second will be even more impressive once its finished ... the bus guide estimated that will happen in the next 20 - 30 years.
 
-![wpid-20130611_134723.jpg](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130611_134723-1.jpg)
+![wpid-20130611_134723.jpg](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130611_134723-1.jpg)
 
 
 
-![wpid-20130611_134631.jpg](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130611_134631-1.jpg)
+![wpid-20130611_134631.jpg](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130611_134631-1.jpg)
 
-![Bikers_on_road_near_Rushmore](https://mcdowell.si/wp-content/uploads/2013/06/Bikers_on_road_near_Rushmore-1.jpg)
+![Bikers_on_road_near_Rushmore](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/Bikers_on_road_near_Rushmore-1.jpg)
 
-![Mt_Rushmore_1](https://mcdowell.si/wp-content/uploads/2013/06/Mt_Rushmore_1-1.jpg)
+![Mt_Rushmore_1](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/Mt_Rushmore_1-1.jpg)
 
-![Mt_Rushmore_2](https://mcdowell.si/wp-content/uploads/2013/06/Mt_Rushmore_2-1.jpg)
+![Mt_Rushmore_2](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/Mt_Rushmore_2-1.jpg)
 
 
 

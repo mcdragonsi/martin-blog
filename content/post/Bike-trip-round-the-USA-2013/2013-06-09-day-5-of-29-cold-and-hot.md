@@ -18,7 +18,7 @@ Hmmmm, and I intend to do a lot of camping here.
 
 I still decided to ride on westwards towards North Dakota despite being in the middle of a cold front.
 
-![wpid-Screenshot_2013-06-09-08-17-59.png](https://mcdowell.si/wp-content/uploads/2013/10/wpid-Screenshot_2013-06-09-08-17-59-1-150x150.png)
+![wpid-Screenshot_2013-06-09-08-17-59.png](https://dwlcvfkt1l4wn.cloudfront.net/2013/10/wpid-Screenshot_2013-06-09-08-17-59-1-150x150.png)
 
 The blue dot on this weather radar is me and the red one was Fargo which lies on the Minnesota / North Dakota border.
 

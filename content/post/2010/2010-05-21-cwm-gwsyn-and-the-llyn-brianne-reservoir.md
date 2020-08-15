@@ -19,7 +19,7 @@ tags:
 - walks
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2010/05/cwm_gwesyn1-1.jpg)](https://mcdowell.si/wp-content/uploads/2010/05/cwm_gwesyn1.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/cwm_gwesyn1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/cwm_gwesyn1.jpg)
 
 This is marked as the toughest walk in the [Brecon Becons & South Wales](http://www.amazon.co.uk/Brecon-Beacons-South-Wales-Walks/dp/0749562862) book and it turned out to be living up to its name. The most difficult part was trying to not get lost on Bryn Rhudd at the same time as not loosing interest in the walk as well. The views on there are almost desert-like, nothing but dried grass and [boggy](http://en.wikipedia.org/wiki/Bog) moors. Even the sheep are sensible enough not to stray that far from the valleys.
 

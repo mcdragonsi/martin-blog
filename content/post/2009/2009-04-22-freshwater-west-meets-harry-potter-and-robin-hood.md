@@ -22,7 +22,7 @@ tags:
 - Walking
 ---
 
-[caption id="attachment_1193" align="aligncenter" width="500" caption="Freshwater West beach in Pembrokeshire"]![Freshwater West beach in Pembrokeshire](https://mcdowell.si/wp-content/uploads/2009/04/p41200101.jpg)[/caption]
+[caption id="attachment_1193" align="aligncenter" width="500" caption="Freshwater West beach in Pembrokeshire"]![Freshwater West beach in Pembrokeshire](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/p41200101.jpg)[/caption]
 
 Of course not literally, but it was [published today](http://www.westerntelegraph.co.uk/news/4311162.Plans_made_for_Harry_Potter_and_Robin_Hood_filming/) in the local newspaper that the [Freshwater West](http://en.wikipedia.org/wiki/Freshwater_West) (the location of one of my recent trecks: [The difference is in the Angle](post.php?action=edit&post=1155)) will be used as a filming location for the upcoming movies [Harry Potter and the Deathly Hallows](http://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows) and [Ridley Scott's Robin Hood](http://en.wikipedia.org/wiki/Robin_Hood_(2010_film)) remake.
 
@@ -30,11 +30,11 @@ The debate is now mostly concerning whether the beach will still be opened to th
 
 See the gallery from the hike [here](https://mcdowell.si/about/gallery?album=Angle) and here are some photos taken of the beach...
 
-![p4120055](https://mcdowell.si/wp-content/uploads/2009/04/p41200551.jpg)
+![p4120055](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/p41200551.jpg)
 
-![p4120011](https://mcdowell.si/wp-content/uploads/2009/04/p41200111.jpg)
+![p4120011](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/p41200111.jpg)
 
-![p4120054](https://mcdowell.si/wp-content/uploads/2009/04/p41200541.jpg)
+![p4120054](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/p41200541.jpg)
 
 
 

@@ -12,7 +12,7 @@ categories:
 - Trips and outings
 ---
 
-[caption id="attachment_2113" align="aligncenter" width="1000"][![Standing on the famous Cantilever on Glyder Fach in Snowdonia](https://mcdowell.si/wp-content/uploads/2012/08/Martin-Cantilever_Glyder_Fach-1.jpg)](https://mcdowell.si/wp-content/uploads/2012/08/Martin-Cantilever_Glyder_Fach.jpg) Standing on the famous Cantilever on Glyder Fach in Snowdonia[/caption]
+[caption id="attachment_2113" align="aligncenter" width="1000"][![Standing on the famous Cantilever on Glyder Fach in Snowdonia](https://dwlcvfkt1l4wn.cloudfront.net/2012/08/Martin-Cantilever_Glyder_Fach-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2012/08/Martin-Cantilever_Glyder_Fach.jpg) Standing on the famous Cantilever on Glyder Fach in Snowdonia[/caption]
 
 A couple of years ago I trekked these hills with and came away with a lovely sunburn, sore legs and a great experience. Not unlike this time although I cannot fathom how those UV lights beams were able to penetrate all those clouds yesterday in order to give my skin a damn good uv-light trashing.
 
@@ -22,8 +22,8 @@ I have heard of the cantilever stone but I seemed to have missed it at my last t
 
 Job done, can't wait to do it again :-)
 
-![](https://mcdowell.si/wp-content/uploads/2012/08/wpid-2012-08-11-13.57.53-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2012/08/wpid-2012-08-11-13.57.53-1.jpg)
 
-![](https://mcdowell.si/wp-content/uploads/2012/08/wpid-2012-08-11-13.24.02-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2012/08/wpid-2012-08-11-13.24.02-1.jpg)
 
-![](https://mcdowell.si/wp-content/uploads/2012/08/wpid-2012-08-11-11.28.31-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2012/08/wpid-2012-08-11-11.28.31-1.jpg)

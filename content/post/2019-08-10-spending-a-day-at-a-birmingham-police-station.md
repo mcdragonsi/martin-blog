@@ -30,7 +30,7 @@ But I think it was all for a common good today. A large group of mostly police v
 
 
 
-![](https://mcdowell.si/wp-content/uploads/2019/08/BikeSafe-National-Police-Motorcycle-Safety-Initiative.png)BikeSafe – Police-led motorcycle safety initiative
+![](https://dwlcvfkt1l4wn.cloudfront.net/2019/08/BikeSafe-National-Police-Motorcycle-Safety-Initiative.png)BikeSafe – Police-led motorcycle safety initiative
 
 
 

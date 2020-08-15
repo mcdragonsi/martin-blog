@@ -12,7 +12,7 @@ categories:
 - Motorcycling
 ---
 
-[caption id="attachment_2550" align="alignnone" width="600"]![Yosemite](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130623_1615271-1.jpg) Yosemite[/caption]
+[caption id="attachment_2550" align="alignnone" width="600"]![Yosemite](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130623_1615271-1.jpg) Yosemite[/caption]
 
 I put these two together as I visited them on the same day. They are only about 4 hours drive from each other.
 I started the day in Santa Rosa and headed down highway 101 that leads into San Francisco over the Golden Gate bridge. The bridge always used to be a toll one as I recall but now they have a silly electronic system where your plate is scanned and then your account gets charged. Which is fine if you are a regular user. But what about the one-off user like myself. I have no idea what to do and the signs on the bridge are useless. There are no signs before the bridge telling you what to do.
@@ -23,4 +23,4 @@ This is another gem that I wished I could have spent more time at. Truly amazing
 
 Ended the day in a small town of [Bishop](http://en.wikipedia.org/wiki/Bishop,_California) where I saw the most amazing sunset over the mountains. Its unfortunately on my Canon so will have to publish it later.
 
-[caption id="attachment_2551" align="alignnone" width="600"]![wpid-20130623_104914_20130623220546093.jpg](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130623_104914_20130623220546093-1.jpg) San Francisco from the Treasure Island[/caption]
+[caption id="attachment_2551" align="alignnone" width="600"]![wpid-20130623_104914_20130623220546093.jpg](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130623_104914_20130623220546093-1.jpg) San Francisco from the Treasure Island[/caption]

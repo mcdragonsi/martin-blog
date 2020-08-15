@@ -13,7 +13,7 @@ tags:
 - Miramare
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2011/06/miramare-1.jpg)](https://mcdowell.si/wp-content/uploads/2011/06/miramare.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/miramare-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/miramare.jpg)
 
 This is a stunning castle with surrounding estate close to the northern [Italian](http://en.wikipedia.org/wiki/Italy) city of [Trieste](http://en.wikipedia.org/wiki/Trieste), close to border with [Slovenia](http://en.wikipedia.org/wiki/Slovenia).
 

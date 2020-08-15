@@ -9,7 +9,7 @@ title: Redwood forests of northern California
 wordpress_id: 2544
 ---
 
-![](https://mcdowell.si/wp-content/uploads/2013/06/wpid-20130621_1422101-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130621_1422101-1.jpg)
 
 So now I am in lala land. OK. A bit mean of me and certainly not fair to generalise a specific entertainment made in a particular part of Los Angeles to the whole state of California.
 So far the surroundings are mesmerising. Its like riding in a scene of Jurassic park. Not even sure why they didn't film the outdoor scenes here. Come to think of it, where did they film those scenes. I certainly don't think it was done here.

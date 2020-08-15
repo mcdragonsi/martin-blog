@@ -15,7 +15,7 @@ tags:
 
 
 
-[caption id="attachment_1776" align="alignleft" width="150"][![](https://mcdowell.si/wp-content/uploads/2010/12/london_paddington-1-150x150.jpg)](https://mcdowell.si/wp-content/uploads/2010/12/london_paddington.jpg) London Paddington station during rush hour[/caption]
+[caption id="attachment_1776" align="alignleft" width="150"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/12/london_paddington-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/12/london_paddington.jpg) London Paddington station during rush hour[/caption]
 
 The trip I did last year took quite a bit out of me as I took the car from the deepest and darkest :-) parts of [Wales](http://en.wikipedia.org/wiki/Wales) right down the M4 to central London. Now this wouldn't be otherwise to bad but for the whole visit being very active and at the end of it was completely exhausted. Not to mention the cold I was nursing at the time.
 

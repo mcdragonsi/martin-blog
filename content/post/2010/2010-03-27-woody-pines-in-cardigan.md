@@ -17,7 +17,7 @@ tags:
 - Wales
 ---
 
-[caption id="attachment_1566" align="aligncenter" width="500"][![](https://mcdowell.si/wp-content/uploads/2010/03/WoodyPines1-1.jpg)](https://mcdowell.si/wp-content/uploads/2010/03/WoodyPines1.jpg) Woody Pines (woodypines.com)[/caption]
+[caption id="attachment_1566" align="aligncenter" width="500"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/WoodyPines1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/WoodyPines1.jpg) Woody Pines (woodypines.com)[/caption]
 
 What a great night. Never though I would like country & western music. Funny thing to hear it in the heart of Wales.
 

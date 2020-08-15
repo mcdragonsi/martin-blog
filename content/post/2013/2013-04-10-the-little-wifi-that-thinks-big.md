@@ -12,7 +12,7 @@ categories:
 - Technology
 ---
 
-[![TP-Link TL-WR702N](https://mcdowell.si/wp-content/uploads/2013/04/tp_link_TL-WR702N-1-294x300.jpg)](https://mcdowell.si/wp-content/uploads/2013/04/tp_link_TL-WR702N.jpg)I don't usually write reviews here but this little gadget I have recently laid my hands on deserves it without any hesitation.
+[![TP-Link TL-WR702N](https://dwlcvfkt1l4wn.cloudfront.net/2013/04/tp_link_TL-WR702N-1-294x300.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2013/04/tp_link_TL-WR702N.jpg)I don't usually write reviews here but this little gadget I have recently laid my hands on deserves it without any hesitation.
 My work makes me travel a lot and I stay in places that don't have wifi access. Last year I bought a very capable and versatile Cisco/Linksys router E4200 but the problem is it is rather bulky. Not really made easy to travel around with.
 But recently, completely by chance, I came across this little fella from TP-Link with the technical name [TL-WR702N](http://www.amazon.co.uk/gp/product/B006PYGWG6/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B006PYGWG6&linkCode=as2&tag=marmcdsblo-21).
 

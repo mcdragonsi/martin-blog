@@ -56,7 +56,7 @@ Porote so v tistih časih dobile nezanemarljivo denarno nadomestilo za svoje del
 
 Od takrat je obelisk spomnil na tisoče planincev na dečka, ki je v rokah hribovja Brecon Beacons podlegel izčrpanosti in podhladitvi.
 
-[caption id="attachment_1666" align="aligncenter" width="1000"][![](https://mcdowell.si/wp-content/uploads/2010/08/tommy_Jones_obelisk_w_title2-1.jpg)](https://mcdowell.si/wp-content/uploads/2010/08/tommy_Jones_obelisk_w_title2.jpg) Obelisk z dolino Cwm llwch pod njim[/caption]
+[caption id="attachment_1666" align="aligncenter" width="1000"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/08/tommy_Jones_obelisk_w_title2-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/08/tommy_Jones_obelisk_w_title2.jpg) Obelisk z dolino Cwm llwch pod njim[/caption]
 
 Napis na obelisku:
 

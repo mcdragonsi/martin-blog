@@ -27,10 +27,10 @@ Modified the usual hike that goes straight up from the Cwm Gwdi carpark. Elevati
 
 
 
-  * [![](https://mcdowell.si/wp-content/uploads/2019/06/2019-06-22-13.04.04-1024x576.jpg)](https://mcdowell.si/?attachment_id=3786)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/06/2019-06-22-13.41.33-1024x576.jpg)](https://mcdowell.si/?attachment_id=3787)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/06/2019-06-22-14.24.37-1024x576.jpg)](https://mcdowell.si/?attachment_id=3788)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/06/2019-06-22-14.24.42-1024x576.jpg)](https://mcdowell.si/?attachment_id=3789)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/06/2019-06-22-14.24.49-1024x577.jpg)](https://mcdowell.si/?attachment_id=3790)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-22-13.04.04-1024x576.jpg)](https://mcdowell.si/?attachment_id=3786)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-22-13.41.33-1024x576.jpg)](https://mcdowell.si/?attachment_id=3787)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-22-14.24.37-1024x576.jpg)](https://mcdowell.si/?attachment_id=3788)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-22-14.24.42-1024x576.jpg)](https://mcdowell.si/?attachment_id=3789)
+  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-22-14.24.49-1024x577.jpg)](https://mcdowell.si/?attachment_id=3790)
 
 

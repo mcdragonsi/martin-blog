@@ -11,7 +11,7 @@ categories:
 - Trips and outings
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2011/11/sunset_behind_tryfan-1.jpg)](https://mcdowell.si/wp-content/uploads/2011/11/sunset_behind_tryfan.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2011/11/sunset_behind_tryfan-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/11/sunset_behind_tryfan.jpg)
 
 I returned to to Snowdonia in mid October 2011 to explore the northern third of the Snowdonia range, also known as the Carneddau. They are the most technically demanding part of the Snowdonia range in my opinion but you should not disregard them as there are some really stunning views seen on this range.
 

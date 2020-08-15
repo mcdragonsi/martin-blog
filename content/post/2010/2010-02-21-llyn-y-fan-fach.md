@@ -17,7 +17,7 @@ tags:
 - Sport
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2010/02/IMG_014011-1.jpg)](https://mcdowell.si/wp-content/uploads/2010/02/IMG_014011.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2010/02/IMG_014011-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/02/IMG_014011.jpg)
 
 Today I was here. Took me a while to get here and find it. Had to give up the whole trek round the mountain ridges as I was going to run out of daylight by the end of the hike.
 

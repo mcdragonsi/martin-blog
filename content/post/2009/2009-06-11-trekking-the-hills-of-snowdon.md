@@ -29,11 +29,11 @@ tags:
 - walks
 ---
 
-![snowdon_01](https://mcdowell.si/wp-content/uploads/2009/06/snowdon_011-1.jpg)
+![snowdon_01](https://dwlcvfkt1l4wn.cloudfront.net/2009/06/snowdon_011-1.jpg)
 
 Ever since I moved to [Wales](http://en.wikipedia.org/wiki/Wales) 2 years ago I had a quiet wish to climb the highest peak in this country - Snowdon. Last weekend was showing to be a perfect opportunity to fulfil that wish. I was working only till 12 pm and the forecast was for sunshine and high temperatures stretching way into the following week. Getting some good [literature](http://www.amazon.co.uk/Hillwalking-Snowdonia-Carneddau-Outlying-Mountains/dp/1852843497), so you know what your are doing, is very advisable.
 
-[caption id="attachment_1250" align="alignright" width="500"][![View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)](https://mcdowell.si/wp-content/uploads/2009/06/snowdon_031-1.jpg)](https://mcdowell.si/wp-content/uploads/2009/06/snowdon_031.jpg) View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)[/caption]
+[caption id="attachment_1250" align="alignright" width="500"][![View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)](https://dwlcvfkt1l4wn.cloudfront.net/2009/06/snowdon_031-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/06/snowdon_031.jpg) View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)[/caption]
 
 If you are based in southwest Wales it is a good idea to head up there on the day before you are [climbing](http://en.wikipedia.org/wiki/Climbing) as the road trip takes you over three hours. There are no motorways or even dual carriageways between the south and north parts of Wales! Instead of going for a more expensive option of a hotel or B&B (the decision to go to [Snowdon](http://en.wikipedia.org/wiki/Snowdon) was make pretty late and the hotel accommodations were either not available or very pricey) I opted for a [campsite](http://en.wikipedia.org/wiki/Campsite). The last camping I did was for a [skydiving](http://en.wikipedia.org/wiki/Parachuting) tournament that was held in my "home" [DZ](http://en.wikipedia.org/wiki/Drop_zone) in Prečna near [Novo mesto](http://en.wikipedia.org/wiki/Novo_Mesto) a few years back and I was a bit worried I might forget to bring along something essential. Hold that thought.
 
@@ -53,7 +53,7 @@ There were not many climbers on the Crib Goch path but once you reach the 3m mar
 
 
 
-[caption id="attachment_1249" align="aligncenter" width="300"]![The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption](https://mcdowell.si/wp-content/uploads/2009/06/snowdon_021-1.jpg) The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption[/caption]
+[caption id="attachment_1249" align="aligncenter" width="300"]![The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption](https://dwlcvfkt1l4wn.cloudfront.net/2009/06/snowdon_021-1.jpg) The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption[/caption]
 
 The descent on the [Miners Track](http://en.wikipedia.org/wiki/Snowdon#Miners.27_Track) was a bit tedious and still quite stressful on the legs - it is almost completely covered by rock slabs and that does not make a very comfortable walking surface. In other places you have smaller stones and there you have to watch you dont sprain an ancle. There are some nice views of the lakes (see photo gallery) and the end part of the track is very easy - like a walk in a park :-)
 
@@ -61,7 +61,7 @@ At the time of my trek on May 30th the top railway station was closed for renova
 
 
 
-[caption id="attachment_1251" align="aligncenter" width="500"]![Glaslyn lake](https://mcdowell.si/wp-content/uploads/2009/06/snowdon_041-1.jpg) Glaslyn lake[/caption]
+[caption id="attachment_1251" align="aligncenter" width="500"]![Glaslyn lake](https://dwlcvfkt1l4wn.cloudfront.net/2009/06/snowdon_041-1.jpg) Glaslyn lake[/caption]
 
 
 

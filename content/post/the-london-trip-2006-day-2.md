@@ -27,12 +27,12 @@ After the RCVS business I put on my tourist hat and went walking round London. I
 
 
 
-[![](https://mcdowell.si/wp-content/uploads/2008/08/animalsinwarmemorial-1.jpg)](https://mcdowell.si/wp-content/uploads/2008/08/animalsinwarmemorial.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/animalsinwarmemorial-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/animalsinwarmemorial.jpg)
 
 
 
 
-[![](https://mcdowell.si/wp-content/uploads/2008/08/screenhunter11-1.jpg)](https://mcdowell.si/wp-content/uploads/2008/08/screenhunter11.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/screenhunter11-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/screenhunter11.jpg)
 
 
 After that I continued in Green Park, then on Piccadilly where I got my regular dose of Polonium 210 at 167 Piccadilly and ended up in Piccadilly Circus. By then I was so nackered and above all it was getting arctic so I used the Central line to go back to Redbridge but remembered I have never been to [St. Paul's](http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral) cathedral on the way - so I made another stop.

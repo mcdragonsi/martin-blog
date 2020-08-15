@@ -13,7 +13,7 @@ tags:
 - Wales
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2009/12/Llanfallteg_pub1-1.jpg)](https://mcdowell.si/wp-content/uploads/2009/12/Llanfallteg_pub1.jpg)
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/Llanfallteg_pub1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/Llanfallteg_pub1.jpg)
 
 Danes, 30. septembra 2009, se izteče rok za oddajo vlog za gostilniški netačaj, kjer je glavna in edina nagrada - gostilna sama. Cena za vstop v natečaj je bilo 20 funtov in število sprejetih vlog je omejeno na 30.000.
 

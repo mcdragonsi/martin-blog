@@ -13,7 +13,7 @@ tags:
 - linkedin
 ---
 
-![](https://mcdowell.si/wp-content/uploads/2011/09/marloes_sands_1-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2011/09/marloes_sands_1-1.jpg)
 
 After seeing the filming of [Harry Potter and the Deathly Hallows](http://en.wikipedia.org/wiki/Harry_Potter_%28film_series%29#Harry_Potter_and_the_Deathly_Hallows_.E2.80.93_Part_2_.282011.29) and [Robin Hood](https://mcdowell.si/robin-hood-filmset-freshwater-west-on-june-23rd-1296.html) on the Freshwater West beach, [Third Star](http://en.wikipedia.org/wiki/Third_Star) in Barafundle Bay we have again the film crews back in Pembrokeshire for the filming of [**Snow White and the Huntsman**](http://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman) on my favourite beach [Marloes Sands](http://en.wikipedia.org/wiki/Marloes_Sands).
 
@@ -23,7 +23,7 @@ Might have a look at the filming next week to see if they are doing it right ;-)
 
 * Source of information: [@MrSimonWood](https://twitter.com/#%21/MrSimonWood)
 
-![](https://mcdowell.si/wp-content/uploads/2011/09/IMG_1715-1.jpg)
+![](https://dwlcvfkt1l4wn.cloudfront.net/2011/09/IMG_1715-1.jpg)
 
 **Update September 27th 2011**
 Drove down to the film set today. Was a bit worried access would be severely restricted but I found out from the National Trust officer that the production company was not granted a licence to close off the beach and was specifically ordered to leave the Marloes Sands beach and the path to it opened to the public at all times.

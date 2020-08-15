@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2019-10-02 19:00:28+00:00
 layout: post
-link: https://mcdowell.si/day-12-kibo-hut-uhuru-peak-day-5-of-kilimanjaro-part-3819.html
 slug: day-12-kibo-hut-uhuru-peak-day-5-of-kilimanjaro-part
 title: 'Day 12: Kibo Hut / Uhuru Peak (Day 5 of Kilimanjaro part)'
 wordpress_id: 3819
@@ -17,32 +16,13 @@ tags:
 
 
 
-## Wednesday, 2 October
-
-
-
-
-
-
+## Wednesday, 2 October (bla)
 
 Elevation: 4,703 m (Kibo Hut), alpine desert
 
-
-
-
-
-
-
 Today's hike was supposed to be 5h long to the Marangu route's basecamp at Kibo hut. Somewhere along the 11 kilometres we hiked we left the marshland and entered what could be best described as rocky desert, a lunar landscape that has been plonked down on top of an African mountain. 
 
-
-
-
-
-![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.51.resized.jpg)
-
-
-
+![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.51.resized.jpg)
 
 
 This is also where some in the group started to feel the altitude problems. First as just shortness of breath but then headaches and mild nausea. Just before getting to Kibo I started to get a headache but an Ibuprofen washed down with some iso-omeprazole did the trick. It was about 1.5 days into my start on the Diamox (Acetazolamide) treatment to minimise the effects of altitude sickness. By the time we reached Kibo I think all but one of us were on them tablets. 
@@ -85,39 +65,41 @@ The big push to the top was to be soon. Needless to say I didn't get much sleep.
 
 
 
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.23.17.resized.jpg)](https://mcdowell.si/?attachment_id=4569)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.23.47.resized.jpg)](https://mcdowell.si/?attachment_id=4570)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.23.59.resized.jpg)](https://mcdowell.si/?attachment_id=4571)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.24.53.resized.jpg)](https://mcdowell.si/?attachment_id=4572)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.41.00.resized.jpg)](https://mcdowell.si/?attachment_id=4573)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.41.06.resized.jpg)](https://mcdowell.si/?attachment_id=4574)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.41.08.resized.jpg)](https://mcdowell.si/?attachment_id=4575)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.41.10.resized.jpg)](https://mcdowell.si/?attachment_id=4576)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-06.41.13.resized.jpg)](https://mcdowell.si/?attachment_id=4577)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.26.10.resized.jpg)](https://mcdowell.si/?attachment_id=4578)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.26.17.resized.jpg)](https://mcdowell.si/?attachment_id=4579)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.27.26.resized.jpg)](https://mcdowell.si/?attachment_id=4580)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.27.37.resized.jpg)](https://mcdowell.si/?attachment_id=4581)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.27.38.resized.jpg)](https://mcdowell.si/?attachment_id=4582)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.28.50.resized.jpg)](https://mcdowell.si/?attachment_id=4583)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-08.32.39.resized.jpg)](https://mcdowell.si/?attachment_id=4584)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-09.24.28.resized.jpg)](https://mcdowell.si/?attachment_id=4585)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-10.50.07.resized.jpg)](https://mcdowell.si/?attachment_id=4586)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.10.20.resized.jpg)](https://mcdowell.si/?attachment_id=4587)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.10.24.resized.jpg)](https://mcdowell.si/?attachment_id=4588)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.14.02.resized.jpg)](https://mcdowell.si/?attachment_id=4589)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.14.22.resized.jpg)](https://mcdowell.si/?attachment_id=4590)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.14.33.resized.jpg)](https://mcdowell.si/?attachment_id=4591)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.50.resized.jpg)](https://mcdowell.si/?attachment_id=4592)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.51.resized-1.jpg)](https://mcdowell.si/?attachment_id=4593)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.53.resized.jpg)](https://mcdowell.si/?attachment_id=4594)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.54.resized.jpg)](https://mcdowell.si/?attachment_id=4595)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.55.resized.jpg)](https://mcdowell.si/?attachment_id=4596)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.32.57.resized.jpg)](https://mcdowell.si/?attachment_id=4597)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-11.33.04.resized.jpg)](https://mcdowell.si/?attachment_id=4598)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-12.50.36.resized.jpg)](https://mcdowell.si/?attachment_id=4599)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-13.13.22.resized.jpg)](https://mcdowell.si/?attachment_id=4600)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-14.22.16.resized.jpg)](https://mcdowell.si/?attachment_id=4601)
-  * [![](https://mcdowell.si/wp-content/uploads/2019/10/2019-10-02-14.30.11.resized.jpg)](https://mcdowell.si/?attachment_id=4602)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.23.17.resized.jpg)]
+
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.23.47.resized.jpg)](https://mcdowell.si/?attachment_id=4570)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.23.59.resized.jpg)](https://mcdowell.si/?attachment_id=4571)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.24.53.resized.jpg)](https://mcdowell.si/?attachment_id=4572)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.41.00.resized.jpg)](https://mcdowell.si/?attachment_id=4573)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.41.06.resized.jpg)](https://mcdowell.si/?attachment_id=4574)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.41.08.resized.jpg)](https://mcdowell.si/?attachment_id=4575)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.41.10.resized.jpg)](https://mcdowell.si/?attachment_id=4576)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-06.41.13.resized.jpg)](https://mcdowell.si/?attachment_id=4577)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.26.10.resized.jpg)](https://mcdowell.si/?attachment_id=4578)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.26.17.resized.jpg)](https://mcdowell.si/?attachment_id=4579)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.27.26.resized.jpg)](https://mcdowell.si/?attachment_id=4580)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.27.37.resized.jpg)](https://mcdowell.si/?attachment_id=4581)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.27.38.resized.jpg)](https://mcdowell.si/?attachment_id=4582)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.28.50.resized.jpg)](https://mcdowell.si/?attachment_id=4583)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-08.32.39.resized.jpg)](https://mcdowell.si/?attachment_id=4584)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-09.24.28.resized.jpg)](https://mcdowell.si/?attachment_id=4585)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-10.50.07.resized.jpg)](https://mcdowell.si/?attachment_id=4586)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.10.20.resized.jpg)](https://mcdowell.si/?attachment_id=4587)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.10.24.resized.jpg)](https://mcdowell.si/?attachment_id=4588)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.14.02.resized.jpg)](https://mcdowell.si/?attachment_id=4589)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.14.22.resized.jpg)](https://mcdowell.si/?attachment_id=4590)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.14.33.resized.jpg)](https://mcdowell.si/?attachment_id=4591)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.50.resized.jpg)](https://mcdowell.si/?attachment_id=4592)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.51.resized-1.jpg)](https://mcdowell.si/?attachment_id=4593)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.53.resized.jpg)](https://mcdowell.si/?attachment_id=4594)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.54.resized.jpg)](https://mcdowell.si/?attachment_id=4595)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.55.resized.jpg)](https://mcdowell.si/?attachment_id=4596)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.32.57.resized.jpg)](https://mcdowell.si/?attachment_id=4597)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-11.33.04.resized.jpg)](https://mcdowell.si/?attachment_id=4598)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-12.50.36.resized.jpg)](https://mcdowell.si/?attachment_id=4599)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-13.13.22.resized.jpg)](https://mcdowell.si/?attachment_id=4600)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-14.22.16.resized.jpg)](https://mcdowell.si/?attachment_id=4601)
+ [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-02-14.30.11.resized.jpg)](https://mcdowell.si/?attachment_id=4602)
 
 
+ (https://mcdowell.si/?attachment_id=4569)

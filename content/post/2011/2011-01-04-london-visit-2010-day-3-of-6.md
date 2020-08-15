@@ -13,13 +13,13 @@ tags:
 - London visit
 ---
 
-[caption id="attachment_1785" align="aligncenter" width="800"][![](https://mcdowell.si/wp-content/uploads/2011/01/Westminster_Hall-1.jpg)](https://mcdowell.si/wp-content/uploads/2011/01/Westminster_Hall.jpg) Westminster Hall[/caption]
+[caption id="attachment_1785" align="aligncenter" width="800"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/Westminster_Hall-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/Westminster_Hall.jpg) Westminster Hall[/caption]
 
 This was a Saturday and the big part of the day was dedicated to the [John Rutter](http://en.wikipedia.org/wiki/John_Rutter)'s Christmas Celebration at the [Royal Albert Hall](http://en.wikipedia.org/wiki/Royal_Albert_Hall). This was the second one I have attended and even though the last one I went to was last year it did not feel like a repeat from the previous year. The only difference was to be the [Christmas dinner](http://en.wikipedia.org/wiki/Christmas_dinner) I signed-up
 
 for that was to be held in the nearby [Imperial College](http://en.wikipedia.org/wiki/Imperial_College_London) dining hall. Now this was a BIG disappointment.
 
-[caption id="attachment_1784" align="alignleft" width="215"][![](https://mcdowell.si/wp-content/uploads/2011/01/clock_tower-1-215x300.jpg)](https://mcdowell.si/wp-content/uploads/2011/01/clock_tower.jpg) The Houses of Parliament clock tower[/caption]
+[caption id="attachment_1784" align="alignleft" width="215"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/clock_tower-1-215x300.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/clock_tower.jpg) The Houses of Parliament clock tower[/caption]
 
 Kind of sorry I missed the company Christmas dinner even more. The dinner itself was eat-able but who would want to eat their Christmas dinner you had to get yourself, then eat it on a plastic platter, on a table with no table-cloth in what could only be described as an average student canteen. Awful! Have you heard of the bankrupt Belgian airline [Sabena](http://en.wikipedia.org/wiki/Sabena) – well this was a Sabena moment meaning Such A Bloody Experience, Never Again. By the way the airline SAS has an unjustifiable connective abbreviation: Same As Sabena.
 

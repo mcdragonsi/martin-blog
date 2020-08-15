@@ -15,7 +15,7 @@ During my recent review of my RCVS membership information online I came upon the
 
 However then I came to the section "Third party use of data" with the text
 
-![rcvs_third_party_info_sharing](https://mcdowell.si/wp-content/uploads/2014/03/rcvs_third_party_info_sharing-1.png)
+![rcvs_third_party_info_sharing](https://dwlcvfkt1l4wn.cloudfront.net/2014/03/rcvs_third_party_info_sharing-1.png)
 
 
 <blockquote>The compulsory published information may be sold or supplied to third parties for non-statutory purposes (for example charitable or commercial use) and may be sent outside the European Economic Area.

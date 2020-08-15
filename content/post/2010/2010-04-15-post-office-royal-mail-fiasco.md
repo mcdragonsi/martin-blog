@@ -14,7 +14,7 @@ tags:
 - The Royal Mail
 ---
 
-[![](https://mcdowell.si/wp-content/uploads/2010/05/postal_cock-up1-1-150x150.jpg)](https://mcdowell.si/wp-content/uploads/2010/05/postal_cock-up1.jpg)I was sending a letter to Slovenia as I have done so, oh so many times through the local Post Office.
+[![](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/postal_cock-up1-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/05/postal_cock-up1.jpg)I was sending a letter to Slovenia as I have done so, oh so many times through the local Post Office.
 
 This time I was also returning a book to Amazon at the same time and I only later realised that I was given a »certificate of sending« for the book I was returning and not for the letter. I went back and received a hand-written "copy". OK, thought nothing of it and forgot all about it ...
 

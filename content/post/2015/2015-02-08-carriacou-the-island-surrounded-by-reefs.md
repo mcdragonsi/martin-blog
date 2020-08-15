@@ -11,7 +11,7 @@ categories:
 - Carriacou 2015
 ---
 
-[caption id="attachment_2966" align="aligncenter" width="660"]![Hillsborough](https://mcdowell.si/wp-content/uploads/2015/02/2015-01-30-15.27.19-1-1024x576.jpg) View of Hillsborough from the hospital in Belair[/caption]
+[caption id="attachment_2966" align="aligncenter" width="660"]![Hillsborough](https://dwlcvfkt1l4wn.cloudfront.net/2015/02/2015-01-30-15.27.19-1-1024x576.jpg) View of Hillsborough from the hospital in Belair[/caption]
 
 There are two public routes on and off the island. The Osprey ferry and the SVG flight. Now it seems to be an established fact that the ferry is a much more adventurous route meaning it is often a nausea inducing experience even for the more seasoned sea travellers. Anecdotally the trip to Carriacou is usually worse than the trip back. I managed to keep my stomach content down but it was touch and go for about half an hour.
 

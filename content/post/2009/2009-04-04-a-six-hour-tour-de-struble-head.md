@@ -24,7 +24,7 @@ tags:
 - walks
 ---
 
-[![The Strumble Head lighthouse](https://mcdowell.si/wp-content/uploads/2009/04/strumble_head_lighthouse1-1.jpg)](https://mcdowell.si/about/gallery?album=StrumbleHead)
+[![The Strumble Head lighthouse](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/strumble_head_lighthouse1-1.jpg)](https://mcdowell.si/about/gallery?album=StrumbleHead)
 
 
 This was the longest of the walks in the [book](http://www.amazon.co.uk/Walking-Pembrokeshire-Circular-National-Cicerone/dp/1852844310/ref=sr_11_1?ie=UTF8&qid=1237062996&sr=11-1) and a walk not to be reckoned with. It is long and by the end you just really want to see that lighthouse in the distance.
@@ -33,13 +33,13 @@ The authors say in the beginning of the walk »Although the longest of the walks
 
 However there is apossibility I brought the toughness of this trip on myself as I completely forgot to bring along something to drink ending-up being rather dehydrated by the end of the hike. There are no refreshments to be bought on the way, not even in the part that runs through [Goodwick](http://en.wikipedia.org/wiki/Goodwick) :-(
 
-[caption id="attachment_1162" align="alignright" width="150"]![St. Gwyndaf's church in Llanwnda](https://mcdowell.si/wp-content/uploads/2009/04/p4040023_smaller1-1-150x150.jpg) St. Gwyndaf's church in Llanwnda[/caption]
+[caption id="attachment_1162" align="alignright" width="150"]![St. Gwyndaf's church in Llanwnda](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/p4040023_smaller1-1-150x150.jpg) St. Gwyndaf's church in Llanwnda[/caption]
 
 A word of warning, in the first part of the walk as you leave the coastal path to start-up Garn Fawr it is a bit confusing as to where to turn. Do NOT continue on the paved lane. This will only end in tears - tears due to the realization you have to go back as you have gone the wrong way. There path signs is missing, well, I say missing. I found it hidden in the grass on the ground.
 
 I was also quite surprised to find an inscribed stone commemorating the [last invasion of Britain](http://en.wikipedia.org/wiki/Last_invasion_of_Britain) - by the French none-the-less in 1897 at Carregwastad Point. What were they doing here, we all know where France is, I presume they shot their navigator.
 
-[caption id="attachment_1159" align="aligncenter" width="500"][![Memorial stone on Carregwastad Point commemorating the landing of the French on 22 February 1797](https://mcdowell.si/wp-content/uploads/2009/04/carregwastad_point1-1.jpg)](https://mcdowell.si/about/gallery?album=StrumbleHead) Memorial stone on Carregwastad Point commemorating the landing of the French on 22 February 1797[/caption]
+[caption id="attachment_1159" align="aligncenter" width="500"][![Memorial stone on Carregwastad Point commemorating the landing of the French on 22 February 1797](https://dwlcvfkt1l4wn.cloudfront.net/2009/04/carregwastad_point1-1.jpg)](https://mcdowell.si/about/gallery?album=StrumbleHead) Memorial stone on Carregwastad Point commemorating the landing of the French on 22 February 1797[/caption]
 
 
 

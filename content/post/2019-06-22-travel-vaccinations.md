@@ -65,7 +65,7 @@ The diphtheria and Hepatitis A are actually covered by the NHS but I did   have 
 
 
 
-![Martin McDowell, Kilimanjaro 2019](https://mcdowell.si/wp-content/uploads/2019/03/martin-kili.ai_.svg_.png)
+![Martin McDowell, Kilimanjaro 2019](https://dwlcvfkt1l4wn.cloudfront.net/2019/03/martin-kili.ai_.svg_.png)
 
 
 
