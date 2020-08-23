@@ -50,12 +50,16 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/categories/Kilimanjaro-2019/"
-    weight = -105
 
   [[menu.main]]
-    name = "Remote Support"
+    name = "Bike trip round the USA 2013"
     post = ""
     pre = "<i class='fa fa-road'></i>"
-    url = "https://download.teamviewer.com/download/TeamViewerQS.exe"
-    weight = -100
+    url = "/categories/bike-trip-round-the-usa-2013/"
+    
+  [[menu.main]]
+    name = "Carriacou 2015"
+    post = ""
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/Carriacou-2015/"
 
