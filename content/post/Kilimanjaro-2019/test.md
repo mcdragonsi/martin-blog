@@ -5,6 +5,7 @@ date: 2020-07-25
 layout: post
 title: test
 wordpress_id: 3857
+draft: true
 
 categories:
 - Kilimanjaro 2019
