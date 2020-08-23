@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.mcdowell.si/about/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.mcdowell.si/categories/</loc>
     <lastmod>2019-10-02T19:00:28+00:00</lastmod>
   </url>
@@ -345,11 +350,6 @@
   <url>
     <loc>https://blog.mcdowell.si/post/2014/luggage-fubar-riding-a-motorcycle/</loc>
     <lastmod>2014-11-03T17:27:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.mcdowell.si/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

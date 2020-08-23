@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>About me</title>
+      <link>https://blog.mcdowell.si/about/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/about/</guid>
+      <description>My name is Martin and I started this blog in about 2006. The OK Go post was my very first. It was on Google&amp;rsquo;s platform Blogger. I then migrated to Wordpress on different service providers: Bluehost, Webhosting UK and OVH. I finally broke free of Worpdress and moved to a static website platform. The static files are hosted on Amazon S3 and the domain managed by Cloudflare.</description>
+    </item>
+    
+    <item>
       <title>Day 12: Kibo Hut / Uhuru Peak (Day 5 of Kilimanjaro part)</title>
       <link>https://blog.mcdowell.si/post/kilimanjaro-2019/day-12-kibo-hut-uhuru-peak-day-5-of-kilimanjaro-part/</link>
       <pubDate>Wed, 02 Oct 2019 19:00:28 +0000</pubDate>
@@ -458,19 +467,6 @@ I have put over £1,000 towards the trip but the CAH, WVS and I are also looking
       
       <guid>https://blog.mcdowell.si/post/2014/luggage-fubar-riding-a-motorcycle/</guid>
       <description>Had a great trip to the Algarve recently and rented a Honda Shadow motorcycle for a week. On one of the last few days of my stay there I planned a trip to the south-western tip of Portugal - Cabo de São Vicente and Sagres. However all did not go well from my start in Albufeira. As I knew I was going to be on the road for at least an hour, perhaps 1.</description>
-    </item>
-    
-    <item>
-      <title>About Hugo</title>
-      <link>https://blog.mcdowell.si/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra  Viper  J Walter Weatherman  Cast   Learn more and contribute on GitHub .
-Setup Some fun facts about Hugo :
- Built in Go  Loosely inspired by Jekyll  Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim   Have questions or suggestions?</description>
     </item>
     
     <item>
