@@ -24,6 +24,8 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
 
 [Params.logo]
   subtitle = "From a Slovenian living in Herefordshire" # Logo subtitle
+  image = "img/Martin-kili2.jpg"
+  title = "Martin's Blog"
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
