@@ -38,28 +38,37 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
   
 [menu]
 
-  [[menu.main]]
+ [[menu.main]]
     identifier = "home"
     name = "Home"
     pre = "<i class='fa fa-heart'></i>"
     url = "/"
-    weight = -110
-
-  [[menu.main]]
+    weight = -500
+    
+ [[menu.main]]
     name = "Kilimanjaro 2019"
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/categories/Kilimanjaro-2019/"
+    weight = -400
+    
+ [[menu.main]]
+    name = "About me"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -100
 
   [[menu.main]]
     name = "Bike trip round the USA 2013"
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/categories/bike-trip-round-the-usa-2013/"
+    weight = -200
     
   [[menu.main]]
     name = "Carriacou 2015"
     post = ""
     pre = "<i class='fa fa-road'></i>"
     url = "/categories/Carriacou-2015/"
+    weight = -300
 
