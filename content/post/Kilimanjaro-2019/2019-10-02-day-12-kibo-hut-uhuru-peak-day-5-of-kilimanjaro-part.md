@@ -16,7 +16,7 @@ tags:
 
 
 
-## Wednesday, 2 October (bla)
+## Wednesday, 2 October
 
 Elevation: 4,703 m (Kibo Hut), alpine desert
 
