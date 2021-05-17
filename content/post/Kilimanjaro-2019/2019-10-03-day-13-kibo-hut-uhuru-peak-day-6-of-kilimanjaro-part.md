@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-comments: true
+comments: false
 date: 2019-10-03T19:00:28.000+00:00
 layout: post
 slug: day-13-kibo-hut-uhuru-peak-day-6-of-kilimanjaro-part
@@ -39,4 +39,4 @@ At the second stop, well i think it was the second stop, I was started to loose 
 
 Somehow I found myself reaching the Gilman's point. For the route we were taking this was the first big landmark at the top of the Kilimanjaro crater. The larger part of the group that was ahead of me christened it "Kill me now point" which I found hysterical. Around that time I found that I was the last in the group as two behind me had to return back to Kibo. By the time I reached Gilman's point it was starting to get lighter and I could see the surroundings and the valley below. The rest of the way was mostly flat with a lovely undulating path around the edge of the crater. Just at the last section the path steepened slightly.
 
-Because of the low O2 in the air my brain also wasn't working very well and I had difficulty making decisions. I had to completely give in to the decisions of the excellent guides we had from Intrepid. If it wasn't for them I was not have made it past that point and eventually, to the top. 
+Because of the low O2 in the air my brain also wasn't working very well and I had difficulty making decisions. I had to completely give in to the decisions of the excellent guides we had from Intrepid. If it wasn't for them I was not have made it past that point and eventually, to the top.
