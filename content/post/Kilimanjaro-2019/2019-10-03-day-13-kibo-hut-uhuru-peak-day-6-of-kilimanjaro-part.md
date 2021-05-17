@@ -2,6 +2,7 @@
 author: mcdragon
 comments: false
 date: 2019-10-03T19:00:28.000+00:00
+thumbnail: "img/placeholder.png"
 layout: post
 slug: day-13-kibo-hut-uhuru-peak-day-6-of-kilimanjaro-part
 title: 'Day 13: Uhuru Peak / Horombo Hut (Day 6 of Kilimanjaro part)'
