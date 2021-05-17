@@ -42,3 +42,5 @@ Somehow I found myself reaching the Gilman's point. For the route we were taking
 Because of the low O2 in the air my brain also wasn't working very well and I had difficulty making decisions. I had to completely give in to the decisions of the excellent guides we had from Intrepid. If it wasn't for them I was not have made it past that point and eventually, to the top.
 
 ![](https://s3.eu-west-2.amazonaws.com/img.mcdowell.si/2019/10/2019-10-03+07.32.08.resized.jpg)
+
+![](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg)
