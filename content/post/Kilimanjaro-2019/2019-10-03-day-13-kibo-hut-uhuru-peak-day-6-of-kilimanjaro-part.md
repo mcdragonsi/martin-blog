@@ -27,4 +27,4 @@ Our lead guide took us through what would happen the following day. I am sure he
 
 We had a wake up call in a form of a shout from one of the guides. We had something to eat and drink and then had about an hour to get ready. We were to carry only the stuff we would need for that day, the rest staid in the Kibo hut.
 
-![](https://img.mcdowell.si/2019/10/2019-10-02-11.14.02.resized.jpg)
+![Me with Mt Mawenzi behind me](https://img.mcdowell.si/2019/10/2019-10-02-11.14.02.resized.jpg "Me with Mt Mawenzi behind me")
