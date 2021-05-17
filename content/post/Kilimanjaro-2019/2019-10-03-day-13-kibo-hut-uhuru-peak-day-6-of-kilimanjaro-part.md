@@ -28,3 +28,7 @@ Our lead guide took us through what would happen the following day. I am sure he
 We had a wake up call in a form of a shout from one of the guides. We had something to eat and drink and then had about an hour to get ready. We were to carry only the stuff we would need for that day, the rest staid in the Kibo hut.
 
 ![Me with Mt Mawenzi behind me](https://img.mcdowell.si/2019/10/2019-10-02-11.14.02.resized.jpg "Me with Mt Mawenzi behind me")
+
+We set off all kitted up, middle of the night and the only lights visible were the millions of stars and our head torches. You could see all the other groups heading up the hill in small groups as the light from their torches slowly made their way in a zig-zag way up the scree. 
+
+Slowly but surely I was starting to feel the cold and the lack of oxygen getting into my body. I could see how every move became an effort. We stopped at one point and the guides gave us ginger tea. Something I never had in the past and not had since then. Besides water it was the only thing I could stomach as the altitude issues also brought on nausea. 
