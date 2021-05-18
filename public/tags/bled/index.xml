@@ -6,7 +6,11 @@
     <description>Recent content in Bled on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2010 12:06:43 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/bled/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jul 2010 12:06:43 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/bled/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Blejski vintgar, Pokljuka, Pohorje and other Slovenian gems</title>
       <link>https://blog.mcdowell.si/post/2010/blejski-vintgar-pokljuka-pohorje-and-other-slovenian-gems/</link>

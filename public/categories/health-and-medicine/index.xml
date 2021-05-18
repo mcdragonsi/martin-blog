@@ -6,7 +6,11 @@
     <description>Recent content in Health and medicine on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Sep 2012 21:33:19 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/categories/health-and-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Sep 2012 21:33:19 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/categories/health-and-medicine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>My latest cat bite</title>
       <link>https://blog.mcdowell.si/post/2012/my-latest-cat-bite/</link>

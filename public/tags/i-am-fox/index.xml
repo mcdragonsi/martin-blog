@@ -6,7 +6,11 @@
     <description>Recent content in I am Fox on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2015 14:43:17 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/i-am-fox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2015 14:43:17 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/i-am-fox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>I am Fox</title>
       <link>https://blog.mcdowell.si/post/2015/i-am-fox/</link>

@@ -6,7 +6,11 @@
     <description>Recent content in Upper Carniola on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jun 2011 19:00:18 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/upper-carniola/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2011 19:00:18 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/upper-carniola/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>The Savica falls and Lake Bohinj</title>
       <link>https://blog.mcdowell.si/post/2011/the-savica-falls-and-lake-bohinj/</link>

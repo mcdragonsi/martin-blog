@@ -6,7 +6,11 @@
     <description>Recent content in Tags on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2019 19:00:28 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Oct 2019 19:00:28 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Bromyard</title>
       <link>https://blog.mcdowell.si/tags/bromyard/</link>
@@ -67,6 +71,15 @@
       <pubDate>Sat, 26 May 2018 13:14:23 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/cresswell-quay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://blog.mcdowell.si/tags/law/</link>
+      <pubDate>Sat, 26 May 2018 13:14:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/law/</guid>
       <description></description>
     </item>
     
@@ -287,6 +300,15 @@
     </item>
     
     <item>
+      <title>Pet</title>
+      <link>https://blog.mcdowell.si/tags/pet/</link>
+      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/pet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>pet travel scheme</title>
       <link>https://blog.mcdowell.si/tags/pet-travel-scheme/</link>
       <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
@@ -418,6 +440,15 @@
       <pubDate>Tue, 31 May 2011 16:47:01 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/paypal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>https://blog.mcdowell.si/tags/london/</link>
+      <pubDate>Tue, 04 Jan 2011 17:59:54 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/london/</guid>
       <description></description>
     </item>
     
@@ -557,6 +588,24 @@
     </item>
     
     <item>
+      <title>snow</title>
+      <link>https://blog.mcdowell.si/tags/snow/</link>
+      <pubDate>Tue, 22 Jun 2010 19:00:44 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snowdon</title>
+      <link>https://blog.mcdowell.si/tags/snowdon/</link>
+      <pubDate>Tue, 22 Jun 2010 19:00:44 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/snowdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Snowdonia</title>
       <link>https://blog.mcdowell.si/tags/snowdonia/</link>
       <pubDate>Tue, 22 Jun 2010 19:00:44 +0000</pubDate>
@@ -580,6 +629,15 @@
       <pubDate>Fri, 21 May 2010 20:00:23 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/powys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recreation</title>
+      <link>https://blog.mcdowell.si/tags/recreation/</link>
+      <pubDate>Fri, 21 May 2010 20:00:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/recreation/</guid>
       <description></description>
     </item>
     
@@ -656,6 +714,15 @@
     </item>
     
     <item>
+      <title>Dog</title>
+      <link>https://blog.mcdowell.si/tags/dog/</link>
+      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/dog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dogs</title>
       <link>https://blog.mcdowell.si/tags/dogs/</link>
       <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
@@ -715,6 +782,15 @@
       <pubDate>Thu, 15 Apr 2010 13:02:06 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/the-royal-mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://blog.mcdowell.si/tags/travel/</link>
+      <pubDate>Thu, 08 Apr 2010 22:13:04 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/travel/</guid>
       <description></description>
     </item>
     
@@ -836,15 +912,6 @@
     </item>
     
     <item>
-      <title>Recreation</title>
-      <link>https://blog.mcdowell.si/tags/recreation/</link>
-      <pubDate>Sun, 21 Feb 2010 18:36:40 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/recreation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sport</title>
       <link>https://blog.mcdowell.si/tags/sport/</link>
       <pubDate>Sun, 21 Feb 2010 18:36:40 +0000</pubDate>
@@ -913,6 +980,15 @@
       <pubDate>Sat, 02 Jan 2010 21:52:22 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/preseli-hills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBC</title>
+      <link>https://blog.mcdowell.si/tags/bbc/</link>
+      <pubDate>Wed, 23 Dec 2009 09:20:03 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/bbc/</guid>
       <description></description>
     </item>
     
@@ -1007,15 +1083,6 @@
     </item>
     
     <item>
-      <title>London</title>
-      <link>https://blog.mcdowell.si/tags/london/</link>
-      <pubDate>Mon, 14 Dec 2009 19:33:51 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>London Eye</title>
       <link>https://blog.mcdowell.si/tags/london-eye/</link>
       <pubDate>Mon, 14 Dec 2009 19:33:51 +0000</pubDate>
@@ -1106,11 +1173,11 @@
     </item>
     
     <item>
-      <title>Law</title>
-      <link>https://blog.mcdowell.si/tags/law/</link>
+      <title>dr.vet.med.</title>
+      <link>https://blog.mcdowell.si/tags/dr.vet.med./</link>
       <pubDate>Thu, 12 Nov 2009 10:00:48 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/law/</guid>
+      <guid>https://blog.mcdowell.si/tags/dr.vet.med./</guid>
       <description></description>
     </item>
     
@@ -1457,20 +1524,11 @@
     </item>
     
     <item>
-      <title>Snowdon</title>
-      <link>https://blog.mcdowell.si/tags/snowdon/</link>
-      <pubDate>Thu, 11 Jun 2009 09:56:12 +0000</pubDate>
+      <title>Film</title>
+      <link>https://blog.mcdowell.si/tags/film/</link>
+      <pubDate>Wed, 10 Jun 2009 06:55:52 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/snowdon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://blog.mcdowell.si/tags/travel/</link>
-      <pubDate>Thu, 11 Jun 2009 09:56:12 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/travel/</guid>
+      <guid>https://blog.mcdowell.si/tags/film/</guid>
       <description></description>
     </item>
     
@@ -1529,6 +1587,15 @@
     </item>
     
     <item>
+      <title>UK</title>
+      <link>https://blog.mcdowell.si/tags/uk/</link>
+      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/uk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UK Independence</title>
       <link>https://blog.mcdowell.si/tags/uk-independence/</link>
       <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
@@ -1538,20 +1605,20 @@
     </item>
     
     <item>
+      <title>United Kingdom</title>
+      <link>https://blog.mcdowell.si/tags/united-kingdom/</link>
+      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/united-kingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>United Kingdom Independence Party</title>
       <link>https://blog.mcdowell.si/tags/united-kingdom-independence-party/</link>
       <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/united-kingdom-independence-party/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Film</title>
-      <link>https://blog.mcdowell.si/tags/film/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/film/</guid>
       <description></description>
     </item>
     
@@ -1579,15 +1646,6 @@
       <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United Kingdom</title>
-      <link>https://blog.mcdowell.si/tags/united-kingdom/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/united-kingdom/</guid>
       <description></description>
     </item>
     
@@ -1624,15 +1682,6 @@
       <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/petroleum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UK</title>
-      <link>https://blog.mcdowell.si/tags/uk/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/uk/</guid>
       <description></description>
     </item>
     
@@ -1822,15 +1871,6 @@
       <pubDate>Mon, 09 Feb 2009 21:20:01 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/puncheston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>snow</title>
-      <link>https://blog.mcdowell.si/tags/snow/</link>
-      <pubDate>Mon, 09 Feb 2009 21:20:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/snow/</guid>
       <description></description>
     </item>
     
@@ -2177,15 +2217,6 @@
     </item>
     
     <item>
-      <title>BBC</title>
-      <link>https://blog.mcdowell.si/tags/bbc/</link>
-      <pubDate>Tue, 07 Oct 2008 16:22:49 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/bbc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Daytona Beach</title>
       <link>https://blog.mcdowell.si/tags/daytona-beach/</link>
       <pubDate>Tue, 07 Oct 2008 16:22:49 +0000</pubDate>
@@ -2438,11 +2469,11 @@
     </item>
     
     <item>
-      <title>Dog</title>
-      <link>https://blog.mcdowell.si/tags/dog/</link>
+      <title>PD</title>
+      <link>https://blog.mcdowell.si/tags/pd/</link>
       <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/dog/</guid>
+      <guid>https://blog.mcdowell.si/tags/pd/</guid>
       <description></description>
     </item>
     
@@ -2461,15 +2492,6 @@
       <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/peoples-dispensary-for-sick-animals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pet</title>
-      <link>https://blog.mcdowell.si/tags/pet/</link>
-      <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pet/</guid>
       <description></description>
     </item>
     
@@ -2663,15 +2685,6 @@
     </item>
     
     <item>
-      <title>PD</title>
-      <link>https://blog.mcdowell.si/tags/pd/</link>
-      <pubDate>Wed, 14 Mar 2007 13:50:00 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ProTrack</title>
       <link>https://blog.mcdowell.si/tags/protrack/</link>
       <pubDate>Wed, 14 Mar 2007 13:50:00 +0000</pubDate>
@@ -2695,15 +2708,6 @@
       <pubDate>Fri, 01 Dec 2006 19:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/curry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dr.vet.med.</title>
-      <link>https://blog.mcdowell.si/tags/dr.vet.med./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/dr.vet.med./</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,11 @@
     <description>Recent content in Castle on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2009 20:38:47 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/castle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Mar 2009 20:38:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/castle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Llawhaden castle and the Eastern Cleddau</title>
       <link>https://blog.mcdowell.si/post/2009/llawhaden-castle-and-the-eastern-cleddau/</link>
