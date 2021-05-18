@@ -11,7 +11,6 @@ categories:
 tags:
 - Nairobi
 - Bromyard
-draft: true
 
 ---
 ## Saturday, October 5th
