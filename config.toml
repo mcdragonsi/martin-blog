@@ -22,6 +22,8 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   copyright = "Martin McDowell" # Footer copyright holder, otherwise will use site title
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
 
 [Params.logo]
   subtitle = "From a Slovenian living in Herefordshire" # Logo subtitle

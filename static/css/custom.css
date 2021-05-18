@@ -1,0 +1,14 @@
+.logo__title {
+    font-size: 32px;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #3a4d5c;
+    font-family: 'Ubuntu';
+}
+
+.menu__btn,
+.menu__list {
+    background: #3a4d5c;
+}
+
