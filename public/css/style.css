@@ -420,10 +420,7 @@ select {
 	font-size: 2rem;
 	font-weight: 700;
 	line-height: 1;
-	#color: #000;
-	#color:#6786a1;
-	color:#3a4d5c;
-	font-family: 'Ubuntu';
+	color: #000;
 }
 
 .logo__tagline {
@@ -455,8 +452,8 @@ select {
 	width: 100%;
 	padding: 0;
 	font: inherit;
-	color: #000000;
-	background: #D38412;
+	color: #fff;
+	background: #2a2a2a;
 	border: 0;
 	outline: 0;
 }
@@ -496,8 +493,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .menu__list {
 	list-style: none;
-	#background: #2a2a2a;
-	background: #3a4d5c;
+	background: #2a2a2a;
 }
 
 .menu__item:hover {
@@ -870,6 +866,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	margin-bottom: .625rem;
 }
 
+.list__title {
+	font-size: 20px;
+	font-size: 1.25rem;
+}
+
 .list__meta {
 	margin-top: 5px;
 }
@@ -1067,6 +1068,16 @@ textarea {
 
 .widget__item:first-child {
 	padding-top: 0;
+}
+
+.widget__counter--bubble {
+	display: inline-block;
+	padding: 0 6px;
+	font-size: .75rem;
+	color: #666;
+	text-align: center;
+	background: #ebebeb;
+	border-radius: 2em;
 }
 
 /* Search widget */
