@@ -28,7 +28,7 @@ Our lead guide took us through what would happen the following day. I am sure he
 
 We had a wake up call in a form of a shout from one of the guides. We had something to eat and drink and then had about an hour to get ready. We were to carry only the stuff we would need for that day, the rest staid in the Kibo hut.
 
-![](https://s3.eu-west-2.amazonaws.com/img.mcdowell.si/2019/10/2019-10-02-11.14.02.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-02-11.14.02.resized.jpg)
 
 We set off all kitted up, middle of the night and the only lights visible were the millions of stars and our head torches. You could see all the other groups heading up the hill in small groups as the light from their torches slowly made their way in a zig-zag way up the scree.
 
@@ -42,6 +42,6 @@ Somehow I found myself reaching the Gilman's point. For the route we were taking
 
 Because of the low O2 in the air my brain also wasn't working very well and I had difficulty making decisions. I had to completely give in to the decisions of the excellent guides we had from Intrepid. If it wasn't for them I was not have made it past that point and eventually, to the top.
 
-![](https://s3.eu-west-2.amazonaws.com/img.mcdowell.si/2019/10/2019-10-03+07.32.08.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-03+07.32.08.resized.jpg)
 
 ![](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg)
