@@ -18,7 +18,7 @@ tags:
 - Travel
 ---
 
-[caption id="attachment_639" align="aligncenter" width="500"][![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/bristol_cathedral1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/bristol_cathedral1.jpg) The photo of Bristol Cathedral chosen for the fifth edition of the Schmap Bristol Guide[/caption]
+[caption id="attachment_639" align="aligncenter" width="500"][![](https://img.mcdowell.si/2008/08/bristol_cathedral1-1.jpg)](https://img.mcdowell.si/2008/08/bristol_cathedral1.jpg) The photo of Bristol Cathedral chosen for the fifth edition of the Schmap Bristol Guide[/caption]
 
 
 I received a mail today from an on-line publisher of digital travel guides called [Schmap](http://www.schmap.com/) that my photo of Bristol Cathedral was chosen to be included in the fifth edition of the [Schmap Bristol Guide](http://www.schmap.com/bristol/home).

@@ -12,7 +12,7 @@ categories:
 - Motorcycling
 ---
 
-[caption id="attachment_2427" align="alignnone" width="600"]![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130606_110608-1.jpg) Outside Countryside Harley Davidson[/caption]
+[caption id="attachment_2427" align="alignnone" width="600"]![](https://img.mcdowell.si/2013/06/wpid-20130606_110608-1.jpg) Outside Countryside Harley Davidson[/caption]
 
 Not a very good start - lots of rain. Got picked-up in the morning and met this interesting guy who was doing the driving.
 My arrival at Countryside Harley Davidson was followed by the various paperwork and then it was time to meet the bike. The Electra glide was my second choice and the Heritage Softail Classic my first and the Heritage was what I got. Used the little carpark nearby to get a better handle on the bike. It seems much lighter than the Honda Pan European despite it actually being much heavier.
@@ -21,8 +21,8 @@ Some of the controls are different like the indicators but I like it ... big chu
 
 I did find something quite scary in the traffic here. Their massive big juntions and especially doing a left turn in their massive big junctions. Good to keep you wits about you and it does help to have all my lights on so I am lit up as a Christmas tree ;-)
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130606_102321-1.jpg)
+![](https://img.mcdowell.si/2013/06/wpid-20130606_102321-1.jpg)
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130606_102313-1.jpg)
+![](https://img.mcdowell.si/2013/06/wpid-20130606_102313-1.jpg)
 
 

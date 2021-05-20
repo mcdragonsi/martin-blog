@@ -18,11 +18,11 @@ tags:
 - Pembrokeshire
 ---
 
-[caption id="attachment_1558" align="aligncenter" width="500"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/hwest_on_gstreetview1-1.png)](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/hwest_on_gstreetview1.png) Taken from Google StreetView[/caption]
+[caption id="attachment_1558" align="aligncenter" width="500"][![](https://img.mcdowell.si/2010/03/hwest_on_gstreetview1-1.png)](https://img.mcdowell.si/2010/03/hwest_on_gstreetview1.png) Taken from Google StreetView[/caption]
 
 Google StreetView's coverage has been extended to about 90% of the country and that now includes [Haverfordwest](http://en.wikipedia.org/wiki/Haverfordwest) and [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire). The images are pretty high quality. I have heard there is a bit of an anomaly with the High Street in Pembroke Dock as part of it was filmed in once season and the other part in another, with Christmas decorations still visible.
 
-[caption id="attachment_1559" align="aligncenter" width="500"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/pembs_on_gstreetview1-1.png)](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/pembs_on_gstreetview1.png) Taken from Google StreetView[/caption]
+[caption id="attachment_1559" align="aligncenter" width="500"][![](https://img.mcdowell.si/2010/03/pembs_on_gstreetview1-1.png)](https://img.mcdowell.si/2010/03/pembs_on_gstreetview1.png) Taken from Google StreetView[/caption]
 
 As I did and most of the people I showed this to, also did, we went and had a look where we live and where we used to live. So go on, knock yourself out.
 

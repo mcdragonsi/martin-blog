@@ -11,7 +11,7 @@ categories:
 - Trips and outings
 ---
 
-[![Lancashire dirt storm](https://dwlcvfkt1l4wn.cloudfront.net/2013/04/dirt_storm_17_Apr_2013-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2013/04/dirt_storm_17_Apr_2013.jpg)
+[![Lancashire dirt storm](https://img.mcdowell.si/2013/04/dirt_storm_17_Apr_2013-1.jpg)](https://img.mcdowell.si/2013/04/dirt_storm_17_Apr_2013.jpg)
 
 This was definitely a first. Not only have I ever seen this meteorological phenomenon, I was never expecting to see it in the UK - the country known for its wet climate.
 

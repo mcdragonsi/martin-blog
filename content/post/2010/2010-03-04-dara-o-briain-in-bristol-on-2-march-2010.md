@@ -18,7 +18,7 @@ tags:
 - Theatre
 ---
 
-[caption id="attachment_1552" align="alignright" width="221"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/dara_obriain1-1-221x300.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/03/dara_obriain1.jpg) Photo: The Sun[/caption]
+[caption id="attachment_1552" align="alignright" width="221"][![](https://img.mcdowell.si/2010/03/dara_obriain1-1-221x300.jpg)](https://img.mcdowell.si/2010/03/dara_obriain1.jpg) Photo: The Sun[/caption]
 
 This was the first time I have gone to a headlining stand-up comedy show. The one in the comedy store in London was similar in ways very very different. This was in a proper theatre and there was no intimidation or any kind of boo-ing coming from the crowd. In fact there was a fare bit of very well humoured picking of certain members of the crowd from Dara's side.
 

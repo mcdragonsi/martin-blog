@@ -23,7 +23,7 @@ I had to bite the bullet and try finding some good boots that will last me for t
 
 
 
-[![Martin McDowell, Kilimanjaro 2019](https://dwlcvfkt1l4wn.cloudfront.net/2019/03/martin-kili.ai_.svg_.png)](https://mcdowell.si/climbing-mount-kilimanjaro-the-start-of-the-adventure-3594.html/martin-kili-ai-svg)
+[![Martin McDowell, Kilimanjaro 2019](https://img.mcdowell.si/2019/03/martin-kili.ai_.svg_.png)](https://mcdowell.si/climbing-mount-kilimanjaro-the-start-of-the-adventure-3594.html/martin-kili-ai-svg)
 
 
 
@@ -45,7 +45,7 @@ After some thorough measurements of my feet and a discussion with the assistant 
 
 
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-26-10.58.27-1024x576.jpg)](https://mcdowell.si/?attachment_id=3699)Meindl Meran GTX
+[![](https://img.mcdowell.si/2019/05/2019-05-26-10.58.27-1024x576.jpg)](https://mcdowell.si/?attachment_id=3699)Meindl Meran GTX
 
 
 
@@ -69,7 +69,7 @@ Tried the new boots out this week, just walking round the house but that is just
 
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-25-14.04.05-576x1024.jpg)Just a pretty flower that seems to be in bloom all over the Malverns
+![](https://img.mcdowell.si/2019/05/2019-05-25-14.04.05-576x1024.jpg)Just a pretty flower that seems to be in bloom all over the Malverns
 
 
 

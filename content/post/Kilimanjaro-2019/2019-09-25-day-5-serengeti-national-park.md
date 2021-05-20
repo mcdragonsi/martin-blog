@@ -17,9 +17,9 @@ What a night! Sleeping in the tent and surrounded by sounds of the Serengeti wil
 
 After breakfast we set off on the safari proper and saw loads. I know some get to see more than we did and some can see less but if you stick around long enough you are sure to see at least a few animals. Zebras, giraffes and antilopes are almost a given. We also saw several lions, elephants, hippopotami and even a leopard print resting in a tree. By the way that is the most common way to see them. 
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190925_104831.jpg)]
+[![](https://img.mcdowell.si/2019/09/IMG_20190925_104831.jpg)]
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190925_071205.jpg)]
+[![](https://img.mcdowell.si/2019/09/IMG_20190925_071205.jpg)]
 
 We encountered lionesses crossing the road in front of us, we saw a different group of lions stalk a water buffalo. They didn't end up attacking it though. We saw a baby elephant walking with the rest of its family. 😍
 
@@ -33,41 +33,41 @@ One of the things worth mentioning is the camp we stayed in while in Serengeti n
 
 In fact as I write these lines in the dark tent, only illuminated by the glow of my trusty OnePlus mobile phone I can here the rhythmic sounds of raindrops hitting my tent and the slightly disconcerting cries of hienas not that far from me.
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-06.33.59.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-07.08.00.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-07.12.08.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-10.48.02.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-10.48.05.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-10.48.29.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-25-13.46.05.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3053.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3055.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3064.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3071.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3075.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3076.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3077.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3079.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3082.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3095.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3112.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3122.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3126.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3127.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3130.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3131.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3133.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3134.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3136.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3139.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3142.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3143.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3155.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3156.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3170.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3242.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3251.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3253.resized.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3258.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-06.33.59.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-07.08.00.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-07.12.08.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-10.48.02.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-10.48.05.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-10.48.29.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-25-13.46.05.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3053.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3055.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3064.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3071.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3075.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3076.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3077.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3079.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3082.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3095.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3112.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3122.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3126.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3127.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3130.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3131.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3133.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3134.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3136.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3139.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3142.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3143.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3155.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3156.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3170.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3242.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3251.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3253.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3258.resized.jpg)
 
 

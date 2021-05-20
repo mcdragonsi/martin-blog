@@ -22,18 +22,18 @@ The tents we had are not one of you super light modern and sometimes flimsy type
 
 After packing the tents we had breakfast and then cleaned the place. The road from the Naabi hill gate to the actual border of the park was horrendous. I wander if Herefordshire council gets tips from Tanzania on how to maintain their roads 😂😂
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190926_150232.jpg)
+![](https://img.mcdowell.si/2019/09/IMG_20190926_150232.jpg)
 
 ## The breakdown
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190926_150302.jpg)
+![](https://img.mcdowell.si/2019/09/IMG_20190926_150302.jpg)
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190926_150213.jpg)
+![](https://img.mcdowell.si/2019/09/IMG_20190926_150213.jpg)
 
 Just as we started to ascend towards the Ngorongoro crater the truck came to a halt. Engine overheating. After topping it up with cold water we continued but about a kilometre up the road the same thing happened. 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_20190926_152826.jpg)
+![](https://img.mcdowell.si/2019/09/IMG_20190926_152826.jpg)
 
 
 
@@ -41,18 +41,10 @@ Just as we started to ascend towards the Ngorongoro crater the truck came to a h
 
 This time the guys did a bigger job of some kind and managed to get us to Ngorongoro. 
 
-
-
-
-
-
-
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-26-08.57.56.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/2019-09-26-08-57-56-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-12-21.32.18.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/2019-10-12-21-32-18-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-10-12-21.33.09.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/2019-10-12-21-33-09-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3264.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/img_3264-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3267.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/img_3267-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3285.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/img_3285-resized)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_3288.resized.jpg)](https://mcdowell.si/day-6-ngorongoro-crater-3807.html/img_3288-resized)
-
-
+  [![](https://img.mcdowell.si/2019/10/2019-09-26-08.57.56.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/2019-10-12-21.32.18.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/2019-10-12-21.33.09.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/IMG_3264.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/IMG_3267.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/IMG_3285.resized.jpg)]
+  [![](https://img.mcdowell.si/2019/10/IMG_3288.resized.jpg)]

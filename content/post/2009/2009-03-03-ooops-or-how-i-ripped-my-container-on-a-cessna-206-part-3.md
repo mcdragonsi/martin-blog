@@ -22,8 +22,8 @@ The container was repaired free of charge which is a big plus for Aerodyne even 
 
 But there is a problem which I won't follow-up on. There is a small discrepancy with the logo which was on the flap that had to be replaced.
 
-[caption id="attachment_803" align="aligncenter" width="800"]![Before the repair (08-Nov-2008)](https://dwlcvfkt1l4wn.cloudfront.net/2008/11/pa1900221-1.jpg) Before the repair (08-Nov-2008)[/caption]
+[caption id="attachment_803" align="aligncenter" width="800"]![Before the repair (08-Nov-2008)](https://img.mcdowell.si/2008/11/pa1900221-1.jpg) Before the repair (08-Nov-2008)[/caption]
 
-[caption id="attachment_1052" align="aligncenter" width="500"]![After the repair](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/img_0017_smaller1-1.jpg) After the repair (03-Mar-2009)[/caption]
+[caption id="attachment_1052" align="aligncenter" width="500"]![After the repair](https://img.mcdowell.si/2009/03/img_0017_smaller1-1.jpg) After the repair (03-Mar-2009)[/caption]
 
 The blue colour of the arrow pointing down is not the navy blue colour it was before.

@@ -24,7 +24,7 @@ tags:
 - Wales
 ---
 
-[![Welsh Assembly Government](https://dwlcvfkt1l4wn.cloudfront.net/2010/04/welsh_assembly_government1-1.gif)](https://dwlcvfkt1l4wn.cloudfront.net/2010/04/welsh_assembly_government1.gif)V sredo, 24. marca 2010 je v Walesu v veljavo stopil pravilnik [Valežanske Skupščinske Vlade (Welsh Assembly Government)](http://wales.gov.uk/), ki prepoveduje uporabo elektronskih (električnih) ovratnikov pri psih in mačkah.
+[![Welsh Assembly Government](https://img.mcdowell.si/2010/04/welsh_assembly_government1-1.gif)](https://img.mcdowell.si/2010/04/welsh_assembly_government1.gif)V sredo, 24. marca 2010 je v Walesu v veljavo stopil pravilnik [Valežanske Skupščinske Vlade (Welsh Assembly Government)](http://wales.gov.uk/), ki prepoveduje uporabo elektronskih (električnih) ovratnikov pri psih in mačkah.
 
 Ti ovratniki se v večini primerov uporabljajo za odpravljanje neželenih vedenjskih navad pri psih. V skupščinski debati so utemeljili pravilnik s tem, da so ti ovratniki nepotrebno mučenje živali in pogosto ostanejo orodje lenih in brezbrižnih lastnikov, ki ne znajo odpravljati neželenih navad pri svojih hišnih ljubljencih na noben drug način.
 

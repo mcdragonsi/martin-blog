@@ -9,7 +9,7 @@ title: Eksplozija v rafineriji Chevron
 wordpress_id: 1905
 ---
 
-[caption id="attachment_1906" align="aligncenter" width="800"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/chevron_explosion-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/chevron_explosion.jpg) Pic courtesy of @owenwarrell (Twitter)[/caption]
+[caption id="attachment_1906" align="aligncenter" width="800"][![](https://img.mcdowell.si/2011/06/chevron_explosion-1.jpg)](https://img.mcdowell.si/2011/06/chevron_explosion.jpg) Pic courtesy of @owenwarrell (Twitter)[/caption]
 
 V lokalni rafineriji Chevron je okoli 18.20 prišlo do eksplozije. Poročajo o dveh mrtvih. Iz rafinerije, ki je od mene oddaljena 8 km (po zraku), se vali gost črn dim. Baje smrdi po žveplu.
 

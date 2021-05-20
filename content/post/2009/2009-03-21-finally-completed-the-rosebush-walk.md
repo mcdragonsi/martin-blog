@@ -18,7 +18,7 @@ tags:
 - Walking
 ---
 
-[caption id="attachment_1106" align="aligncenter" width="500"][![Grim looking Pantmaenog forrest, or what is left of it](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/pantmaenog_forrest1-1.jpg)](https://mcdowell.si/about/gallery?album=Rosebush) Grim looking Pantmaenog forrest, or what is left of it[/caption]
+[caption id="attachment_1106" align="aligncenter" width="500"][![Grim looking Pantmaenog forrest, or what is left of it](https://img.mcdowell.si/2009/03/pantmaenog_forrest1-1.jpg)](https://mcdowell.si/about/gallery?album=Rosebush) Grim looking Pantmaenog forrest, or what is left of it[/caption]
 
 It actually called [Foel Cwmcerwyn](http://en.wikipedia.org/wiki/Foel_Cwmcerwyn) and is the walk no. 20 in the [book](http://www.amazon.co.uk/Walking-Pembrokeshire-Circular-National-Cicerone/dp/1852844310). There hasn't been any proper rain for a couple of weeks so it looked promising. I had to abandon this walk weeks ago due to the fact that one big part of the walk was transformed into quite a substantial stream.
 

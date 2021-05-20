@@ -52,5 +52,5 @@ Today was basically a driving day. At the Kilimanjaro hotel in Marangu we had a 
 
 
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-28-20.12.13-1-576x1024.jpg)](https://mcdowell.si/day-8-marangu-day-1-of-kilimanjaro-part-3811.html/2019-09-28-20-12-13-1)
+[![](https://img.mcdowell.si/2019/10/2019-09-28-20.12.13-1-576x1024.jpg)](https://mcdowell.si/day-8-marangu-day-1-of-kilimanjaro-part-3811.html/2019-09-28-20-12-13-1)
 

@@ -13,6 +13,6 @@ categories:
 
 These photos were taken on a hike to Pentre Ifan this last weekend.
 
-[caption id="attachment_1740" align="aligncenter" width="800"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/11/IMG_1032-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/11/IMG_1032.jpg) Pentre Ifan in Pembrokeshire[/caption]
+[caption id="attachment_1740" align="aligncenter" width="800"][![](https://img.mcdowell.si/2010/11/IMG_1032-1.jpg)](https://img.mcdowell.si/2010/11/IMG_1032.jpg) Pentre Ifan in Pembrokeshire[/caption]
 
-[caption id="attachment_1739" align="aligncenter" width="800"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/11/IMG_1037-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/11/IMG_1037.jpg) Carn Ingli in Pembrokeshire as seen from Pentre Ifan[/caption]
+[caption id="attachment_1739" align="aligncenter" width="800"][![](https://img.mcdowell.si/2010/11/IMG_1037-1.jpg)](https://img.mcdowell.si/2010/11/IMG_1037.jpg) Carn Ingli in Pembrokeshire as seen from Pentre Ifan[/caption]

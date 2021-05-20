@@ -11,7 +11,7 @@ categories:
 - skydiving
 ---
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/som_novo_mesto_junij2007jpg.jpg)As usual some of the media outlets are taking a completely wrong ignorant spin on this genuine and sad tragedy.
+![](https://img.mcdowell.si/2008/08/som_novo_mesto_junij2007jpg.jpg)As usual some of the media outlets are taking a completely wrong ignorant spin on this genuine and sad tragedy.
 
 Slovenia lost a great pilot Viktor Bečan (a.k.a. "Som"). My sincere condolences go to his family. My hopes for a quick recovery go to the surviving co-pilot Savo Medved
 

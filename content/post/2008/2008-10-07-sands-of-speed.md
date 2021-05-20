@@ -32,6 +32,6 @@ There is a good parking area by the entrance to the Sands. There is a [Speed mus
 
 I later moved down the coast and visited the litle village of [Laugharne](http://en.wikipedia.org/wiki/Laugharne). First I stopped at St. Martin's church on the northern part of the village in which grounds the Welsh poet [Dylan Thomas](http://en.wikipedia.org/wiki/Dylan_Thomas) is buried in. After that I proceeded towards [Laugharne castle](http://en.wikipedia.org/wiki/Laugharne_Castle) in the southern part of Laugharne.
 
-[caption id="attachment_762" align="aligncenter" width="800"][![St. Martin's church in Laugharne](https://dwlcvfkt1l4wn.cloudfront.net/2008/10/st_martins_church_laugharne1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/10/st_martins_church_laugharne1.jpg) St. Martin's church in Laugharne[/caption]
+[caption id="attachment_762" align="aligncenter" width="800"][![St. Martin's church in Laugharne](https://img.mcdowell.si/2008/10/st_martins_church_laugharne1-1.jpg)](https://img.mcdowell.si/2008/10/st_martins_church_laugharne1.jpg) St. Martin's church in Laugharne[/caption]
 
-[caption id="attachment_763" align="aligncenter" width="800"][![Laugharne castle](https://dwlcvfkt1l4wn.cloudfront.net/2008/10/laugharne_castle2-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/10/laugharne_castle2.jpg) Laugharne castle[/caption]
+[caption id="attachment_763" align="aligncenter" width="800"][![Laugharne castle](https://img.mcdowell.si/2008/10/laugharne_castle2-1.jpg)](https://img.mcdowell.si/2008/10/laugharne_castle2.jpg) Laugharne castle[/caption]

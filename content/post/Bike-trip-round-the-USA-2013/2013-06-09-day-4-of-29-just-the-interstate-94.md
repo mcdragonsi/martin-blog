@@ -23,6 +23,6 @@ Unfortunately I cannot self medicate myself and I am not intending to get out a 
 
 Stopped over at the Minneapolis Harley Davidson shop to buy some proper eyewear.
 
-![wpid-20130608_151123.jpg](https://dwlcvfkt1l4wn.cloudfront.net/2013/06/wpid-20130608_151123-1.jpg)
+![wpid-20130608_151123.jpg](https://img.mcdowell.si/2013/06/wpid-20130608_151123-1.jpg)
 
 

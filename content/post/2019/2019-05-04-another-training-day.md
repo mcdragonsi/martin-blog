@@ -23,25 +23,25 @@ The hills especially round the southern part of the Malverns were covered in vio
 
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.16.57-1024x576.jpg)
+![](https://img.mcdowell.si/2019/05/2019-05-04-16.16.57-1024x576.jpg)
 
 
 
 
 
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/IMG_20190504_105845-EFFECTS-1024x576.jpg)](https://mcdowell.si/?attachment_id=3646)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.46.16-1024x576.jpg)](https://mcdowell.si/?attachment_id=3645)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.16.57-1024x576.jpg)](https://mcdowell.si/?attachment_id=3644)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.13.56-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3643)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.12.24-1024x576.jpg)](https://mcdowell.si/?attachment_id=3642)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-16.02.10-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3641)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-15.25.07-1024x576.jpg)](https://mcdowell.si/?attachment_id=3640)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-15.23.52-1024x576.jpg)](https://mcdowell.si/?attachment_id=3639)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-11.25.50-576x1024.jpg)](https://mcdowell.si/?attachment_id=3638)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-10.56.38-1024x576.jpg)](https://mcdowell.si/?attachment_id=3634)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-10.53.17-1024x576.jpg)](https://mcdowell.si/?attachment_id=3633)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-10.33.40-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3630)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-04-10.28.58-1024x576.jpg)](https://mcdowell.si/?attachment_id=3629)
+  * [![](https://img.mcdowell.si/2019/05/IMG_20190504_105845-EFFECTS-1024x576.jpg)](https://mcdowell.si/?attachment_id=3646)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-16.46.16-1024x576.jpg)](https://mcdowell.si/?attachment_id=3645)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-16.16.57-1024x576.jpg)](https://mcdowell.si/?attachment_id=3644)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-16.13.56-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3643)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-16.12.24-1024x576.jpg)](https://mcdowell.si/?attachment_id=3642)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-16.02.10-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3641)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-15.25.07-1024x576.jpg)](https://mcdowell.si/?attachment_id=3640)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-15.23.52-1024x576.jpg)](https://mcdowell.si/?attachment_id=3639)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-11.25.50-576x1024.jpg)](https://mcdowell.si/?attachment_id=3638)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-10.56.38-1024x576.jpg)](https://mcdowell.si/?attachment_id=3634)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-10.53.17-1024x576.jpg)](https://mcdowell.si/?attachment_id=3633)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-10.33.40-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3630)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-04-10.28.58-1024x576.jpg)](https://mcdowell.si/?attachment_id=3629)
 
 
 

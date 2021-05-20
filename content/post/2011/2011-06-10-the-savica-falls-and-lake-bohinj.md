@@ -14,7 +14,7 @@ tags:
 - Upper Carniola
 ---
 
-[![Bohinj](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/bohinj.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/bohinj.jpg)
+[![Bohinj](https://img.mcdowell.si/2011/06/bohinj.jpg)](https://img.mcdowell.si/2011/06/bohinj.jpg)
 
 This is an old favourite of mine and apparently for many Brits as well as during my short visit there saw countless UK reg cars on the roads.
 

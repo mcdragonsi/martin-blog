@@ -38,7 +38,7 @@ Managed to collect quite a few scuffs on the fairings, smashed the hand guard an
 
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/06/2019-06-05-15.02.50-e1559761447895-922x1024.jpg)_The puncture location after being patched by the AA guy_
+![](https://img.mcdowell.si/2019/06/2019-06-05-15.02.50-e1559761447895-922x1024.jpg)_The puncture location after being patched by the AA guy_
 
 
 

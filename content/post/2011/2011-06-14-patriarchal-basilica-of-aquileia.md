@@ -15,9 +15,9 @@ tags:
 - Oglej
 ---
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/oglej-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/oglej.jpg)
+[![](https://img.mcdowell.si/2011/06/oglej-1.jpg)](https://img.mcdowell.si/2011/06/oglej.jpg)
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/oglej2-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/06/oglej2.jpg)Oglej or Aquileia in Italian is a small village in north-eastern Italy close to the holiday town of Grado (Slovenian: Gradež).
+[![](https://img.mcdowell.si/2011/06/oglej2-1-150x150.jpg)](https://img.mcdowell.si/2011/06/oglej2.jpg)Oglej or Aquileia in Italian is a small village in north-eastern Italy close to the holiday town of Grado (Slovenian: Gradež).
 It is the home of the Patriarchal Basilica of Aquileia which houses the largest and stunning piece of mosaic I have ever seen. Restaurateurs have manufactured an elevated platform and glass walkway inside the basilica allowing you to still walk in the cathedral without walking and ruining the precious mosaic on the floor.
 
 Its worth paying an extra €3 and climbing up the many steps to the top of the tower and enjoying the view - you can even see a little bit of Venice.

@@ -14,7 +14,7 @@ tags:
 - Waterfall
 ---
 
-[caption id="attachment_1720" align="alignnone" width="500" caption="These waterfalls are actually Fullers Falls, not the one in the title"][![Fullers Falls - Sgwd y Pannwr](https://dwlcvfkt1l4wn.cloudfront.net/2010/10/Sgwd_y_Pannwr.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/10/Sgwd_y_Pannwr.jpg)[/caption]
+[caption id="attachment_1720" align="alignnone" width="500" caption="These waterfalls are actually Fullers Falls, not the one in the title"][![Fullers Falls - Sgwd y Pannwr](https://img.mcdowell.si/2010/10/Sgwd_y_Pannwr.jpg)](https://img.mcdowell.si/2010/10/Sgwd_y_Pannwr.jpg)[/caption]
 
 This hike is worth talking about as it takes you round some spectacular views in the Brecon Beacons.
 

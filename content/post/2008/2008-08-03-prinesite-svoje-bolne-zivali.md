@@ -20,7 +20,7 @@ tags:
 - Sick Animals
 ---
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/puppysmall2-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/puppysmall2.jpg)Živim v državi, kjer imajo že večletno zgodovino zavesti za boljšo skrb živali. To sicer morda vsakogar ne bi prepričalo po branju [člankov](http://www.guardian.co.uk/hunt) o večletni tradiciji brutalnih [lovov na lisice](http://en.wikipedia.org/wiki/Fox_hunting), so pa nasprotno precej bolj strpni in dobrodelni do hišnih ljubljencev in konjev in bi marsikaj storili za njihovo blagostanje.
+[![](https://img.mcdowell.si/2008/08/puppysmall2-1-150x150.jpg)](https://img.mcdowell.si/2008/08/puppysmall2.jpg)Živim v državi, kjer imajo že večletno zgodovino zavesti za boljšo skrb živali. To sicer morda vsakogar ne bi prepričalo po branju [člankov](http://www.guardian.co.uk/hunt) o večletni tradiciji brutalnih [lovov na lisice](http://en.wikipedia.org/wiki/Fox_hunting), so pa nasprotno precej bolj strpni in dobrodelni do hišnih ljubljencev in konjev in bi marsikaj storili za njihovo blagostanje.
 
 Ravno ta teden smo se namreč na kliniki, kjer delam, pridružili projektu [DogsTrust](http://www.dogstrust.org.uk/)-a, ki to poletje nudi kastracijo/sterilizacijo ter mikročipiranje za zgolj 10 funtov (okoli €12.6). Zgolj v informacijo, mikročipiranje v Veliki Britaniji ni v domeni države in zato ni "brezplačno", kot v Sloveniji vendar tu lastnikom ni potrebno plačati takse v vključene v obveznem cepljenju. Tu obveznega cepljenja, tudi proti steklini, ni in tako tudi ni načina, da bi država pobrala kaj od tega. Seveda imajo posledično veliko manjši odstotek psov čipiranih, kot je to primer v Sloveniji.
 
@@ -51,7 +51,7 @@ Zdravljenje brezplačno._
 </blockquote>
 
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/mike_and_roki-1-300x147.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/mike_and_roki.jpg)
+[![](https://img.mcdowell.si/2008/08/mike_and_roki-1-300x147.jpg)](https://img.mcdowell.si/2008/08/mike_and_roki.jpg)
 
 
 [![Zemanta Pixie](http://img.zemanta.com/reblog_e.png?x-id=a56c1bc2-48e2-476c-8e40-d479d15fccca)](http://reblog.zemanta.com/zemified/a56c1bc2-48e2-476c-8e40-d479d15fccca/)

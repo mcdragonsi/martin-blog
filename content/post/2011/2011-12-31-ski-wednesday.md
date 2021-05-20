@@ -15,7 +15,7 @@ tags:
 - The Alps
 ---
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2011/12/krvavec_2011-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/12/krvavec_2011.jpg)
+[![](https://img.mcdowell.si/2011/12/krvavec_2011-1.jpg)](https://img.mcdowell.si/2011/12/krvavec_2011.jpg)
 
 My recent trip to Slovenia gave me the repeat opportunity to do some skiing again which I was looking forward of doing on the ski resort of Krvavec. I am proud to report no falls or injuries whatsoever.
 

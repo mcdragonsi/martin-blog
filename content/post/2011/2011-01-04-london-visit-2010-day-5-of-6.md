@@ -13,7 +13,7 @@ tags:
 - London visit
 ---
 
-[caption id="attachment_1792" align="aligncenter" width="800"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/StPauls-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/StPauls.jpg) Saint Paul's Cathedral[/caption]
+[caption id="attachment_1792" align="aligncenter" width="800"][![](https://img.mcdowell.si/2011/01/StPauls-1.jpg)](https://img.mcdowell.si/2011/01/StPauls.jpg) Saint Paul's Cathedral[/caption]
 
 
 Monday. Did some more walking round London and did the touristy view of St. Paul's Cathedral. The Fat Tyre bike tour guide told me that the view from the top of the cathedral was much more impressive than from the London eye. I surely was not disappointed. The tour was not that bad.
@@ -21,7 +21,7 @@ Monday. Did some more walking round London and did the touristy view of St. Paul
 
 
 
-[caption id="attachment_1794" align="alignright" width="150"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/Village_Deli_in_Bermondsey-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/Village_Deli_in_Bermondsey.jpg) Village Deli in Bermondsey[/caption]
+[caption id="attachment_1794" align="alignright" width="150"][![](https://img.mcdowell.si/2011/01/Village_Deli_in_Bermondsey-1-150x150.jpg)](https://img.mcdowell.si/2011/01/Village_Deli_in_Bermondsey.jpg) Village Deli in Bermondsey[/caption]
 
 The one thing I wanted to do on this day is to go for lunch in [Bermondsey](http://en.wikipedia.org/wiki/Bermondsey). Specifically to a deli on Bermondsey street called [Village Deli](http://maps.google.co.uk/maps/place?cid=6807651727031663691&q=village+deli+bermondsey&gl=uk) on 109 Bermondsey Street. I went to it last year but forgot what it was called. It seems to be a family-run business and trying their toasted wraps are a must if you go to London and the 5 minute walk from [London Bridge tube station](http://en.wikipedia.org/wiki/London_Bridge_station) even in the bitter cold is well worth it.
 

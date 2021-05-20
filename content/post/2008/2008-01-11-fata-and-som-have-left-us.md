@@ -17,7 +17,7 @@ I must sadly inform you that the Antonov-2 airplane (we lovingly called "Fata") 
 
 
 
-[caption id="attachment_350" align="alignleft" width="150"][![Photo taken by Daniel Zavratnik in Bovec in August 2007. Viktor Bečan a.k.a. "Som" is the chap on the left in a green t-shirt. In the middle is one of our lovely fellow skydivers and on the right is the legend of Slovene skydiving who runs, in my opinion, the best skydiving school in Slovenia - Aleš Debeljak a.k.a. "Debeli".](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/som_bovec_aug_2007-1-150x150.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/som_bovec_aug_2007.jpg) Photo taken by Daniel Zavratnik in Bovec in August 2007. Viktor Bečan a.k.a. "Som" is the chap on the left in a green t-shirt. In the middle is one of our lovely fellow skydivers and on the right is the legend of Slovene skydiving who runs, in my opinion, the best skydiving school in Slovenia - Aleš Debeljak a.k.a. "Debeli".[/caption]
+[caption id="attachment_350" align="alignleft" width="150"][![Photo taken by Daniel Zavratnik in Bovec in August 2007. Viktor Bečan a.k.a. "Som" is the chap on the left in a green t-shirt. In the middle is one of our lovely fellow skydivers and on the right is the legend of Slovene skydiving who runs, in my opinion, the best skydiving school in Slovenia - Aleš Debeljak a.k.a. "Debeli".](https://img.mcdowell.si/2008/08/som_bovec_aug_2007-1-150x150.jpg)](https://img.mcdowell.si/2008/08/som_bovec_aug_2007.jpg) Photo taken by Daniel Zavratnik in Bovec in August 2007. Viktor Bečan a.k.a. "Som" is the chap on the left in a green t-shirt. In the middle is one of our lovely fellow skydivers and on the right is the legend of Slovene skydiving who runs, in my opinion, the best skydiving school in Slovenia - Aleš Debeljak a.k.a. "Debeli".[/caption]
 
 Even sader is the fact that at this very moment the pilot is feared dead, the co-pilot survived, but apparently with severe burns. There were no skydivers on board. I know Ales, who runs it, was planning on sending it to Hungary for servicing. He was also going to re-fit its outer skin. She meant a lot for Slovene skydiving and will be very missed. I will try to find out what has happened to the pilots...
 -------------------------------------
@@ -78,7 +78,7 @@ Fellow skydivers' websites reporting on the incident:
 ### UPDATE 3! on 7-May-2010
 
 
-A final report from the Slovene Civil Aviation Authority has been issued. Read it here [HA-MKK_11_01_2008_SLO](https://dwlcvfkt1l4wn.cloudfront.net/2008/01/HA-MKK_11_01_2008_SLO.pdf) (Slovenian) and  here [HA-MKK_11_01_2008_ANG](https://dwlcvfkt1l4wn.cloudfront.net/2008/01/HA-MKK_11_01_2008_ANG.pdf) (English).
+A final report from the Slovene Civil Aviation Authority has been issued. Read it here [HA-MKK_11_01_2008_SLO](https://img.mcdowell.si/2008/01/HA-MKK_11_01_2008_SLO.pdf) (Slovenian) and  here [HA-MKK_11_01_2008_ANG](https://img.mcdowell.si/2008/01/HA-MKK_11_01_2008_ANG.pdf) (English).
 
 
 ### UPDATE 4! on 5-Sep-2018

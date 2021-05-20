@@ -13,7 +13,7 @@ As the weather wasn't very promising most of us managed to do only two jumps, th
 
 After we saw that the jumps were definitely off we decided to do some sightseeing - our destination being Daytona Beach. We drove straight down route 92 right to the end - the sea, found a local parking house and strolled down the beach. I even made some few steps in the very cold Atlantic - it seems the temperature it the same as in the other end in Pembrokeshire.
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2008/08/daytona21.jpg)We went to have something to eat in what looked like an old fashioned americana diner called [Johnny Rockets](http://johnnyrockets.com/). They had the old fashioned furniture and juke boxes on every table and at some songs they would turn off all the lights, turn on the disco ball and then some of the waiters would dance and sing to the song. Great atmosphere.
+![](https://img.mcdowell.si/2008/08/daytona21.jpg)We went to have something to eat in what looked like an old fashioned americana diner called [Johnny Rockets](http://johnnyrockets.com/). They had the old fashioned furniture and juke boxes on every table and at some songs they would turn off all the lights, turn on the disco ball and then some of the waiters would dance and sing to the song. Great atmosphere.
 
 We then did a drive through the streets of Daytona Beach and tried very hard to see some big fat bikers with their naked (or at least topless) biker girls - no such luck.
 

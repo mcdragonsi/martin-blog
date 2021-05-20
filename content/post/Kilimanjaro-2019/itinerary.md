@@ -23,7 +23,7 @@ In the past it has not been uncommon for buffalo and hyenas wandering into the c
 
 The next stop is the [Ngorongoro crater](https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area#Ngorongoro_Crater).
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/ngorongoro-crater-1024x536.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/ngorongoro-crater.jpg)Image: Peakplanet.com
+[![](https://img.mcdowell.si/2019/09/ngorongoro-crater-1024x536.jpg)](https://img.mcdowell.si/2019/09/ngorongoro-crater.jpg)Image: Peakplanet.com
 
 Then comes the hard bit as we approach the foot of Mt Kilimanjaro in a town called Marangu. This is the last time we see any degree of creature comforts in a form of a hotel and wifi.
 
@@ -39,7 +39,7 @@ Its a 5 day hike up to Uhuru peak stopping overnight at various huts. Not sure w
 
 
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)Image: Ultimate Kilimanjaro
+[![](https://img.mcdowell.si/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)](https://img.mcdowell.si/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)Image: Ultimate Kilimanjaro
 
 
 

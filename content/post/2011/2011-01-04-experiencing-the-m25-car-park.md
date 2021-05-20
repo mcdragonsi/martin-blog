@@ -12,11 +12,11 @@ categories:
 - Trips and outings
 ---
 
-[caption id="attachment_1807" align="aligncenter" width="620"][![](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/m25_gridlock_dec_18-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2011/01/m25_gridlock_dec_18.jpg) M25 parking lot on December 18th  Photo: TOMMY HINDLEY[/caption]
+[caption id="attachment_1807" align="aligncenter" width="620"][![](https://img.mcdowell.si/2011/01/m25_gridlock_dec_18-1.jpg)](https://img.mcdowell.si/2011/01/m25_gridlock_dec_18.jpg) M25 parking lot on December 18th  Photo: TOMMY HINDLEY[/caption]
 
 There were plenty of warnings about possible weather problems before I set off from [Haverfordwest](http://en.wikipedia.org/wiki/Haverfordwest) in the SW Wales to [Stansted airport](http://en.wikipedia.org/wiki/London_Stansted_Airport) on December 18th. There was very little snow in [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire) and the airport was open. There were absolutely no problems up to the M4 exit for [Slough](http://en.wikipedia.org/wiki/Slough).
 
-[caption id="attachment_1773" align="alignleft" width="225"][![](https://dwlcvfkt1l4wn.cloudfront.net/2010/12/20101226-000346-1-225x300.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2010/12/20101226-000346.jpg) Photo taken on my iPhone of the M25 standstill[/caption]
+[caption id="attachment_1773" align="alignleft" width="225"][![](https://img.mcdowell.si/2010/12/20101226-000346-1-225x300.jpg)](https://img.mcdowell.si/2010/12/20101226-000346.jpg) Photo taken on my iPhone of the M25 standstill[/caption]
 
 Then it all started to slow down and by the time I got to theM25 exit on the M4 the traffic stopped. We managed to somehow move a little so I was mostly on the M25 slip road but that was it until about 16.45 when we slowly started moving. We more or less crawled on the M25. Managed to see the remains of the burned-out [people carrier](http://en.wikipedia.org/wiki/Minivan) that caused all this mess - it was just near the M40 junction on the M25.
 

@@ -18,7 +18,7 @@ tags:
 - Natural History Museum
 ---
 
-[caption id="attachment_1450" align="aligncenter" width="640"][![cabinet_war_rooms](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/cabinet_war_rooms1-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/12/cabinet_war_rooms1.jpg) The Cabinet War Rooms[/caption]
+[caption id="attachment_1450" align="aligncenter" width="640"][![cabinet_war_rooms](https://img.mcdowell.si/2009/12/cabinet_war_rooms1-1.jpg)](https://img.mcdowell.si/2009/12/cabinet_war_rooms1.jpg) The Cabinet War Rooms[/caption]
 
 I started the day a bit more relaxing by taking a slow breakfast at the local [Starbucks](http://en.wikipedia.org/wiki/Starbucks) at [London Bridge station](http://en.wikipedia.org/wiki/London_Bridge_station) opposite Guy's Hospital. A friend told me I had to try the frappucino and their panninis. The guy at the counter asked me twice if I was sure about the frappucino? It is apparently and ice-cold drink and it was the middle of December plus I was bearing a very deep and cold-ridden voice so I wisely opted for a warmer beverage - in this case for a mocha.
 

@@ -23,16 +23,16 @@ Spend the rest of the morning catching up on sleep then met up with a friend I h
 At 6pm we had the Serengeti group meeting. Some of them were already on Kilimanjaro and a few, like myself, were to go after. Some would continue to Zanzibar and some would go home. Varied group indeed. And also I was not just the only Brit in our group but all the other groups as well. There were mostly Australians and Americans and some Canadians.
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/09/IMG_2969.jpg)
+![](https://img.mcdowell.si/2019/09/IMG_2969.jpg)
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-20-16.08.39-1024x577.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-10.55.50-1024x683.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.17.37-576x1024.jpg)
-![Health and safety (not) in action](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.30.39-1024x576.jpg "Health and safety (not) in action")
-![Health and safety (not) in action](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.30.46-576x1024.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-13.59.21-1024x683.jpg)
-![Meeting a friend at the top of Nairobi](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/2019-09-21-14.21.37-1024x576.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2967-1024x683.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2968-1024x683.jpg)
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/10/IMG_2969-1024x683.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-20-16.08.39-1024x577.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-21-10.55.50-1024x683.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-21-13.17.37-576x1024.jpg)
+![Health and safety (not) in action](https://img.mcdowell.si/2019/10/2019-09-21-13.30.39-1024x576.jpg "Health and safety (not) in action")
+![Health and safety (not) in action](https://img.mcdowell.si/2019/10/2019-09-21-13.30.46-576x1024.jpg)
+![](https://img.mcdowell.si/2019/10/2019-09-21-13.59.21-1024x683.jpg)
+![Meeting a friend at the top of Nairobi](https://img.mcdowell.si/2019/10/2019-09-21-14.21.37-1024x576.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_2967-1024x683.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_2968-1024x683.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_2969-1024x683.jpg)
 

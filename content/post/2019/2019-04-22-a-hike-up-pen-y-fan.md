@@ -23,12 +23,12 @@ A training hike up Pen-y-fan on a Easter weekend.
 
 
 
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-10.50.20-1024x576.jpg)](https://mcdowell.si/?attachment_id=3651)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-11.06.28-1024x576.jpg)](https://mcdowell.si/?attachment_id=3653)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-11.53.39-1024x576.jpg)](https://mcdowell.si/?attachment_id=3654)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-11.58.35-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3656)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-12.32.12-1024x577.jpg)](https://mcdowell.si/?attachment_id=3657)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-04-22-12.51.31-1024x576.jpg)](https://mcdowell.si/?attachment_id=3659)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-10.50.20-1024x576.jpg)](https://mcdowell.si/?attachment_id=3651)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-11.06.28-1024x576.jpg)](https://mcdowell.si/?attachment_id=3653)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-11.53.39-1024x576.jpg)](https://mcdowell.si/?attachment_id=3654)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-11.58.35-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3656)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-12.32.12-1024x577.jpg)](https://mcdowell.si/?attachment_id=3657)
+  * [![](https://img.mcdowell.si/2019/05/2019-04-22-12.51.31-1024x576.jpg)](https://mcdowell.si/?attachment_id=3659)
 
 
 

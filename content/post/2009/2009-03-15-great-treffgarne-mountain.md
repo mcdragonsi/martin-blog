@@ -18,7 +18,7 @@ tags:
 - Yugoslavia
 ---
 
-[![gtm_011](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/gtm_0111-1.jpg)](https://mcdowell.si/about/gallery?album=GreatTreffgarneMountain)
+[![gtm_011](https://img.mcdowell.si/2009/03/gtm_0111-1.jpg)](https://mcdowell.si/about/gallery?album=GreatTreffgarneMountain)
 
 
 This walk seemed the muddiest of them all, in fact I am wandering how exactly to wash my walking shoes and the washing machine is getting to be the favourite. This is the walk no. 32 and can easily be combined with no. 33 (Treffgarne Gorge) as they both start from the same point. That was actually my plan but my walking shoes got filled with lots of lovely mud hindering any furter hikes that day. OK, I admit, am being a bit of a wus, but I was lucky this happened towards the end of the walk.

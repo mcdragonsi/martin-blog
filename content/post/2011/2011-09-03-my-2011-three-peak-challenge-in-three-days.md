@@ -11,7 +11,7 @@ categories:
 - Trips and outings
 ---
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2011/09/20110903-131610-1-150x150.jpg)OK. My three-peak challenge underway now. One (Snowdon) down, two more to go (Scafell Pike & Ben Nevis). Today's climb on Snowdon was a challenge in itself as it was pissing (yes, not just pouring - PISSING) down with rain. Not one thing I was wearing is currently dry and I am using the car heater to dry as much as I can. It will probably take days for my boots to get dry. Funny enough there was hardly anybody up Snowdon this morning. Only a few loonies like myself.
+![](https://img.mcdowell.si/2011/09/20110903-131610-1-150x150.jpg)OK. My three-peak challenge underway now. One (Snowdon) down, two more to go (Scafell Pike & Ben Nevis). Today's climb on Snowdon was a challenge in itself as it was pissing (yes, not just pouring - PISSING) down with rain. Not one thing I was wearing is currently dry and I am using the car heater to dry as much as I can. It will probably take days for my boots to get dry. Funny enough there was hardly anybody up Snowdon this morning. Only a few loonies like myself.
 
 **Update 4. September 2011**
 

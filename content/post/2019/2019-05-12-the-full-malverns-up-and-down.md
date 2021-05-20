@@ -23,7 +23,7 @@ I finally made it. Hiked all the way up the Malverns and then back again. A tota
 
 
 
-![](https://dwlcvfkt1l4wn.cloudfront.net/2019/03/martin-kili.ai_.svg_.png)
+![](https://img.mcdowell.si/2019/03/martin-kili.ai_.svg_.png)
 
 
 
@@ -43,11 +43,11 @@ However am taking quite a beating on my feet, something not completely right wit
 
 
 
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-12.26.51-1024x576.jpg)](https://mcdowell.si/?attachment_id=3674)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-12.48.48-1024x576.jpg)](https://mcdowell.si/?attachment_id=3675)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-12.49.01-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3676)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-15.01.23-1024x576.jpg)](https://mcdowell.si/?attachment_id=3678)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-15.51.37-1024x576.jpg)](https://mcdowell.si/?attachment_id=3679)
-  * [![](https://dwlcvfkt1l4wn.cloudfront.net/2019/05/2019-05-12-16.33.54-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3680)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-12.26.51-1024x576.jpg)](https://mcdowell.si/?attachment_id=3674)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-12.48.48-1024x576.jpg)](https://mcdowell.si/?attachment_id=3675)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-12.49.01-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3676)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-15.01.23-1024x576.jpg)](https://mcdowell.si/?attachment_id=3678)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-15.51.37-1024x576.jpg)](https://mcdowell.si/?attachment_id=3679)
+  * [![](https://img.mcdowell.si/2019/05/2019-05-12-16.33.54-1-1024x576.jpg)](https://mcdowell.si/?attachment_id=3680)
 
 

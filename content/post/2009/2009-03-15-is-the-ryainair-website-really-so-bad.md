@@ -14,7 +14,7 @@ tags:
 - Ryanair
 ---
 
-[![Ruinair](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/ruinair1-1-201x300.jpg)](http://www.waterstones.com/waterstonesweb/displayProductDetails.do?sku=6493407)According to my experience, yes. I tell all [Ryanair](http://en.wikipedia.org/wiki/Ryanair) visitors in advance that this here is my personal opinion and will not allow the publication of rude comments from anyone.
+[![Ruinair](https://img.mcdowell.si/2009/03/ruinair1-1-201x300.jpg)](http://www.waterstones.com/waterstonesweb/displayProductDetails.do?sku=6493407)According to my experience, yes. I tell all [Ryanair](http://en.wikipedia.org/wiki/Ryanair) visitors in advance that this here is my personal opinion and will not allow the publication of rude comments from anyone.
 
 I had the misfortune of booking my flight today only to be confronted with an error just at the point you would least like it - after purchase.
 
@@ -43,7 +43,7 @@ Related links:
 
 I found the below joke very fitting for this post. I don't know where it originated from but I found it on Vetsugeon.org
 
-![airline_2d00_charge](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/airline_2d00_charge1-1.gif)
+![airline_2d00_charge](https://img.mcdowell.si/2009/03/airline_2d00_charge1-1.gif)
 
 
 [![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=fe443a8d-2bea-4446-bdef-f1cca1c333f7)](http://reblog.zemanta.com/zemified/fe443a8d-2bea-4446-bdef-f1cca1c333f7/)

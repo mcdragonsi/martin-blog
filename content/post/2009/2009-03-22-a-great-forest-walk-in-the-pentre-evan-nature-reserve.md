@@ -19,7 +19,7 @@ tags:
 - walks
 ---
 
-[caption id="attachment_1123" align="aligncenter" width="459"]![Pentre Ifan Burial Chamber](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/pentre_ifan_burrial_chamber1-1.jpg) Pentre Ifan Burial Chamber[/caption]
+[caption id="attachment_1123" align="aligncenter" width="459"]![Pentre Ifan Burial Chamber](https://img.mcdowell.si/2009/03/pentre_ifan_burrial_chamber1-1.jpg) Pentre Ifan Burial Chamber[/caption]
 
 Nice contrast from the Rosebush walk I took yesterday. This walk is no 40 called Pentre Evan [Nature Reserve](http://en.wikipedia.org/wiki/Nature_reserve) and I just a great forest walk with some hill climbing thrown in as well.
 
@@ -32,4 +32,4 @@ Again this walk is very appealing, especially if it has been dry for a few days/
 Also I found out to late that the four rock formations at the top of Carnedo Meibion-Owen  are off limits as there is some rare [lichens](http://en.wikipedia.org/wiki/Lichen) growing on them?? I managed to pick the only one formation (the second) that had the warning sign destroyed and climbed on top to have a rest. Hope the relevant people correct the problem and put up the sign.
 
 
-[![pentre_evan](https://dwlcvfkt1l4wn.cloudfront.net/2009/03/pentre_evan1-1.jpg)](https://mcdowell.si/about/gallery?album=PentreEvan)
+[![pentre_evan](https://img.mcdowell.si/2009/03/pentre_evan1-1.jpg)](https://mcdowell.si/about/gallery?album=PentreEvan)

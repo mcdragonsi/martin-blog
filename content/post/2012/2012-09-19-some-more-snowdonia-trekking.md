@@ -12,7 +12,7 @@ categories:
 - Trips and outings
 ---
 
-[caption id="attachment_2157" align="alignnone" width="3264"]![](https://dwlcvfkt1l4wn.cloudfront.net/2012/09/2012-08-26-16.36.181-1.jpg) Next to the Watkin path[/caption]
+[caption id="attachment_2157" align="alignnone" width="3264"]![](https://img.mcdowell.si/2012/09/2012-08-26-16.36.181-1.jpg) Next to the Watkin path[/caption]
 
 Not to repeat myself to many times but I went on a great hiking trip round Snowdonia. Got up way to early and still by the time I came to Nant Gwynant I was still very much in need of sleep. Besides that it was still pouring with rain but there were prospects of sunshine later. So I I did something I haven't so far: crawled in the back of my car, got myself comfortable, opened the windows a little bit and went to sleep. It certainly did the trick as when I woke up I felt great and the sun was up as well :-D
 

@@ -15,4 +15,4 @@ Tole verjetno na 24ur.com spletni strani niso planirali, je pa prav zabavno brat
 
 Priceless :-)
 
-![24ur_hrvaska](https://dwlcvfkt1l4wn.cloudfront.net/2009/05/24ur_hrvaska1.jpg)
+![24ur_hrvaska](https://img.mcdowell.si/2009/05/24ur_hrvaska1.jpg)

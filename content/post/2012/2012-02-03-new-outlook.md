@@ -11,7 +11,7 @@ categories:
 - Veterinary medicine
 ---
 
-[![](https://dwlcvfkt1l4wn.cloudfront.net/2012/02/FentonVets_Theatre_2-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2012/02/FentonVets_Theatre_2.jpg)
+[![](https://img.mcdowell.si/2012/02/FentonVets_Theatre_2-1.jpg)](https://img.mcdowell.si/2012/02/FentonVets_Theatre_2.jpg)
 
 Not written here for a while so I will be brief:
 

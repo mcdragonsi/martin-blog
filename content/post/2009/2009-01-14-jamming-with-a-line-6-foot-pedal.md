@@ -15,7 +15,7 @@ tags:
 - Wine
 ---
 
-![p1120002_smaller](https://dwlcvfkt1l4wn.cloudfront.net/2009/01/p1120002_smaller1-1-300x225.jpg)I had the opportunity to sample a great studio-grade professional foot pedal from a company called [Line6](http://line6.com/). The machine is called a [POD XT Live](http://line6.com/podxtlive/) and was lent to me for a few days by a friend. On the website the POD XT Live is described as an »_uncomplicated, gig-ready tone machine that's portable and adaptable to different real world stage and recording environments_«.
+![p1120002_smaller](https://img.mcdowell.si/2009/01/p1120002_smaller1-1-300x225.jpg)I had the opportunity to sample a great studio-grade professional foot pedal from a company called [Line6](http://line6.com/). The machine is called a [POD XT Live](http://line6.com/podxtlive/) and was lent to me for a few days by a friend. On the website the POD XT Live is described as an »_uncomplicated, gig-ready tone machine that's portable and adaptable to different real world stage and recording environments_«.
 
 Well, it is truly impressive and quite complicated to a novice like myself. My first task given to me was to read through the manual which, I must say, is not exactly a pocket edition. OK, it's not [War and peace](http://en.wikipedia.org/wiki/War_and_Peace) but it DOES have about 190 pages!! Luckily there is a Quick start guide for those who »don't need no stinking manual« :-)
 
@@ -23,7 +23,7 @@ It has loads of different connections which I won't even try to describe in fear
 
 Confirming the pro-esness of this machine are the artists that use it. There are: Garbage, U2's The Edge, Radiohead, Nine inch nails, Keane, Green day, Jamiroquai, Muse, Slipknot, Kaiser chiefs and many more.
 
-[caption id="attachment_934" align="aligncenter" width="595"][![pod_xt_live](https://dwlcvfkt1l4wn.cloudfront.net/2009/01/pod_xt_live1-1.jpg)](http://line6.com/podxtlive/photogallery.html) Image courtesy of Line6.com[/caption]
+[caption id="attachment_934" align="aligncenter" width="595"][![pod_xt_live](https://img.mcdowell.si/2009/01/pod_xt_live1-1.jpg)](http://line6.com/podxtlive/photogallery.html) Image courtesy of Line6.com[/caption]
 
 
 

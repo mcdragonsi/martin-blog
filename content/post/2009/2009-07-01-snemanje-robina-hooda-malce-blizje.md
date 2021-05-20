@@ -21,7 +21,7 @@ tags:
 - Travel and Tourism
 ---
 
-[caption id="attachment_1329" align="aligncenter" width="446"][![Slika z BBC strani, avtorja Scotty](https://dwlcvfkt1l4wn.cloudfront.net/2009/07/robinhood371-1.jpg)](https://dwlcvfkt1l4wn.cloudfront.net/2009/07/robinhood371.jpg) Slika z BBC strani, avtorja Scotty[/caption]
+[caption id="attachment_1329" align="aligncenter" width="446"][![Slika z BBC strani, avtorja Scotty](https://img.mcdowell.si/2009/07/robinhood371-1.jpg)](https://img.mcdowell.si/2009/07/robinhood371.jpg) Slika z BBC strani, avtorja Scotty[/caption]
 
 Včeraj sem šel spet malo na ogled do lokacije snemanja novega filma o Robinu Hoodu na obali [Freshwater West](http://en.wikipedia.org/wiki/Freshwater_West) in zadeve so se precej spremenile od prejšnjega tedna, ko sem bil nazadnje tam. Varnostnikov ni bilo veliko in tokrat so me vsaj spustili na plažo, kljub temu, da je na tam potekalo snemanje. Povsod sami statisti, večinoma v horizontali. Če se nisem spotaknil ob statista, sem se pa skoraj ob kako sulico. Mnogi so bili pokonci že od 4. ure zjutraj, da so jih ustrezno pripravili na snemanje in ko sem bil tam so morali biti pokonci okoli 10 ur, povrh vsega pa je še sonce žgalo. Ti res, spet so se mi zasmilili. Vsi so bili obleženi v obleke iz tistih časov (vsaj upam, da so bili iz tistih časov, kakšnih ustreznih prič nimam na voljo), na severnem delu plaže so bili, tako kot teden prej, statisti na konjih. One glavne zvezde me niso zanimale in opazovanje snemanja od blizu mi je bilo precej bolj cool.
 

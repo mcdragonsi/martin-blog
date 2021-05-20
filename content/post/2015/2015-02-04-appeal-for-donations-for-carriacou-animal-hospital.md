@@ -11,7 +11,7 @@ categories:
 - Carriacou 2015
 ---
 
-[caption id="attachment_2960" align="aligncenter" width="660"]![cah](https://dwlcvfkt1l4wn.cloudfront.net/2015/02/cah-1-1024x768.jpg) Photo by CAH[/caption]
+[caption id="attachment_2960" align="aligncenter" width="660"]![cah](https://img.mcdowell.si/2015/02/cah-1-1024x768.jpg) Photo by CAH[/caption]
 
 What a great experience. Lots of memories and and a moderate skin tan that will disappear quite quickly in this Welsh winter.
 
