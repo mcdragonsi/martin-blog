@@ -25,10 +25,12 @@ After arriving back at Heathrow and drove back, stopped at Papa Johns for some p
 
 Oh yeah, and the washing load was epic. The washing machine is still banging on about it to this very day.
 
-![Photo: Ness Orr](https://img.mcdowell.si/2019/10/group-photo4.resized.jpg "Photo: Ness Orr")
+![Photo: Ness Orr](https://img.mcdowell.si/2019/10/group-photo4.resized.jpg)
+Photo: Ness Orr
 
 ![](https://img.mcdowell.si/2019/10/kili-mash-potato.jpg)
 
 ![](https://img.mcdowell.si/2019/10/kili-beer.jpg)
 
-![Photo: Ness Orr](https://img.mcdowell.si/2019/10/group-photo3.resized.jpg "Photo: Ness Orr")
+![Photo: Ness Orr](https://img.mcdowell.si/2019/10/group-photo3.resized.jpg)
+Photo: Ness Orr

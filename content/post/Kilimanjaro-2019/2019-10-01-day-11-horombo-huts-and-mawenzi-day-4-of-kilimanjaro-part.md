@@ -14,79 +14,45 @@ tags:
 ---
 
 
-
-
 ## Tuesday, 1 October
-
-
-
-
-
-
-
 Elevation: 2,700 m (Horombo Hut) / 4310 m (Mawenzi Hut), moorland / alpine terrain
-
-
-
-
-
-
 
 A slightly different day today. Planned to be an acclimatisation day but difficult to acclimatise at 2,700 metres. Didn't really seem high enough. None of us had any sorts of problems even at the upper end of the hike just above Zebra rocks. The interesting bit was the snow storm we hiked through. And this is when we had a lovely sunny morning. As many of hikers know the weather up mountains can be very unpredictable. Yes, no shit. 
 
-
-
-
-
-![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.35.resized.jpg)A sunny morning at Horombo
-
-
-
-
+![A sunny morning at Horombo](https://img.mcdowell.si/2019/10/2019-10-01-08.48.35.resized.jpg)
+A sunny morning at Horombo
 
 The hike description by Intrepid originally mentioned Mawenzi huts but we didn't end up there. I think it must have been about 3,200 metres. 
 
-
-
-
-
-
-
 The afternoon and evening weather was rubbish in Horombo as well so we rekindled an old card game that I haven't played in donkeys called "[Uno](https://en.wikipedia.org/wiki/Uno_(card_game))". We also took the time to meet the cooks and the guides where they stayed in another hut. 
-
-
-
-
-
-
 
 We were in these quite cosy and very drafty A-frame huts that had 4 basic beds. And we were very cosy, the room you would have difficulty swinging a cat round if you should so desire (and as an avid cat lover I hope you wouldn't).
 
+![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.21.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.29.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.35.resized.jpg)
+![Mawenzi](https://img.mcdowell.si/2019/10/2019-10-01-09.05.19.resized.jpg)
+Mawenzi
+![](https://img.mcdowell.si/2019/10/2019-10-01-09.49.50.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.11.31.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.15.52.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.10.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.20.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.34.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.17.14.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.17.29.resized.jpg)
+![Group photo at Zebra rocks](https://img.mcdowell.si/2019/10/2019-10-01-10.24.34.resized.jpg)
+Group photo at Zebra rocks
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.26.01.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.48.34.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.51.22.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-01-10.58.37.resized.jpg)
+![Returning to Horombo after our hike through snow to Zebra rocks](https://img.mcdowell.si/2019/10/2019-10-01-12.08.38.resized.jpg)
+Returning to Horombo after our hike through snow to Zebra rocks
 
+![The kitchen](https://img.mcdowell.si/2019/10/2019-10-01-17.16.46.resized.jpg)
+The kitchen
 
-
-
-
-
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.21.resized.jpg)](https://mcdowell.si/?attachment_id=4547)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.29.resized.jpg)](https://mcdowell.si/?attachment_id=4548)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-08.48.35.resized.jpg)](https://mcdowell.si/?attachment_id=4549)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-09.05.19.resized.jpg)](https://mcdowell.si/?attachment_id=4550)Mawenzi
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-09.49.50.resized.jpg)](https://mcdowell.si/?attachment_id=4551)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.11.31.resized.jpg)](https://mcdowell.si/?attachment_id=4552)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.15.52.resized.jpg)](https://mcdowell.si/?attachment_id=4553)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.10.resized.jpg)](https://mcdowell.si/?attachment_id=4554)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.20.resized.jpg)](https://mcdowell.si/?attachment_id=4555)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.16.34.resized.jpg)](https://mcdowell.si/?attachment_id=4556)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.17.14.resized.jpg)](https://mcdowell.si/?attachment_id=4557)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.17.29.resized.jpg)](https://mcdowell.si/?attachment_id=4558)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.24.34.resized.jpg)](https://mcdowell.si/?attachment_id=4559)Group photo at Zebra rocks
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.26.01.resized.jpg)](https://mcdowell.si/?attachment_id=4560)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.48.34.resized.jpg)](https://mcdowell.si/?attachment_id=4561)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.51.22.resized.jpg)](https://mcdowell.si/?attachment_id=4562)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-10.58.37.resized.jpg)](https://mcdowell.si/?attachment_id=4563)
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-12.08.38.resized.jpg)](https://mcdowell.si/?attachment_id=4564)Returning to Horombo after our hike through snow to Zebra rocks
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-17.16.46.resized.jpg)](https://mcdowell.si/?attachment_id=4565)The kitchen
-  * [![](https://img.mcdowell.si/2019/10/2019-10-01-17.20.50.resized.jpg)](https://mcdowell.si/?attachment_id=4566)The kitchen
-
+![The kitchen](https://img.mcdowell.si/2019/10/2019-10-01-17.20.50.resized.jpg)
+The kitchen
 

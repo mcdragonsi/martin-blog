@@ -44,4 +44,5 @@ Because of the low O2 in the air my brain also wasn't working very well and I ha
 
 ![](https://img.mcdowell.si/2019/10/2019-10-03+07.32.08.resized.jpg)
 
-![](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg)
+![Made it!!](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg)
+Made it!!

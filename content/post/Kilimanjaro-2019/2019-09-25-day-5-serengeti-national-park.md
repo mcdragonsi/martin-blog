@@ -17,9 +17,9 @@ What a night! Sleeping in the tent and surrounded by sounds of the Serengeti wil
 
 After breakfast we set off on the safari proper and saw loads. I know some get to see more than we did and some can see less but if you stick around long enough you are sure to see at least a few animals. Zebras, giraffes and antilopes are almost a given. We also saw several lions, elephants, hippopotami and even a leopard print resting in a tree. By the way that is the most common way to see them. 
 
-[![](https://img.mcdowell.si/2019/09/IMG_20190925_104831.jpg)]
+![](https://img.mcdowell.si/2019/09/IMG_20190925_104831.jpg)
 
-[![](https://img.mcdowell.si/2019/09/IMG_20190925_071205.jpg)]
+![](https://img.mcdowell.si/2019/09/IMG_20190925_071205.jpg)
 
 We encountered lionesses crossing the road in front of us, we saw a different group of lions stalk a water buffalo. They didn't end up attacking it though. We saw a baby elephant walking with the rest of its family. 😍
 

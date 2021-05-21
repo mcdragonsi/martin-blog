@@ -23,45 +23,18 @@ In the past it has not been uncommon for buffalo and hyenas wandering into the c
 
 The next stop is the [Ngorongoro crater](https://en.wikipedia.org/wiki/Ngorongoro_Conservation_Area#Ngorongoro_Crater).
 
-[![](https://img.mcdowell.si/2019/09/ngorongoro-crater-1024x536.jpg)](https://img.mcdowell.si/2019/09/ngorongoro-crater.jpg)Image: Peakplanet.com
+![](https://img.mcdowell.si/2019/09/ngorongoro-crater-1024x536.jpg)Image: Peakplanet.com
 
 Then comes the hard bit as we approach the foot of Mt Kilimanjaro in a town called Marangu. This is the last time we see any degree of creature comforts in a form of a hotel and wifi.
 
-
-
-
-
-
-
 Its a 5 day hike up to Uhuru peak stopping overnight at various huts. Not sure what to expect but my only experience of mountain huts have been on my 2001 hike up [Mt Triglav](https://en.wikipedia.org/wiki/Triglav) in Slovenia where I staid in Dom Planika and Koča pri Triglavskih sedmerih jezerih. 
 
-
-
-
-
-[![](https://img.mcdowell.si/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)](https://img.mcdowell.si/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)Image: Ultimate Kilimanjaro
-
-
-
-
+![Image: Ultimate Kilimanjaro](https://img.mcdowell.si/2019/09/Ultimate_Kilimanjaro_Marangu_Route.png)
+Image: Ultimate Kilimanjaro
 
 The route above is from another company but I think our plan is the same. 
 
-
-
-
-
-
-
 The last day we return back in one big downward 20 kilometre hike to Marangu and and a well deserved hot shower. 
 
-
-
-
-
-
-
 Early the next morning I have to be back on the orad as I have a 6am flight from Kilimanjaro int'l airport to Nairobi and then 2 hours later a flight back to London, Heathrow. It will be weird waking up next to Mt Kilimanjaro and being back in Bromyard that evening. 
-
-
 

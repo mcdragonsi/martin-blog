@@ -36,15 +36,12 @@ Just as we started to ascend towards the Ngorongoro crater the truck came to a h
 ![](https://img.mcdowell.si/2019/09/IMG_20190926_152826.jpg)
 
 
-
-
-
 This time the guys did a bigger job of some kind and managed to get us to Ngorongoro. 
 
-  [![](https://img.mcdowell.si/2019/10/2019-09-26-08.57.56.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/2019-10-12-21.32.18.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/2019-10-12-21.33.09.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/IMG_3264.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/IMG_3267.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/IMG_3285.resized.jpg)]
-  [![](https://img.mcdowell.si/2019/10/IMG_3288.resized.jpg)]
+![](https://img.mcdowell.si/2019/10/2019-09-26-08.57.56.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-12-21.32.18.resized.jpg)
+![](https://img.mcdowell.si/2019/10/2019-10-12-21.33.09.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3264.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3267.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3285.resized.jpg)
+![](https://img.mcdowell.si/2019/10/IMG_3288.resized.jpg)

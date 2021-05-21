@@ -12,25 +12,12 @@ categories:
 - Trips and outings
 ---
 
-
-
-
 Modified the usual hike that goes straight up from the Cwm Gwdi carpark. Elevation gain 914 m.
 
-
-
-
-
-
-
-
-
-
-
-  * [![](https://img.mcdowell.si/2019/06/2019-06-22-13.04.04-1024x576.jpg)](https://mcdowell.si/?attachment_id=3786)
-  * [![](https://img.mcdowell.si/2019/06/2019-06-22-13.41.33-1024x576.jpg)](https://mcdowell.si/?attachment_id=3787)
-  * [![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.37-1024x576.jpg)](https://mcdowell.si/?attachment_id=3788)
-  * [![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.42-1024x576.jpg)](https://mcdowell.si/?attachment_id=3789)
-  * [![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.49-1024x577.jpg)](https://mcdowell.si/?attachment_id=3790)
+![](https://img.mcdowell.si/2019/06/2019-06-22-13.04.04-1024x576.jpg)
+![](https://img.mcdowell.si/2019/06/2019-06-22-13.41.33-1024x576.jpg)
+![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.37-1024x576.jpg)
+![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.42-1024x576.jpg)
+![](https://img.mcdowell.si/2019/06/2019-06-22-14.24.49-1024x577.jpg)
 
 

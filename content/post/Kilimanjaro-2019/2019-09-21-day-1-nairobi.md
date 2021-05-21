@@ -28,8 +28,13 @@ At 6pm we had the Serengeti group meeting. Some of them were already on Kilimanj
 ![](https://img.mcdowell.si/2019/10/2019-09-20-16.08.39-1024x577.jpg)
 ![](https://img.mcdowell.si/2019/10/2019-09-21-10.55.50-1024x683.jpg)
 ![](https://img.mcdowell.si/2019/10/2019-09-21-13.17.37-576x1024.jpg)
-![Health and safety (not) in action](https://img.mcdowell.si/2019/10/2019-09-21-13.30.39-1024x576.jpg "Health and safety (not) in action")
+
+![Health and safety (not) in action](https://img.mcdowell.si/2019/10/2019-09-21-13.30.39-1024x576.jpg)
+Health and safety (not) in action 
+
 ![Health and safety (not) in action](https://img.mcdowell.si/2019/10/2019-09-21-13.30.46-576x1024.jpg)
+Health and safety (not) in action
+
 ![](https://img.mcdowell.si/2019/10/2019-09-21-13.59.21-1024x683.jpg)
 ![Meeting a friend at the top of Nairobi](https://img.mcdowell.si/2019/10/2019-09-21-14.21.37-1024x576.jpg)
 ![](https://img.mcdowell.si/2019/10/IMG_2967-1024x683.jpg)

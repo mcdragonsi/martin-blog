@@ -16,34 +16,14 @@ categories:
 
 One of the matters you need to address when traveling to many countries in Africa are health orientated. The company Intrepid who I am using for the trip does mention this n their travel advice and probably the best place to go for more advice is your GP or a travel vaccination centre. There are a couple of very good websites that will help with that.
 
-
-
-
-
-
-
 [https://travelhealthpro.org.uk/](https://travelhealthpro.org.uk/) and [https://www.fitfortravel.nhs.uk/](https://www.fitfortravel.nhs.uk/)
-
-
-
-
-
 
 
 There are quite a few diseases that are mentioned for my trip that includes two countries: Kenya and Tanzania so I need to be covered for both. Luckily a lot of mosquito related problems aren't applicable on higher altitudes of Kilimanjaro.
 
 
 
-
-
-
-
 The diseases turns out I should focus on and to the ones I got protected against is
-
-
-
-
-
 
 
   * malaria: tablets that need to be taken two days before the trip, every day during the trip and another 7 days after
@@ -53,16 +33,7 @@ The diseases turns out I should focus on and to the ones I got protected against
   * Yellow fever
 
 
-
-
-
-
 The diphtheria and Hepatitis A are actually covered by the NHS but I did   have to pay for the rabies jab. I had a discussion with the GP nurse about Hepatitis B but decided against it. It is not that widespread in Kenya and Tanzania and would only be a concern if I got injured. It is is also sexually transmitted but don't think I'll be up to those kind of things while I'm there.
-
-
-
-
-
 
 
 ![Martin McDowell, Kilimanjaro 2019](https://img.mcdowell.si/2019/03/martin-kili.ai_.svg_.png)
