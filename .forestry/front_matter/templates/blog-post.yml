@@ -20,12 +20,15 @@ fields:
 - type: text
   name: title
   label: title
-- type: number
-  name: wordpress_id
-  label: wordpress_id
 - type: list
   name: categories
   label: categories
 - type: list
   name: tags
   label: tags
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail
+  description: An image thumbnail 680 x 680 px
