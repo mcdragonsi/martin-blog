@@ -11,7 +11,8 @@ categories:
 - Carriacou 2015
 ---
 
-[caption id="attachment_2960" align="aligncenter" width="660"]![cah](https://img.mcdowell.si/2015/02/cah-1-1024x768.jpg) Photo by CAH[/caption]
+![Photo by CAH](https://img.mcdowell.si/2015/02/cah-1-1024x768.jpg)
+Photo by CAH
 
 What a great experience. Lots of memories and and a moderate skin tan that will disappear quite quickly in this Welsh winter.
 
@@ -21,11 +22,6 @@ Although there were a lot of nice relaxing moments on the beach there were also 
 [![JustGiving - Sponsor me now!](https://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](https://www.justgiving.com/Martin-McDowell)This is why I would like to appeal for your help as the hospital is not government funded and relies only on charitable donations. One of the vets in the UK has opened a Just Giving page here:
 
 
-
-
 [**https://www.justgiving.com/carricaouanimalhospital/**](https://www.justgiving.com/carricaouanimalhospital/)
-
-
-
 
 All proceeds go to buying supplies for CAH. Alternatively you can also donate to the [Worldwide Veterinary Service](http://www.wvs.org.uk/) (WVS) who organise volunteer work in projects round the world and provide help for various causes.

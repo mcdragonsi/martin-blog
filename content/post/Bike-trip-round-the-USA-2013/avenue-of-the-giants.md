@@ -12,7 +12,7 @@ categories:
 - Motorcycling
 ---
 
-![Avenue of the giants](/img/Redwood-Road-Sequoia-National-Park-1.jpg)
+![Avenue of the giants](https://img.mcdowell.si/2013/07/Redwood-Road-Sequoia-National-Park-1.jpg)
 
 The name sounds like something from a children's adventure book, perhaps depicting an overgrown legume, but this was an actually road-sign I saw in northern California that was inviting me to leave the route 101 and explore its mysteries.
 

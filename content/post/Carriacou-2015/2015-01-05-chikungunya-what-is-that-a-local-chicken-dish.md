@@ -14,7 +14,8 @@ tags:
 - Chikungunya
 ---
 
-[caption id="attachment_2926" align="alignleft" width="150"]![Sun, Siyang et al., 2013](https://img.mcdowell.si/2015/01/Chikungunya-1-150x150.jpg) The Chikungunya virus / Sun, Siyang et al., 2013[/caption]
+![The Chikungunya virus / Sun, Siyang et al., 2013](https://img.mcdowell.si/2015/01/Chikungunya-1.jpg) 
+The Chikungunya virus / Sun, Siyang et al., 2013
 
 Soon after starting planning my volunteer trip to Carriacou I was given advice about vaccinations I would require. These were basically for rabies and tetanus. As I was tested and proven that I already had enough anti-bodies against tetanus (Clostridium tetani) all I had to do was to get my rabies shots. Great. Cashed out over £110 for this and thought this was it.
 
@@ -25,9 +26,6 @@ Want to know more? [optimistic version](http://www.fitfortravel.nhs.uk/advice/di
 [![JustGiving - Sponsor me now!](http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](http://www.justgiving.com/Martin-McDowell)
 
 Image reference
-
-
-
  	
   * Sun, Siyang et al., 2013 “Structural Analyses at Pseudo Atomic Resolution of Chikungunya Virus and Antibodies Show Mechanisms of Neutralization.” Ed. Werner Kühlbrandt. eLife 2 (2013): e00435. PMC. Web. 5 Jan. 2015.
 

@@ -12,7 +12,8 @@ categories:
 - Motorcycling
 ---
 
-[caption id="attachment_2693" align="aligncenter" width="1000"]![End of the trip in Chicago, Illinois](https://img.mcdowell.si/2013/07/Martin_Chicago_1000-1.jpg) End of the trip in Chicago, Illinois[/caption]
+![End of the trip in Chicago, Illinois](https://img.mcdowell.si/2013/07/Martin_Chicago_1000-1.jpg)
+End of the trip in Chicago, Illinois
 
 Today marked the first week since I hit the road. It seems like ages since I departed Chicago and I must say the trip has given me the desired effect and changed my perspective on biking and bikers. Long I thought them to be criminal gang associated thugs. But the truth really is far faaar from that misconception. They are a really friendly bunch of people that will always help each-other in trouble. Even in the first week I have met loads and they are just normal people with a desire to explore the world. Just as an example I would mention the moment when I was riding on a road somewhere in Illinois and I noticed in my rear-view mirrors that my luggage was slipping to one side. I quickly pulled over after checking there was nobody behind me. But just as I got of my bike I car pulled up just in front of me and I was a little embarrassed when a driver checked that I was OK and if I needed any help. I was amazed.
 One of the points of the trip was also to see if biking is really for me, am I really for it. To be honest after the escapade in Yellowstone and all the wet and cold weather I had to endure I realy realy miss my car, the fact that I push the button and warm air starts blowing in my face, the fact that even if it is cold outside my fingers don't get frozen onto the steering wheel. If I would encounter a buffalo for example I would at least have some thin piece of metal between me and the hairy beast.
@@ -27,6 +28,6 @@ But as my general experience of the whole trip goes I really liked how the whole
 
 ![Illinois](https://img.mcdowell.si/2013/06/Illinois-1-1024x682.jpg)
 
-[caption id="attachment_2703" align="aligncenter" width="1000"]![On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really](https://img.mcdowell.si/2013/07/Chicago_4.1000px-1.jpg) On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really[/caption]
+![On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really](https://img.mcdowell.si/2013/07/Chicago_4.1000px-1.jpg) On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really
 
-[caption id="attachment_2460" align="aligncenter" width="600"]![In the KOA campsite in Bismarck, North Dakota](https://img.mcdowell.si/2013/06/wpid-20130609_210353-1.jpg) In the KOA campsite in Bismarck, North Dakota[/caption]
+![In the KOA campsite in Bismarck, North Dakota](https://img.mcdowell.si/2013/06/wpid-20130609_210353-1.jpg) In the KOA campsite in Bismarck, North Dakota
