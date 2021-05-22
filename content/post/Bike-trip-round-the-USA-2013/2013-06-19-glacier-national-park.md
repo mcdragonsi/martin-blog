@@ -6,6 +6,7 @@ layout: post
 link: https://mcdowell.si/glacier-national-park-2477.html
 slug: glacier-national-park
 title: Glacier national park
+thumbnail: https://img.mcdowell.si/2013/06/glacier-national-park.png
 wordpress_id: 2477
 categories:
 - Bike trip round the USA 2013
@@ -22,6 +23,8 @@ The following night I staid in a basic campsite at Logan State Park at Middle
 
 Coming back to the non-hitch-hiking guy. I felt bad passing him and abolutely no memories from maaaany US horror films about picking up strange people on the road came in to my mind as I decided to do a U-turn and try to find what was going on. The guy indeed had a car breakdown and needed to use the phone. The problem wasn't that I had luggage on my bike - I didn't, but I was not used to driving pillion drivers and had to quickly scramble through my memories of my training in [Motorcycling training Wales](http://motorcycletrainingwales.co.uk/) in Swansea. The guy was also a little, how shall I be politically correct .... well, he was fat. Just as I got him on the back seat - still not expecting my head to be chopped off at this moment - tried to start the engine and nilch, nada, nothing. Just as I realised I had the emergency cut off switch accidentally engaged another driver pulled up and offered to take the guy to the nearest phone. Haven't heard of any mysterious missing people in Montana or brutal murders but the whole notion only came to me as I was tucking in to my dinner.
 
-[caption id="attachment_2535" align="alignnone" width="450"]![wpid-20130616_153854.jpg](https://img.mcdowell.si/2013/06/wpid-20130616_153854-1.jpg) Lake McDonald[/caption]
+![Lake McDonald](https://img.mcdowell.si/2013/06/glacier-national-park.jpg "Lake McDonald")
 
-[caption id="attachment_2536" align="alignnone" width="600"]![wpid-20130616_153950.jpg](https://img.mcdowell.si/2013/06/wpid-20130616_153950-1.jpg) Lake McDonald[/caption]
+![Lake McDonald](https://img.mcdowell.si/2013/06/wpid-20130616_153854-1.jpg "Lake McDonald")
+
+![Lake McDonald](https://img.mcdowell.si/2013/06/wpid-20130616_153950-1.jpg "Lake McDonald")

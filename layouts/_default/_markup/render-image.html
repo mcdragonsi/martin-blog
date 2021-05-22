@@ -1,3 +1,11 @@
-<p class="md__image">
-  <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
-</p>
+<div class=image-block>
+    <figure class="md__image">
+        <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+    </figure>
+{{ if .Title }}
+    <figcaption>
+        <p class=md__image-caption>{{ .Title }}</p>
+    </figcaption>
+{{ end }}
+</div>
+

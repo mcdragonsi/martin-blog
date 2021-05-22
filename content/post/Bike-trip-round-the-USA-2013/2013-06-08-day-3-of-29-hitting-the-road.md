@@ -14,7 +14,7 @@ categories:
 
 Last night had a few loose nerves to which those close to me can attest. Got a little worried the Heritage wont be able to take all the luggage I had for it. Turns out it was fine and this photo confirms that.
 
-![](https://img.mcdowell.si/2013/06/wpid-20130607_0832391-1.jpg)
+![Fully loaded and ready to go](https://img.mcdowell.si/2013/06/wpid-20130607_0832391-1.jpg "Fully loaded and ready to go. Possibly regretting taking to much stuff")
 
 About an hour or so into my driving noticed that part of the luggage was listing to the right. Turns out the rollbag was not rigid enough and it sits on a very narrow carrier. After fastening it differently it seemed to be OK. But in all the worries about what was going on with the bags behind me I apparently forgot to raise my kick-stand on one of the luggage-check-stops. Not good.
 
@@ -28,6 +28,6 @@ As I was driving towards Minneapolis I noticed a KOA campsite so I turned in the
 Maybe I am just dumb. Anyhow... the pegs that come with it are almost useless. Any extra pressure on the .... like trying to push them down with your foot will bend them in very creative and artistic shapes. Not something I want to be doing tired after a long day's drive.
 Nice place but to very noisy as its right next to the motorway and, as I found out during the night, a busy railway.
 
-![](https://img.mcdowell.si/2013/06/wpid-20130607_130849-1.jpg)
+![Amish country](https://img.mcdowell.si/2013/06/wpid-20130607_130849-1.jpg "Amish country")
 
 

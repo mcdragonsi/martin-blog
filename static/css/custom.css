@@ -15,3 +15,16 @@
 .menu__btn {
     color: #ffffff;
 }
+
+div.image-block {
+    background-color: #e8e8e8;
+    padding: 0;
+}
+
+.md__image-caption {
+    font-weight: 700;
+    color: #3a4d5c;
+    text-align: center;
+    margin-top: 0px;
+    padding: 10px;
+}

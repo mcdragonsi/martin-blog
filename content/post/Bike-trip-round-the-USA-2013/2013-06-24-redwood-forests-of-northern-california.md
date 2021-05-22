@@ -6,7 +6,12 @@ layout: post
 link: https://mcdowell.si/redwood-forests-of-northern-california-2544.html
 slug: redwood-forests-of-northern-california
 title: Redwood forests of northern California
+thumbnail: https://img.mcdowell.si/2013/06/redwood-forests-of-northern-california.png
 wordpress_id: 2544
+
+categories:
+- Bike trip round the USA 2013
+- Motorcycling
 ---
 
 ![](https://img.mcdowell.si/2013/06/wpid-20130621_1422101-1.jpg)

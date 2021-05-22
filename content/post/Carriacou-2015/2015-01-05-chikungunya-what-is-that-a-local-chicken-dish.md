@@ -14,8 +14,7 @@ tags:
 - Chikungunya
 ---
 
-![The Chikungunya virus / Sun, Siyang et al., 2013](https://img.mcdowell.si/2015/01/Chikungunya-1.jpg) 
-The Chikungunya virus / Sun, Siyang et al., 2013
+![The Chikungunya virus / Sun, Siyang et al., 2013](https://img.mcdowell.si/2015/01/Chikungunya-1.jpg "The Chikungunya virus / Sun, Siyang et al., 2013") 
 
 Soon after starting planning my volunteer trip to Carriacou I was given advice about vaccinations I would require. These were basically for rabies and tetanus. As I was tested and proven that I already had enough anti-bodies against tetanus (Clostridium tetani) all I had to do was to get my rabies shots. Great. Cashed out over £110 for this and thought this was it.
 

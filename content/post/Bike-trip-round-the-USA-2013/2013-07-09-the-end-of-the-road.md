@@ -6,13 +6,15 @@ layout: post
 link: https://mcdowell.si/the-end-of-the-road-2607.html
 slug: the-end-of-the-road
 title: The end of the road
+thumbnail: https://img.mcdowell.si/2013/06/the-end-of-the-road.png
 wordpress_id: 2607
 categories:
 - Bike trip round the USA 2013
 - Motorcycling
 ---
 
-![Illinois](https://img.mcdowell.si/2013/06/Illinois-1-1024x682.jpg)Distance travelled: **~8,000 miles** (just under 13,000 km)
+![Illinois](https://img.mcdowell.si/2013/06/Illinois-1)
+Distance travelled: **~8,000 miles** (just under 13,000 km)
 
 The 17 states that I had a chance to see:
  	

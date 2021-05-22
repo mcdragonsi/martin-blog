@@ -5,6 +5,7 @@ date: 2013-09-01 22:00:00+00:00
 layout: post
 slug: dodging-storm-clouds
 title: Dodging storm clouds
+thumbnail: https://img.mcdowell.si/2013/06/dodging-storm-clouds_480x480.png
 wordpress_id: 2793
 categories:
 - Bike trip round the USA 2013

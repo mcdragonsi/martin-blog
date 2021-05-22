@@ -4,6 +4,7 @@ comments: false
 date: 2013-07-18 20:00:07+00:00
 layout: post
 link: https://mcdowell.si/my-biking-retrospective-2476.html
+thumbnail: https://img.mcdowell.si/2013/07/my-biking-retrospective-480x480.png
 slug: my-biking-retrospective
 title: My biking retrospective
 wordpress_id: 2476

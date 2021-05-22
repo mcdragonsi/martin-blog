@@ -6,6 +6,7 @@ layout: post
 link: https://mcdowell.si/grand-canyon-2569.html
 slug: grand-canyon
 title: Grand Canyon
+thumbnail: https://img.mcdowell.si/2013/06/grand-canyon.png
 wordpress_id: 2569
 categories:
 - Bike trip round the USA 2013

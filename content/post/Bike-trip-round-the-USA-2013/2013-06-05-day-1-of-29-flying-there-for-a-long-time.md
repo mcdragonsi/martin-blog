@@ -36,8 +36,8 @@ Feels weird when everyone you know is asleep and you can't chat with them online
 
 Another topic ... vending machines. Never seem to have any problems with them AT ALL when I am in the UK or Slovenia. Just see people hitting them in films - american films that is. And guess what. Got shafted the second time (the first time being the taxi driver) when the machine took the money but kept the drink. Luckily the staff were nice enough and vended me another one for free :-D
 
-![View of plane wing](https://img.mcdowell.si/2013/06/wpid-20130605_1015591-1.jpg)
+![](https://img.mcdowell.si/2013/06/wpid-20130605_1015591-1.jpg)
 
-![View of world map that shows where we are in the air](https://img.mcdowell.si/2013/06/wpid-20130605_1620351-1.jpg "View of world map that shows where we are in the air")
+![](https://img.mcdowell.si/2013/06/wpid-20130605_1620351-1.jpg)
 
 

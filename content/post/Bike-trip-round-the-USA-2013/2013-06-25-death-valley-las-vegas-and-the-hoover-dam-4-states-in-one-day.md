@@ -6,6 +6,7 @@ layout: post
 link: https://mcdowell.si/death-valley-las-vegas-and-the-hoover-dam-4-states-in-one-day-2556.html
 slug: death-valley-las-vegas-and-the-hoover-dam-4-states-in-one-day
 title: Death Valley, Las Vegas and the Hoover dam - 4 states in one day
+thumbnail: https://img.mcdowell.si/2013/06/death-valley-las-vegas-and-the-hoover-dam-4-states-in-one-day.png
 wordpress_id: 2556
 categories:
 - Bike trip round the USA 2013
@@ -14,7 +15,8 @@ categories:
 
 
 
-![wpid-20130624_104908.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_1049081-1.jpg)
+![Road down Deat Valley](https://img.mcdowell.si/2013/06/wpid-20130624_1049081-1.jpg)
+Road down Deat Valley
 
 Decided to give it a go and hope it doesn't bite me in the backside if I turn out to be late for my bike drop-off on Saturday I. Chicago.
 I decided I really wanted to see at least some of Grand Canyon and I went for it. From Bishop in California I headed southeast towards Las Vegas by crossing the "infamous" Death Valley. In fact its not that scary and there is even a small basic petrol station and motel there.
@@ -27,12 +29,11 @@ Returned back to Vegas and worked my way again through the highway system and de
 
 There is a very spectacular part of the motorway where it passes through a canyon at Mt. Bangs. At first it looks like the motorway will just hit the mountain or perhaps that there is a tunnel there. But then the road starts to weave through this very narrow canyon, parts of it were visibly man made. Really spectacular.
 
-[caption id="attachment_2561" align="alignnone" width="600"]![wpid-20130624_161306.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_161306-1.jpg) Hoover dam from the Arizona side[/caption]
+![wpid-20130624_161306.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_161306-1.jpg) Hoover dam from the Arizona side
 
-[caption id="attachment_2562" align="alignnone" width="600"]![wpid-20130624_154735.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_154735-1.jpg) View from the memorial bridge[/caption]
+![wpid-20130624_154735.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_154735-1.jpg) View from the memorial bridge
 
-[caption id="attachment_2563" align="alignnone" width="570"]![wpid-20130624_102548.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_102548-1.jpg) This was the state if the public toilets at a vista point above Death Valley. And yes. Those are bullet holes. Yiiihaaaaa[/caption]
+![wpid-20130624_102548.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_102548-1.jpg) This was the state if the public toilets at a vista point above Death Valley. And yes. Those are bullet holes. Yiiihaaaaa
 
-[caption id="attachment_2564" align="alignnone" width="600"]![wpid-20130624_095034.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_095034-1.jpg) Road towards Death Valley[/caption]
+![wpid-20130624_095034.jpg](https://img.mcdowell.si/2013/06/wpid-20130624_095034-1.jpg) Road towards Death Valley
 
-[gallery ids="2564,2563,2562,2561,2559"]

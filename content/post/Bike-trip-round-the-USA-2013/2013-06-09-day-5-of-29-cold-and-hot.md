@@ -6,6 +6,7 @@ layout: post
 link: https://mcdowell.si/day-5-of-29-cold-and-hot-2455.html
 slug: day-5-of-29-cold-and-hot
 title: Day 5 of 29 - Cold and hot
+thumbnail: https://img.mcdowell.si/2013/06/dodging-storm-clouds_480x480.png
 wordpress_id: 2455
 categories:
 - Bike trip round the USA 2013
@@ -18,7 +19,7 @@ Hmmmm, and I intend to do a lot of camping here.
 
 I still decided to ride on westwards towards North Dakota despite being in the middle of a cold front.
 
-![wpid-Screenshot_2013-06-09-08-17-59.png](https://img.mcdowell.si/2013/10/wpid-Screenshot_2013-06-09-08-17-59-1-150x150.png)
+![wpid-Screenshot_2013-06-09-08-17-59.png](https://img.mcdowell.si/2013/10/wpid-Screenshot_2013-06-09-08-17-59-1.png)
 
 The blue dot on this weather radar is me and the red one was Fargo which lies on the Minnesota / North Dakota border.
 

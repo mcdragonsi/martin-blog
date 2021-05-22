@@ -11,8 +11,7 @@ categories:
 - Carriacou 2015
 ---
 
-![View of Hillsborough from the hospital in Belair](https://img.mcdowell.si/2015/02/2015-01-30-15.27.19-1.jpg)
-View of Hillsborough from the hospital in Belair
+![View of Hillsborough from the hospital in Belair](https://img.mcdowell.si/2015/02/2015-01-30-15.27.19-1.jpg "View of Hillsborough from the hospital in Belair")
 
 There are two public routes on and off the island. The Osprey ferry and the SVG flight. Now it seems to be an established fact that the ferry is a much more adventurous route meaning it is often a nausea inducing experience even for the more seasoned sea travellers. Anecdotally the trip to Carriacou is usually worse than the trip back. I managed to keep my stomach content down but it was touch and go for about half an hour.
 
@@ -20,33 +19,25 @@ As I mentioned in one of my [previous post]({{< relref "2014-12-21-volunteering-
 
 I found most people on the island very very friendly and hospitable and I hope to be back there in the future, enjoying their great island and helping out their four-legged critters at the same time.
 
-![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.11.03-1.jpg)
-Downtown Hillsborough – the main town on Carriacou
+![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.11.03-1.jpg "Downtown Hillsborough – the main town on Carriacou")
 
-![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.12.49-1.jpg)
-Downtown Hillsborough – the main town on Carriacou
+![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.12.49-1.jpg "Downtown Hillsborough – the main town on Carriacou")
 
-![Tyrell Bay](https://img.mcdowell.si/2015/02/2015-01-23-12.56.38-1.jpg)
-Tyrell Bay
+![Tyrell Bay](https://img.mcdowell.si/2015/02/2015-01-23-12.56.38-1.jpg "Tyrell Bay")
 
-![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.11.03-1.jpg)
-Downtown Hillsborough – the main town on Carriacou
+![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.11.03-1.jpg "Downtown Hillsborough – the main town on Carriacou")
 
-![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.13.34-1.jpg)
-Downtown Hillsborough – the main town on Carriacou
+![Downtown Hillsborough – the main town on Carriacou](https://img.mcdowell.si/2015/02/2015-01-31-08.13.34-1.jpg "Downtown Hillsborough – the main town on Carriacou")
 
-![View of Hillsborough from the hospital in Belair](https://img.mcdowell.si/2015/02/2015-01-30-10.27.36-1.jpg)
-View of Hillsborough from the hospital in Belair
+![View of Hillsborough from the hospital in Belair](https://img.mcdowell.si/2015/02/2015-01-30-10.27.36-1.jpg "View of Hillsborough from the hospital in Belair")
 
 ![Photo of me on the beach](https://img.mcdowell.si/2015/02/2015-01-17-07.57.59-1.jpg)
 
 ![The beach outside the clinic](https://img.mcdowell.si/2015/02/2015-01-18-14.15.24-1.jpg)
 
-![A warning poster in the post office](https://img.mcdowell.si/2015/02/2015-01-20-14.46.08-e1423389785712-1.jpg)
-A warning poster in the post office
+![A warning poster in the post office](https://img.mcdowell.si/2015/02/2015-01-20-14.46.08-e1423389785712-1.jpg "A warning poster in the post office")
 
-![A warning poster in the post office](https://img.mcdowell.si/2015/02/2015-01-20-14.46.19-e1423389763576-1.jpg)
-A warning poster in the post office
+![A warning poster in the post office](https://img.mcdowell.si/2015/02/2015-01-20-14.46.19-e1423389763576-1.jpg "A warning poster in the post office")
 
 
 

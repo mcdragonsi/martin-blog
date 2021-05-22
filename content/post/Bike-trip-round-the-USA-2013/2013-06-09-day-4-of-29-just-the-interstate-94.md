@@ -6,6 +6,7 @@ layout: post
 link: https://mcdowell.si/day-4-of-29-just-the-interstate-94-2448.html
 slug: day-4-of-29-just-the-interstate-94
 title: Day 4 of 29 - Just the Interstate 94
+thumbnail: https://img.mcdowell.si/2013/06/day-4-of-29-just-the-interstate-94.png
 wordpress_id: 2448
 categories:
 - Bike trip round the USA 2013
@@ -23,6 +24,6 @@ Unfortunately I cannot self medicate myself and I am not intending to get out a 
 
 Stopped over at the Minneapolis Harley Davidson shop to buy some proper eyewear.
 
-![wpid-20130608_151123.jpg](https://img.mcdowell.si/2013/06/wpid-20130608_151123-1.jpg)
+![A quick lunch stop somwhere on the interstate](https://img.mcdowell.si/2013/06/wpid-20130608_151123-1.jpg "A quick lunch stop somwhere on the interstate")
 
 
