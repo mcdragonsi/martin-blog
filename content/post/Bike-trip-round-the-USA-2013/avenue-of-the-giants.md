@@ -3,7 +3,7 @@ author: mcdragon
 comments: false
 date: 2013-08-11 17:15:38+00:00
 layout: post
-link: https://mcdowell.si//avenue-of-the-giants.html
+link: https://mcdowell.si/avenue-of-the-giants.html
 slug: avenue-of-the-giants
 title: Avenue of the Giants
 wordpress_id: 2696
