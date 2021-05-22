@@ -20,7 +20,7 @@ I basically learnt the hard way of what it felt like to drive through a cold fro
 
 So this is what it all looked like on my phone using a weather app showing the rainfall radar.
 
-![The red dot is where I was at the time so I could see that there wasn't much weather on the other side of that wave of rain.](https://img.mcdowell.si/2013/06/wpid-Screenshot_2013-06-09-08-17-591-1-576x1024.png)
+![The red dot is where I was at the time so I could see that there wasn't much weather on the other side of that wave of rain](https://img.mcdowell.si/2013/06/wpid-Screenshot_2013-06-09-08-17-591-1-576x1024.png "The red dot is where I was at the time so I could see that there wasn't much weather on the other side of that wave of rain.")
 The red dot is where I was at the time so I could see that there wasn't much weather on the other side of that wave of rain.
 
 But I didn't realize at the time that I was in for some good soaking that would last about half a day. I remember at one point stopping more out of desperation at this diner next to the interstate to get myself warm on a all-you-can-drink coffee and lots of yummy egg-soaked calories with some peanut butter on the side.
