@@ -6,7 +6,11 @@
     <description>Recent content in Tags on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 May 2021 15:19:36 +0100</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 May 2021 15:19:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Grass snake</title>
       <link>https://blog.mcdowell.si/tags/grass-snake/</link>
@@ -89,6 +93,15 @@
     </item>
     
     <item>
+      <title>Law</title>
+      <link>https://blog.mcdowell.si/tags/law/</link>
+      <pubDate>Sat, 26 May 2018 13:14:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lawrenny</title>
       <link>https://blog.mcdowell.si/tags/lawrenny/</link>
       <pubDate>Sat, 26 May 2018 13:14:23 +0000</pubDate>
@@ -112,24 +125,6 @@
       <pubDate>Tue, 01 Sep 2015 07:26:41 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/gardens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>I am Fox</title>
-      <link>https://blog.mcdowell.si/tags/i-am-fox/</link>
-      <pubDate>Sun, 12 Jul 2015 14:43:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/i-am-fox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KeepTheBan</title>
-      <link>https://blog.mcdowell.si/tags/keeptheban/</link>
-      <pubDate>Sun, 12 Jul 2015 14:43:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/keeptheban/</guid>
       <description></description>
     </item>
     
@@ -296,51 +291,6 @@
     </item>
     
     <item>
-      <title>cepivo</title>
-      <link>https://blog.mcdowell.si/tags/cepivo/</link>
-      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/cepivo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pet travel scheme</title>
-      <link>https://blog.mcdowell.si/tags/pet-travel-scheme/</link>
-      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pet-travel-scheme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pets</title>
-      <link>https://blog.mcdowell.si/tags/pets/</link>
-      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pets/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rabies</title>
-      <link>https://blog.mcdowell.si/tags/rabies/</link>
-      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/rabies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>steklina</title>
-      <link>https://blog.mcdowell.si/tags/steklina/</link>
-      <pubDate>Fri, 01 Jul 2011 06:56:53 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/steklina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lake Cerknica</title>
       <link>https://blog.mcdowell.si/tags/lake-cerknica/</link>
       <pubDate>Thu, 16 Jun 2011 20:00:33 +0000</pubDate>
@@ -413,29 +363,11 @@
     </item>
     
     <item>
-      <title>Banking</title>
-      <link>https://blog.mcdowell.si/tags/banking/</link>
-      <pubDate>Tue, 31 May 2011 16:47:01 +0000</pubDate>
+      <title>London</title>
+      <link>https://blog.mcdowell.si/tags/london/</link>
+      <pubDate>Tue, 04 Jan 2011 17:59:54 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/banking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Credit cards</title>
-      <link>https://blog.mcdowell.si/tags/credit-cards/</link>
-      <pubDate>Tue, 31 May 2011 16:47:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/credit-cards/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paypal</title>
-      <link>https://blog.mcdowell.si/tags/paypal/</link>
-      <pubDate>Tue, 31 May 2011 16:47:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/paypal/</guid>
+      <guid>https://blog.mcdowell.si/tags/london/</guid>
       <description></description>
     </item>
     
@@ -503,74 +435,20 @@
     </item>
     
     <item>
-      <title>Bled</title>
-      <link>https://blog.mcdowell.si/tags/bled/</link>
-      <pubDate>Sun, 25 Jul 2010 12:06:43 +0000</pubDate>
+      <title>snow</title>
+      <link>https://blog.mcdowell.si/tags/snow/</link>
+      <pubDate>Tue, 22 Jun 2010 19:00:44 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/bled/</guid>
+      <guid>https://blog.mcdowell.si/tags/snow/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blejski vintgar</title>
-      <link>https://blog.mcdowell.si/tags/blejski-vintgar/</link>
-      <pubDate>Sun, 25 Jul 2010 12:06:43 +0000</pubDate>
+      <title>Snowdon</title>
+      <link>https://blog.mcdowell.si/tags/snowdon/</link>
+      <pubDate>Tue, 22 Jun 2010 19:00:44 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/blejski-vintgar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gospa Sveta</title>
-      <link>https://blog.mcdowell.si/tags/gospa-sveta/</link>
-      <pubDate>Sun, 25 Jul 2010 12:06:43 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/gospa-sveta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Huda luknj</title>
-      <link>https://blog.mcdowell.si/tags/huda-luknj/</link>
-      <pubDate>Sun, 25 Jul 2010 12:06:43 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/huda-luknj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ostrovica</title>
-      <link>https://blog.mcdowell.si/tags/ostrovica/</link>
-      <pubDate>Sun, 25 Jul 2010 12:06:43 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/ostrovica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>emergency department</title>
-      <link>https://blog.mcdowell.si/tags/emergency-department/</link>
-      <pubDate>Tue, 06 Jul 2010 19:00:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/emergency-department/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ER</title>
-      <link>https://blog.mcdowell.si/tags/er/</link>
-      <pubDate>Tue, 06 Jul 2010 19:00:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/er/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>urgenca</title>
-      <link>https://blog.mcdowell.si/tags/urgenca/</link>
-      <pubDate>Tue, 06 Jul 2010 19:00:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/urgenca/</guid>
+      <guid>https://blog.mcdowell.si/tags/snowdon/</guid>
       <description></description>
     </item>
     
@@ -602,6 +480,15 @@
     </item>
     
     <item>
+      <title>Recreation</title>
+      <link>https://blog.mcdowell.si/tags/recreation/</link>
+      <pubDate>Fri, 21 May 2010 20:00:23 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/recreation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recreation and Sports</title>
       <link>https://blog.mcdowell.si/tags/recreation-and-sports/</link>
       <pubDate>Fri, 21 May 2010 20:00:23 +0000</pubDate>
@@ -625,249 +512,6 @@
       <pubDate>Fri, 21 May 2010 20:00:23 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/walks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camera</title>
-      <link>https://blog.mcdowell.si/tags/camera/</link>
-      <pubDate>Thu, 20 May 2010 14:32:56 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/camera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Olympus</title>
-      <link>https://blog.mcdowell.si/tags/olympus/</link>
-      <pubDate>Thu, 20 May 2010 14:32:56 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/olympus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service charges</title>
-      <link>https://blog.mcdowell.si/tags/service-charges/</link>
-      <pubDate>Thu, 20 May 2010 14:32:56 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/service-charges/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Animal welfare</title>
-      <link>https://blog.mcdowell.si/tags/animal-welfare/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/animal-welfare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cats</title>
-      <link>https://blog.mcdowell.si/tags/cats/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/cats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dogs</title>
-      <link>https://blog.mcdowell.si/tags/dogs/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/dogs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electronic collar</title>
-      <link>https://blog.mcdowell.si/tags/electronic-collar/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/electronic-collar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kennel Club</title>
-      <link>https://blog.mcdowell.si/tags/kennel-club/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/kennel-club/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Royal Society for the Prevention of Cruelty to Animals</title>
-      <link>https://blog.mcdowell.si/tags/royal-society-for-the-prevention-of-cruelty-to-animals/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/royal-society-for-the-prevention-of-cruelty-to-animals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Welsh Assembly Government</title>
-      <link>https://blog.mcdowell.si/tags/the-welsh-assembly-government/</link>
-      <pubDate>Sun, 25 Apr 2010 13:30:34 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/the-welsh-assembly-government/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Post Office</title>
-      <link>https://blog.mcdowell.si/tags/post-office/</link>
-      <pubDate>Thu, 15 Apr 2010 13:02:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/post-office/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Royal Mail</title>
-      <link>https://blog.mcdowell.si/tags/the-royal-mail/</link>
-      <pubDate>Thu, 15 Apr 2010 13:02:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/the-royal-mail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travelogues</title>
-      <link>https://blog.mcdowell.si/tags/travelogues/</link>
-      <pubDate>Thu, 08 Apr 2010 22:13:04 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/travelogues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walking</title>
-      <link>https://blog.mcdowell.si/tags/walking/</link>
-      <pubDate>Thu, 08 Apr 2010 22:13:04 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/walking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Country music</title>
-      <link>https://blog.mcdowell.si/tags/country-music/</link>
-      <pubDate>Sat, 27 Mar 2010 18:50:36 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/country-music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>North Carolina</title>
-      <link>https://blog.mcdowell.si/tags/north-carolina/</link>
-      <pubDate>Sat, 27 Mar 2010 18:50:36 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/north-carolina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>https://blog.mcdowell.si/tags/google/</link>
-      <pubDate>Thu, 11 Mar 2010 20:22:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/google/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Maps</title>
-      <link>https://blog.mcdowell.si/tags/google-maps/</link>
-      <pubDate>Thu, 11 Mar 2010 20:22:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/google-maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Street View</title>
-      <link>https://blog.mcdowell.si/tags/google-street-view/</link>
-      <pubDate>Thu, 11 Mar 2010 20:22:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/google-street-view/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pembrokeshire</title>
-      <link>https://blog.mcdowell.si/tags/pembrokeshire/</link>
-      <pubDate>Thu, 11 Mar 2010 20:22:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pembrokeshire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comedy</title>
-      <link>https://blog.mcdowell.si/tags/comedy/</link>
-      <pubDate>Thu, 04 Mar 2010 20:55:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/comedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mock the Week</title>
-      <link>https://blog.mcdowell.si/tags/mock-the-week/</link>
-      <pubDate>Thu, 04 Mar 2010 20:55:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/mock-the-week/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Performing Arts</title>
-      <link>https://blog.mcdowell.si/tags/performing-arts/</link>
-      <pubDate>Thu, 04 Mar 2010 20:55:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/performing-arts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stand-up comedy</title>
-      <link>https://blog.mcdowell.si/tags/stand-up-comedy/</link>
-      <pubDate>Thu, 04 Mar 2010 20:55:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/stand-up-comedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theatre</title>
-      <link>https://blog.mcdowell.si/tags/theatre/</link>
-      <pubDate>Thu, 04 Mar 2010 20:55:06 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/theatre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recreation</title>
-      <link>https://blog.mcdowell.si/tags/recreation/</link>
-      <pubDate>Sun, 21 Feb 2010 18:36:40 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/recreation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sport</title>
-      <link>https://blog.mcdowell.si/tags/sport/</link>
-      <pubDate>Sun, 21 Feb 2010 18:36:40 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/sport/</guid>
       <description></description>
     </item>
     
@@ -908,6 +552,15 @@
     </item>
     
     <item>
+      <title>Pembrokeshire</title>
+      <link>https://blog.mcdowell.si/tags/pembrokeshire/</link>
+      <pubDate>Sun, 03 Jan 2010 21:01:54 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/pembrokeshire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>sheep</title>
       <link>https://blog.mcdowell.si/tags/sheep/</link>
       <pubDate>Sun, 03 Jan 2010 21:01:54 +0000</pubDate>
@@ -931,6 +584,15 @@
       <pubDate>Sat, 02 Jan 2010 21:52:22 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/preseli-hills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BBC</title>
+      <link>https://blog.mcdowell.si/tags/bbc/</link>
+      <pubDate>Wed, 23 Dec 2009 09:20:03 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/bbc/</guid>
       <description></description>
     </item>
     
@@ -1025,15 +687,6 @@
     </item>
     
     <item>
-      <title>London</title>
-      <link>https://blog.mcdowell.si/tags/london/</link>
-      <pubDate>Mon, 14 Dec 2009 19:33:51 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/london/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>London Eye</title>
       <link>https://blog.mcdowell.si/tags/london-eye/</link>
       <pubDate>Mon, 14 Dec 2009 19:33:51 +0000</pubDate>
@@ -1124,11 +777,11 @@
     </item>
     
     <item>
-      <title>Law</title>
-      <link>https://blog.mcdowell.si/tags/law/</link>
+      <title>dr.vet.med.</title>
+      <link>https://blog.mcdowell.si/tags/dr.vet.med./</link>
       <pubDate>Thu, 12 Nov 2009 10:00:48 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/law/</guid>
+      <guid>https://blog.mcdowell.si/tags/dr.vet.med./</guid>
       <description></description>
     </item>
     
@@ -1228,6 +881,15 @@
       <pubDate>Wed, 01 Jul 2009 18:38:28 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/russel-crowe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://blog.mcdowell.si/tags/travel/</link>
+      <pubDate>Wed, 01 Jul 2009 18:38:28 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/travel/</guid>
       <description></description>
     </item>
     
@@ -1475,20 +1137,11 @@
     </item>
     
     <item>
-      <title>Snowdon</title>
-      <link>https://blog.mcdowell.si/tags/snowdon/</link>
+      <title>Walking</title>
+      <link>https://blog.mcdowell.si/tags/walking/</link>
       <pubDate>Thu, 11 Jun 2009 09:56:12 +0000</pubDate>
       
-      <guid>https://blog.mcdowell.si/tags/snowdon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>https://blog.mcdowell.si/tags/travel/</link>
-      <pubDate>Thu, 11 Jun 2009 09:56:12 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/travel/</guid>
+      <guid>https://blog.mcdowell.si/tags/walking/</guid>
       <description></description>
     </item>
     
@@ -1502,272 +1155,11 @@
     </item>
     
     <item>
-      <title>BNP</title>
-      <link>https://blog.mcdowell.si/tags/bnp/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/bnp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EU</title>
-      <link>https://blog.mcdowell.si/tags/eu/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/eu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>European Union</title>
-      <link>https://blog.mcdowell.si/tags/european-union/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/european-union/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Politics</title>
-      <link>https://blog.mcdowell.si/tags/politics/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Society and Culture</title>
-      <link>https://blog.mcdowell.si/tags/society-and-culture/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/society-and-culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UK Independence</title>
-      <link>https://blog.mcdowell.si/tags/uk-independence/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/uk-independence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United Kingdom Independence Party</title>
-      <link>https://blog.mcdowell.si/tags/united-kingdom-independence-party/</link>
-      <pubDate>Sun, 17 May 2009 11:09:23 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/united-kingdom-independence-party/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Film</title>
-      <link>https://blog.mcdowell.si/tags/film/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/film/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harry Potter</title>
-      <link>https://blog.mcdowell.si/tags/harry-potter/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/harry-potter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harry Potter and the Deathly Hallows</title>
-      <link>https://blog.mcdowell.si/tags/harry-potter-and-the-deathly-hallows/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/harry-potter-and-the-deathly-hallows/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Movies</title>
-      <link>https://blog.mcdowell.si/tags/movies/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United Kingdom</title>
-      <link>https://blog.mcdowell.si/tags/united-kingdom/</link>
-      <pubDate>Wed, 22 Apr 2009 19:59:14 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/united-kingdom/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Easter</title>
-      <link>https://blog.mcdowell.si/tags/easter/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/easter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Liquefied natural gas</title>
-      <link>https://blog.mcdowell.si/tags/liquefied-natural-gas/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/liquefied-natural-gas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural gas</title>
-      <link>https://blog.mcdowell.si/tags/natural-gas/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/natural-gas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Petroleum</title>
-      <link>https://blog.mcdowell.si/tags/petroleum/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/petroleum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UK</title>
-      <link>https://blog.mcdowell.si/tags/uk/</link>
-      <pubDate>Sun, 12 Apr 2009 07:48:02 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/uk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knights Hospitaller</title>
-      <link>https://blog.mcdowell.si/tags/knights-hospitaller/</link>
-      <pubDate>Fri, 10 Apr 2009 17:49:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/knights-hospitaller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>River Cleddau</title>
-      <link>https://blog.mcdowell.si/tags/river-cleddau/</link>
-      <pubDate>Fri, 10 Apr 2009 17:49:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/river-cleddau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carregwastad Point</title>
-      <link>https://blog.mcdowell.si/tags/carregwastad-point/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/carregwastad-point/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fishguard</title>
-      <link>https://blog.mcdowell.si/tags/fishguard/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/fishguard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>France</title>
-      <link>https://blog.mcdowell.si/tags/france/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/france/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goodwick</title>
-      <link>https://blog.mcdowell.si/tags/goodwick/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/goodwick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>last invasion of Britain</title>
-      <link>https://blog.mcdowell.si/tags/last-invasion-of-britain/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/last-invasion-of-britain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>strumble head</title>
-      <link>https://blog.mcdowell.si/tags/strumble-head/</link>
-      <pubDate>Sat, 04 Apr 2009 07:03:07 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/strumble-head/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Preseli Pembrokeshire</title>
       <link>https://blog.mcdowell.si/tags/preseli-pembrokeshire/</link>
       <pubDate>Sun, 29 Mar 2009 17:29:53 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/preseli-pembrokeshire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lichen</title>
-      <link>https://blog.mcdowell.si/tags/lichen/</link>
-      <pubDate>Sun, 22 Mar 2009 19:00:51 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/lichen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nature reserve</title>
-      <link>https://blog.mcdowell.si/tags/nature-reserve/</link>
-      <pubDate>Sun, 22 Mar 2009 19:00:51 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/nature-reserve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>trek</title>
-      <link>https://blog.mcdowell.si/tags/trek/</link>
-      <pubDate>Sun, 22 Mar 2009 19:00:51 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/trek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mountaineering</title>
-      <link>https://blog.mcdowell.si/tags/mountaineering/</link>
-      <pubDate>Sat, 21 Mar 2009 19:00:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/mountaineering/</guid>
       <description></description>
     </item>
     
@@ -1790,65 +1182,11 @@
     </item>
     
     <item>
-      <title>Castle</title>
-      <link>https://blog.mcdowell.si/tags/castle/</link>
-      <pubDate>Sat, 14 Mar 2009 20:38:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/castle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Llawhaden</title>
-      <link>https://blog.mcdowell.si/tags/llawhaden/</link>
-      <pubDate>Sat, 14 Mar 2009 20:38:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/llawhaden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Couriers and Messengers</title>
-      <link>https://blog.mcdowell.si/tags/couriers-and-messengers/</link>
-      <pubDate>Tue, 03 Mar 2009 17:22:12 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/couriers-and-messengers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DHL</title>
-      <link>https://blog.mcdowell.si/tags/dhl/</link>
-      <pubDate>Tue, 03 Mar 2009 17:22:12 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/dhl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FedEx</title>
-      <link>https://blog.mcdowell.si/tags/fedex/</link>
-      <pubDate>Tue, 03 Mar 2009 17:22:12 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/fedex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>puncheston</title>
       <link>https://blog.mcdowell.si/tags/puncheston/</link>
       <pubDate>Mon, 09 Feb 2009 21:20:01 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/puncheston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>snow</title>
-      <link>https://blog.mcdowell.si/tags/snow/</link>
-      <pubDate>Mon, 09 Feb 2009 21:20:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/snow/</guid>
       <description></description>
     </item>
     
@@ -1952,96 +1290,6 @@
     </item>
     
     <item>
-      <title>line6</title>
-      <link>https://blog.mcdowell.si/tags/line6/</link>
-      <pubDate>Wed, 14 Jan 2009 13:00:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/line6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>POD XT Live</title>
-      <link>https://blog.mcdowell.si/tags/pod-xt-live/</link>
-      <pubDate>Wed, 14 Jan 2009 13:00:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pod-xt-live/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Variax</title>
-      <link>https://blog.mcdowell.si/tags/variax/</link>
-      <pubDate>Wed, 14 Jan 2009 13:00:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/variax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wine</title>
-      <link>https://blog.mcdowell.si/tags/wine/</link>
-      <pubDate>Wed, 14 Jan 2009 13:00:47 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/wine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cort</title>
-      <link>https://blog.mcdowell.si/tags/cort/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/cort/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cort EVL Z2</title>
-      <link>https://blog.mcdowell.si/tags/cort-evl-z2/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/cort-evl-z2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cranes cardiff</title>
-      <link>https://blog.mcdowell.si/tags/cranes-cardiff/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/cranes-cardiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electric guitar</title>
-      <link>https://blog.mcdowell.si/tags/electric-guitar/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/electric-guitar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gamlins cardiff</title>
-      <link>https://blog.mcdowell.si/tags/gamlins-cardiff/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/gamlins-cardiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guitar</title>
-      <link>https://blog.mcdowell.si/tags/guitar/</link>
-      <pubDate>Sun, 11 Jan 2009 17:17:01 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/guitar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ski resort</title>
       <link>https://blog.mcdowell.si/tags/ski-resort/</link>
       <pubDate>Tue, 30 Dec 2008 20:51:45 +0000</pubDate>
@@ -2069,6 +1317,15 @@
     </item>
     
     <item>
+      <title>DHL</title>
+      <link>https://blog.mcdowell.si/tags/dhl/</link>
+      <pubDate>Sat, 15 Nov 2008 21:14:42 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/dhl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DHL ServicePoint</title>
       <link>https://blog.mcdowell.si/tags/dhl-servicepoint/</link>
       <pubDate>Sat, 15 Nov 2008 21:14:42 +0000</pubDate>
@@ -2092,6 +1349,15 @@
       <pubDate>Sat, 15 Nov 2008 21:14:42 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/swansea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UK</title>
+      <link>https://blog.mcdowell.si/tags/uk/</link>
+      <pubDate>Sat, 15 Nov 2008 21:14:42 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/uk/</guid>
       <description></description>
     </item>
     
@@ -2191,15 +1457,6 @@
       <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/utilities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BBC</title>
-      <link>https://blog.mcdowell.si/tags/bbc/</link>
-      <pubDate>Tue, 07 Oct 2008 16:22:49 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/bbc/</guid>
       <description></description>
     </item>
     
@@ -2465,6 +1722,15 @@
     </item>
     
     <item>
+      <title>PD</title>
+      <link>https://blog.mcdowell.si/tags/pd/</link>
+      <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/pd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PDSA</title>
       <link>https://blog.mcdowell.si/tags/pdsa/</link>
       <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
@@ -2501,6 +1767,15 @@
     </item>
     
     <item>
+      <title>Royal Society for the Prevention of Cruelty to Animals</title>
+      <link>https://blog.mcdowell.si/tags/royal-society-for-the-prevention-of-cruelty-to-animals/</link>
+      <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/royal-society-for-the-prevention-of-cruelty-to-animals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RSPCA</title>
       <link>https://blog.mcdowell.si/tags/rspca/</link>
       <pubDate>Sun, 03 Aug 2008 17:51:34 +0000</pubDate>
@@ -2533,6 +1808,15 @@
       <pubDate>Tue, 29 Jul 2008 08:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/oxford-english-dictionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United Kingdom</title>
+      <link>https://blog.mcdowell.si/tags/united-kingdom/</link>
+      <pubDate>Tue, 29 Jul 2008 08:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/united-kingdom/</guid>
       <description></description>
     </item>
     
@@ -2596,6 +1880,15 @@
       <pubDate>Mon, 22 Oct 2007 20:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/parachute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://blog.mcdowell.si/tags/google/</link>
+      <pubDate>Thu, 27 Sep 2007 19:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/google/</guid>
       <description></description>
     </item>
     
@@ -2681,15 +1974,6 @@
     </item>
     
     <item>
-      <title>PD</title>
-      <link>https://blog.mcdowell.si/tags/pd/</link>
-      <pubDate>Wed, 14 Mar 2007 13:50:00 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/pd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ProTrack</title>
       <link>https://blog.mcdowell.si/tags/protrack/</link>
       <pubDate>Wed, 14 Mar 2007 13:50:00 +0000</pubDate>
@@ -2713,15 +1997,6 @@
       <pubDate>Fri, 01 Dec 2006 19:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/curry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dr.vet.med.</title>
-      <link>https://blog.mcdowell.si/tags/dr.vet.med./</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/dr.vet.med./</guid>
       <description></description>
     </item>
     

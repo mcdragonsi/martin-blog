@@ -14,7 +14,7 @@ tags:
 - Ryanair
 ---
 
-[![Ruinair](https://img.mcdowell.si/2009/03/ruinair1-1-201x300.jpg)](http://www.waterstones.com/waterstonesweb/displayProductDetails.do?sku=6493407)According to my experience, yes. I tell all [Ryanair](http://en.wikipedia.org/wiki/Ryanair) visitors in advance that this here is my personal opinion and will not allow the publication of rude comments from anyone.
+According to my experience, yes. I tell all [Ryanair](http://en.wikipedia.org/wiki/Ryanair) visitors in advance that this here is my personal opinion and will not allow the publication of rude comments from anyone.
 
 I had the misfortune of booking my flight today only to be confronted with an error just at the point you would least like it - after purchase.
 
@@ -25,25 +25,11 @@ I did get a confirmation by e-mail but I cannot verify my booking through the Ry
 Oh, yes, if Ryanair would like to contact me they can do so after paying me £5.00 for my troubles. And that goes for any possible comments for this post.
 
 Related links:
-
-
-
- 	
   * [Jason Roe](http://www.jason-roe.com/blog/free-ryanair-free-flight-bug/)
-
- 	
   * [BitterWallet](http://www.bitterwallet.com/ryanair-staff-abuse-customer-and-then-refuse-to-apologise/8202)
-
- 	
   * [Travolution](http://www.travolution.co.uk/blog/2009/02/ryanair-doesnt-want-anything-t.php)
-
- 	
   * [Michele Neylon](http://www.mneylon.com/blog/archives/2009/02/19/ryanair-staff-and-fixed-ips/)
-
 
 I found the below joke very fitting for this post. I don't know where it originated from but I found it on Vetsugeon.org
 
 ![airline_2d00_charge](https://img.mcdowell.si/2009/03/airline_2d00_charge1-1.gif)
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=fe443a8d-2bea-4446-bdef-f1cca1c333f7)](http://reblog.zemanta.com/zemified/fe443a8d-2bea-4446-bdef-f1cca1c333f7/)

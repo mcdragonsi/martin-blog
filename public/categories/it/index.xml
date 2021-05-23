@@ -6,15 +6,10 @@
     <description>Recent content in IT on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2013 19:00:30 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/categories/it/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The little wifi that thinks big</title>
-      <link>https://blog.mcdowell.si/post/2013/the-little-wifi-that-thinks-big/</link>
-      <pubDate>Wed, 10 Apr 2013 19:00:30 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/post/2013/the-little-wifi-that-thinks-big/</guid>
-      <description>I don&amp;rsquo;t usually write reviews here but this little gadget I have recently laid my hands on deserves it without any hesitation. My work makes me travel a lot and I stay in places that don&amp;rsquo;t have wifi access. Last year I bought a very capable and versatile Cisco/Linksys router E4200 but the problem is it is rather bulky. Not really made easy to travel around with. But recently, completely by chance, I came across this little fella from TP-Link with the technical name TL-WR702N .</description>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2010 21:26:15 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/categories/it/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>My GMail account hacked by 115.52.213.93</title>
@@ -24,16 +19,6 @@
       <guid>https://blog.mcdowell.si/post/2010/my-gmail-account-hacked-by-115-52-213-93/</guid>
       <description>Unfortunately my GMail account martin [dot] mcdowell got somehow hacked today and someone (or something) in China sent a spam message to all my 119 e-mail contacts in my address book at 15.35 this afternoon. The IP address the hack originated from was 115.52.213.93 and is assigned to the Chinese ISP CNC Group CHINA169.
 It looks like there was a Google-wide attack as their systems crashed. There are several reports of hacked accounts on Google forums.</description>
-    </item>
-    
-    <item>
-      <title>Google StreetView hits Pembrokeshire</title>
-      <link>https://blog.mcdowell.si/post/2010/google-streetview-hits-pembrokeshire/</link>
-      <pubDate>Thu, 11 Mar 2010 20:22:17 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/post/2010/google-streetview-hits-pembrokeshire/</guid>
-      <description>[caption id=&amp;ldquo;attachment_1558&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]   Taken from Google StreetView[/caption]
-Google StreetView&amp;rsquo;s coverage has been extended to about 90% of the country and that now includes Haverfordwest and Pembrokeshire . The images are pretty high quality. I have heard there is a bit of an anomaly with the High Street in Pembroke Dock as part of it was filmed in once season and the other part in another, with Christmas decorations still visible.</description>
     </item>
     
   </channel>

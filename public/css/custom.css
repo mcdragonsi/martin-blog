@@ -46,3 +46,13 @@ div.image-block {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
+blockquote {
+    border-color: #cd2653;
+    border-style: solid;
+    border-width: 0 0 0 .2rem;
+    color: inherit;
+    font-size: 1em;
+    margin: 4rem 0;
+    padding: .5rem 0 .5rem 2rem;
+}

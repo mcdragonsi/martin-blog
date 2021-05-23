@@ -15,7 +15,7 @@ tags:
 - Freshwater West
 ---
 
-[caption id="attachment_1244" align="aligncenter" width="500"]![Second location at the south Freshwater West carpark](https://img.mcdowell.si/2009/06/robin_hood_filmset1-1.jpg) Second location at the south Freshwater West carpark[/caption]
+![Second location at the south Freshwater West carpark](https://img.mcdowell.si/2009/06/robin_hood_filmset1-1.jpg "Second location at the south Freshwater West carpark")
 
 Had the opportunity to have a walk from Angle to the [Freshwater West](http://en.wikipedia.org/wiki/Freshwater_West) beach and it looks the production team has a lot of logistics to deal with. They seem to have chosen two locations to pitch-up marquees, one is just of the turn from the road to Angle on B4320 and B4319. The second, you could say the main, location is right next to the beach at the southern carpark.
 
