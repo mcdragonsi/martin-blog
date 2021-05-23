@@ -12,9 +12,6 @@ categories:
 - Trips and outings
 ---
 
-
-
-
 A training hike up Pen-y-fan on a Easter weekend.
 
  ![](https://img.mcdowell.si/2019/05/2019-04-22-10.50.20-1024x576.jpg)

@@ -17,11 +17,9 @@ tags:
 
 After seeing the filming of [Harry Potter and the Deathly Hallows](http://en.wikipedia.org/wiki/Harry_Potter_%28film_series%29#Harry_Potter_and_the_Deathly_Hallows_.E2.80.93_Part_2_.282011.29) and [Robin Hood](https://mcdowell.si/robin-hood-filmset-freshwater-west-on-june-23rd-1296.html) on the Freshwater West beach, [Third Star](http://en.wikipedia.org/wiki/Third_Star) in Barafundle Bay we have again the film crews back in Pembrokeshire for the filming of [**Snow White and the Huntsman**](http://en.wikipedia.org/wiki/Snow_White_and_the_Huntsman) on my favourite beach [Marloes Sands](http://en.wikipedia.org/wiki/Marloes_Sands).
 
-Filming should be around September 26th - 29th and should mainly involve filming of about 80 horses galloping towards a computer generated castle* on [Gateholm island](http://en.wikipedia.org/wiki/Gateholm). The film has some amazing actors in it like Kristen Stewart as Snow White and Charlize Theron as Ravenna, the Evil Queen. Other actors include Ian McShane, Bob Hoskins and Eddie Izzard. However the filming at Marloes Sands might not actually include any of these big names :-(
+Filming should be around September 26th - 29th and should mainly involve filming of about 80 horses galloping towards a computer generated castle on [Gateholm island](http://en.wikipedia.org/wiki/Gateholm). The film has some amazing actors in it like Kristen Stewart as Snow White and Charlize Theron as Ravenna, the Evil Queen. Other actors include Ian McShane, Bob Hoskins and Eddie Izzard. However the filming at Marloes Sands might not actually include any of these big names :-(
 
 Might have a look at the filming next week to see if they are doing it right ;-)
-
-* Source of information: [@MrSimonWood](https://twitter.com/#%21/MrSimonWood)
 
 ![](https://img.mcdowell.si/2011/09/IMG_1715-1.jpg)
 
@@ -32,14 +30,9 @@ So that meant the path from the [National Trust](http://www.nationaltrust.org.uk
 
 When I was there they were filming on the NW part of the beach. I had a walk down the SE side but by the time I came back they moved a bit towards us so my friend and I were politely asked to move to the side. A security guard also politely asked me not to take any photos of the actors on the beach as they are a bit sensitive about it. Don't know how some other photos were taken of the filmset. Maybe they have special privileges ;-) At least you can walk right on the set and nobody really minded, we were quite discreet and did not get in the way. The tent at the top of the ramp is used for catering and there were some nice smells coming from there that made us mighty hungry. Should have asked for a snack as by the time we arrived at the Lobster Pot in Marloes and the [Griffin](http://www.griffininndale.co.uk/) in Dale they were both closed for food serving :-(
 
-<del>Sorry guys, there is temporarily something wrong with the Google Picasa system that results in the below gallery to only show the old photos, not the new ones. Click here for my public Facebook album, but you have to log into Facebook to see it: [**http://www.facebook.com/media/set/?set=a.10150316501078391.348870.524823390&type=1**](http://www.facebook.com/media/set/?set=a.10150316501078391.348870.524823390&type=1)</del>
-
 **Uploaded them manually so they are all there below!**
-
-KPICASA_GALLERY(MarloesSandsFilmingOfSnowWhiteAndTheHuntsman)
 
 Here are photos from [Marloes Sands](https://picasaweb.google.com/118260873153557016225/MarloesSands) I took since moving to the area in 2007.
 
 
-
-http://www.youtube.com/embed/55Dq2psogSw
+{{< youtube id="55Dq2psogSw" title="Snow White & The Huntsman Trailer" >}}

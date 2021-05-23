@@ -22,14 +22,16 @@ What I usually do after a bite is to do the usual initial disinfection by dousin
 
 The next day I thought things were getting better so I decided to leave it only to start having problems in the evening. Luckily I already enquired with one of the nurses where the nearest A&E clinic is. In this case I went to the walk-in clinic in Blackpool.
 
-Please look away if you are squeamish but this is what my hand looked like about 36 hours after the bite
+Please look away if you are squeamish but this is what my hand looked like about 36 hours after the bite:
 
-[caption id="attachment_2140" align="alignnone" width="3264"]![](https://img.mcdowell.si/2012/09/2012-08-17-07.19.43-1.jpg) about 36 hours after bite[/caption]
+![](https://img.mcdowell.si/2012/09/2012-08-17-07.19.43-1.jpg "about 36 hours after bite")
 
-can't really see the swelling well but its there, trust me and the wound was suppurating quite nicely and very painful. Luckily the trip to the [![](http://mcdowelljp.cluster020.hosting.ovh.net/blog/wp-content/uploads/2012/09/2012-08-24-07.47.13-150x150.jpg)](https://img.mcdowell.si/2012/09/2012-08-24-07.47.13.jpg)Whitegate walk-in centre resulted in me receiving antibiotics flucloxacillin that worked really well. But examples like this just show what doctors can get away with in regards to owner compliance compared to us vets. The treatment demanded me to take the capsule four times a day. And you were also not allowed to eat two hours before and one hour after taking the pill. Well, simple maths show you that was 12h of me not eating. I was usually awake for about 16 hours so I had to get my eatin' done in those four hours throughout the day and still work at a very busy veterinary practice. Of course I couldn't do that and I had to cheat a few times.
+Can't really see the swelling well but its there, trust me and the wound was suppurating quite nicely and very painful. Luckily the trip to the 
+
+![](https://img.mcdowell.si/2012/09/2012-08-24-07.47.13-1.jpg)
+
+Whitegate walk-in centre resulted in me receiving antibiotics flucloxacillin that worked really well. But examples like this just show what doctors can get away with in regards to owner compliance compared to us vets. The treatment demanded me to take the capsule four times a day. And you were also not allowed to eat two hours before and one hour after taking the pill. Well, simple maths show you that was 12h of me not eating. I was usually awake for about 16 hours so I had to get my eatin' done in those four hours throughout the day and still work at a very busy veterinary practice. Of course I couldn't do that and I had to cheat a few times.
 
 Luckily the medication still worked fine and this is my hand two days after start of treatment
 
-[caption id="attachment_2141" align="aligncenter" width="501"][![](http://mcdowelljp.cluster020.hosting.ovh.net/blog/wp-content/uploads/2012/09/2012-08-19-08.15.18-1024x768.jpg)](https://img.mcdowell.si/2012/09/2012-08-19-08.15.18.jpg) about 48 hours after start of treatment[/caption]
-
-
+![](https://img.mcdowell.si/2012/09/2012-08-19-08.15.18-1.jpg "about 48 hours after start of treatment")

@@ -16,4 +16,7 @@ tags:
 
 This lovely estate is about 20 away from Carmarthen on the road to Llandeilo.
 
-[gallery link="file" ids="3009,3010,3011,3012,3013,3014"]
+![](https://img.mcdowell.si/2015/09/2015-08-31-11.54.51-1.jpg)
+![](https://img.mcdowell.si/2015/09/2015-08-31-12.13.55-1.jpg)
+![](https://img.mcdowell.si/2015/09/2015-08-31-12.15.52-1.jpg)
+

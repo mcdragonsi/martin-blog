@@ -14,6 +14,11 @@ categories:
 
 Went on a little boat trip with some friends on the Cleddau river in Pembrokeshire. They even served us fish & chips and beer and wine. Very cool.
 
-https://youtu.be/YpegGLRKnug
+{{< youtube id=YpegGLRKnug title="Boat trip on the Cleddau river" >}}
 
-[gallery ids="3429,3433,3432,3431,3430"]
+
+![The skipper awaits](https://img.mcdowell.si/2017/04/2017-04-13-17.28.19.resized.jpg "The skipper awaits")
+![](https://img.mcdowell.si/2017/04/2017-04-13-18.09.25.resized.jpg)
+![](https://img.mcdowell.si/2017/04/2017-04-13-17.39.14.resized.jpg)
+![](https://img.mcdowell.si/2017/04/2017-04-13-17.37.22.resized.jpg)
+![](https://img.mcdowell.si/2017/04/2017-04-13-17.34.31.resized.jpg)

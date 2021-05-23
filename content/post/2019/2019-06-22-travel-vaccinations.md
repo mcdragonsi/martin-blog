@@ -27,7 +27,7 @@ The diseases turns out I should focus on and to the ones I got protected against
 
 
   * malaria: tablets that need to be taken two days before the trip, every day during the trip and another 7 days after
-  * rabies: might not be on tops of other people's list but I might get close to animals and thought it might be good to get a booster. Had my initial three jabs before my [Carriacou trip](https://mcdowell.si/category/veterinary-medicine/carriacou-2015).
+  * rabies: might not be on tops of other people's list but I might get close to animals and thought it might be good to get a booster. Had my initial three jabs before my [Carriacou trip]({{< ref "/categories/carriacou-2015" >}} "Carriacou trip").
   * Diphtheria
   * Hepatitis A
   * Yellow fever
@@ -37,6 +37,3 @@ The diphtheria and Hepatitis A are actually covered by the NHS but I did   have 
 
 
 ![Martin McDowell, Kilimanjaro 2019](https://img.mcdowell.si/2019/03/martin-kili.ai_.svg_.png)
-
-
-

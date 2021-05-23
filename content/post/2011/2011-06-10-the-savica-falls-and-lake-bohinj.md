@@ -14,7 +14,7 @@ tags:
 - Upper Carniola
 ---
 
-[![Bohinj](https://img.mcdowell.si/2011/06/bohinj.jpg)](https://img.mcdowell.si/2011/06/bohinj.jpg)
+![Bohinj](https://img.mcdowell.si/2011/06/bohinj-1.jpg)
 
 This is an old favourite of mine and apparently for many Brits as well as during my short visit there saw countless UK reg cars on the roads.
 
@@ -22,4 +22,3 @@ The Savica waterfall is part of the [Sava Bohinjka](http://en.wikipedia.org/wiki
 
 The 71-metre waterfall is fed by the [Triglav Lakes](http://en.wikipedia.org/wiki/Triglav_Lakes_Valley) and flows into the [Bohinj lake](http://en.wikipedia.org/wiki/Lake_Bohinj).
 
-KPICASA_GALLERY(SlapSavicaInBohinjskoJezero)

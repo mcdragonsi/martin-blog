@@ -20,7 +20,4 @@ tags:
 
 Had a big snowstorm last night that covered [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire) with a bit of snow. These photos taken from a hike up to the highest peak in the [Preseli hills](http://en.wikipedia.org/wiki/Preseli_Hills) - [Foel Cwmcerwyn](http://en.wikipedia.org/wiki/Foel_Cwmcerwyn). Very windy at the top!
 
-KPICASA_GALLERY(PembrokeshireSnow2010)
 
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=4fe6b79b-9360-4d3c-b098-93c8ed369e4b)](http://reblog.zemanta.com/zemified/4fe6b79b-9360-4d3c-b098-93c8ed369e4b/)

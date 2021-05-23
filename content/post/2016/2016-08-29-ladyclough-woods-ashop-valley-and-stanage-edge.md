@@ -15,4 +15,20 @@ post_format:
 
 A nice little tour of the Peak District.
 
-[gallery ids="3022,3023,3024,3025,3026,3027,3028,3029,3030,3031,3032,3033,3034,3035,3038,3039"]
+![](https://img.mcdowell.si/2016/08/2016-08-29-12.05.42.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-10.47.30.jpg "Ladyclough woods")
+![](https://img.mcdowell.si/2016/08/2016-08-29-10.49.51.jpg "Ladyclough woods")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.04.57.jpg "Ladyclough woods")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.05.03.jpg "Ladyclough woods")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.25.47.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.29.57.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.37.36.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.46.03.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.55.52.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-11.58.26.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-12.05.42.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-13.16.11.jpg "Ashop valley")
+![](https://img.mcdowell.si/2016/08/2016-08-29-14.48.03.jpg "Stanage Edge")
+![](https://img.mcdowell.si/2016/08/2016-08-29-14.49.46.jpg "View from Stanage Edge")
+![](https://img.mcdowell.si/2016/08/2016-09-11-14.48.21.jpg "View south from Mam tor")
+![](https://img.mcdowell.si/2016/08/2016-09-11-15.16.44.jpg "Edale valley")

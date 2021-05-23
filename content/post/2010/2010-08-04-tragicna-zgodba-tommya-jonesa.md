@@ -22,10 +22,10 @@ Gospa Hamer, žena vrtnarja v majhni južno-valežanski vasici, naj bi ponoči s
 
 Pen-y-fan je najvišja točka gorovja imenovanega Brecon Beacons ki pokriva večji del južnega dela Walesa in skupaj z malo nižjim dvojčkom z imenom Corn Du tvorita čudovit razgled, ki bolj spominja na površino lune, kot pa na zeleno valežansko hribovje. Malo ob poti na vrh Brecon Beacons boste našli manjši obelisk, ki so ga postavili po končani iskalni akciji izginulega dečka Tommya.
 
-4. avgusta daljnega leta 1900 se je oče, po poklicu rudar, odpravil skupaj s svojim petletnim sinom Johnnyem na obisk sorodnikov na kmetijo nekaj kilometrov južno od mesteca [Brecon](http://en.wikipedia.org/wiki/Brecon). V Brecon sta prispela z vlakom okoli šestih zvečer, do kmetije pa ju je vodila šest in pol kilometra dolga pešpot. Okoli osmih zvečer sta prispela v danes podrto vasico Login, kjer je bila v tistem času nastanjena vojska, ki je imela višje v dolini strelske vaje.
+Dne 4. avgusta daljnega leta 1900 se je oče, po poklicu rudar, odpravil skupaj s svojim petletnim sinom Johnnyem na obisk sorodnikov na kmetijo nekaj kilometrov južno od mesteca [Brecon](http://en.wikipedia.org/wiki/Brecon). V Brecon sta prispela z vlakom okoli šestih zvečer, do kmetije pa ju je vodila šest in pol kilometra dolga pešpot. Okoli osmih zvečer sta prispela v danes podrto vasico Login, kjer je bila v tistem času nastanjena vojska, ki je imela višje v dolini strelske vaje.
 
 
-<blockquote>Zgodba se zdi močno oddaljena in življenja takratnih prebivalcev so že dolgo pozabljena. Prav tako se zdi, da na večer 110. obletnice Tommyevega izginotja njegovemu obelisku delajo le dežne kaplje in ovce na paši.</blockquote>
+> Zgodba se zdi močno oddaljena in življenja takratnih prebivalcev so že dolgo pozabljena. Prav tako se zdi, da na večer 110. obletnice Tommyevega izginotja njegovemu obelisku delajo le dežne kaplje in ovce na paši.
 
 
 Bila sta namenjena v še danes obstoječo majhno kmetijo z imenom Cwm-llwch. Od Logina do kmetije je bilo le okoli pol kilometra rahle hoje navkreber. Kljub temu, sta oče in sin za nekaj časa postala z vojaki in se okrepčala. Čisto po naključju, pa sta takrat v Login prispela še Tommyev dedek in 13-letni bratranec Willie John. Willija so poslali nazaj domov v Cwm llwch, da družino obvesti o skorajšnjem prihodu sorodnikov, za njim pa je stekel tudi mladi Tommy. Pot je bila za Tommya kar strašljiva, saj sta morala prečkati dve brvi postavljeni med gosto pozidanimi stavbami. Ena od brvi ni imela ograje in vse skupaj je bilo preveč za Tommya, ki je planil v jok. Želel je iti nazaj k očetu v Login. Dečka sta se zato ločila: Willie John navkreber po dolini proti kmetiji, Tommy pa nazaj navzdol v Login. Willie je v kmetijo prispel okoli petnajst minut potem, ko je zapustil strica in dedka, mladi Tommy pa v Login nikoli ni prispel.
@@ -45,7 +45,7 @@ Ravno približno v tem času pa je imela gospa Hamer svoje razsvetljujoče sanje
 Trupelce mladega dečka so še isti dan prenesli v dolino.
 
 
-<blockquote>Obelisk, ki je bil postavljen na mestu, kjer so našli Truplo Tommya Jonesa kaže kako zelo blizu so morali biti iskalci, ko so prečesavali greben. Leži skoraj čisto na poti do vrha Corn Du in Tommyev oče je bil verjetno le nekaj metrov stran, ko ga je iskal. Iskalci so verjetno videli le nekaj podobno skali v visoki travi.</blockquote>
+> Obelisk, ki je bil postavljen na mestu, kjer so našli Truplo Tommya Jonesa kaže kako zelo blizu so morali biti iskalci, ko so prečesavali greben. Leži skoraj čisto na poti do vrha Corn Du in Tommyev oče je bil verjetno le nekaj metrov stran, ko ga je iskal. Iskalci so verjetno videli le nekaj podobno skali v visoki travi.
 
 
 Sledil je sodni postopek, kjer je bilo kmalu potrjeno, da je deček umrl zaradi izčrpanosti in podhladitve. Nihče pa ni mogel jasno razložiti, kako naj bi tako majhen deček uspel priti tako visoko, ko pa je bil namenjen dol v dolino. Trupelce je bilo najdeno na nadmorski višini 700m, ker je pomenilo 400m višinske razlike z vasico Login, okoli tri in pol kilometra hoje čez strm in težko dostopen teren in to v precejšnji slabi vidljivosti. Najverjetneje se je Tommy potem, ko sta se ločila z Willie Johnom, izgubil, ko je prečkal prvo brv nato pa namesto, da bi prečkal drugo brv skrenil na levo in se potem "zahodil" v zahodni greben Pen Milan misleč, da se dejansko vrača priti kmetiji. Dečka je povrh še najverjetneje zajela panika in skupaj z vedno slabšo vidljivostjo je nadaljeval pot proti grebenu Cwm llwch. Danes žal vidimo, kako dolgo je zdržal in kako daleč je uspel priti.
@@ -56,22 +56,16 @@ Porote so v tistih časih dobile nezanemarljivo denarno nadomestilo za svoje del
 
 Od takrat je obelisk spomnil na tisoče planincev na dečka, ki je v rokah hribovja Brecon Beacons podlegel izčrpanosti in podhladitvi.
 
-[caption id="attachment_1666" align="aligncenter" width="1000"][![](https://img.mcdowell.si/2010/08/tommy_Jones_obelisk_w_title2-1.jpg)](https://img.mcdowell.si/2010/08/tommy_Jones_obelisk_w_title2.jpg) Obelisk z dolino Cwm llwch pod njim[/caption]
+![](https://img.mcdowell.si/2010/08/tommy_Jones_obelisk_w_title2-1.jpg "Obelisk z dolino Cwm llwch pod njim")
 
 Napis na obelisku:
 
 
-<blockquote>This obelisk marks the spot where the body of Tommy Jones aged 5 was found. He lost his way between Cwmllwch Farm and the Login on the night of August 4th 1900. After an anxious search of 29 days his body was found on September 2nd.</blockquote>
+> This obelisk marks the spot where the body of Tommy Jones aged 5 was found. He lost his way between Cwmllwch Farm and the Login on the night of August 4th 1900. After an anxious search of 29 days his body was found on September 2nd.
 
 
 Vir:
-
-
-
- 	
   1. [Victim of the Beacons](http://www.breconbeacons.org/visit-us/about-the-brecon-beacons/victim-of-the-beacons)
-
- 	
   2. [Wikipedia](http://en.wikipedia.org/wiki/Pen-y-Fan#Tommy_Jones.27_Obelisk)
 
 

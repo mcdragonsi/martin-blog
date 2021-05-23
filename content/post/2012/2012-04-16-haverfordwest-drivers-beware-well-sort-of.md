@@ -20,41 +20,20 @@ Will be getting some more lessons ASAP so unfortunately so you will have to endu
 
 Take care now :-)
 
-
-
-
 #### Update April 24th, 2012
-
-
 Passed my motorcycle theory test in Haverfordwest :-) On to the practical ones :-)
 
-
 #### Update May 9th, 2012
-
-
 Have been having quite a few lessons in Haverfordwest and Swansea as I seem to suck a little at riding a motorcycle but I can see some signs of improvement lately so there is still hope yet.
 
 
-![Me at Motorcycle Training Wales](https://img.mcdowell.si/2012/04/WMT-1-300x225.jpg)
-
-
-
-
+![Me at Motorcycle Training Wales](https://img.mcdowell.si/2012/04/WMT-1.jpg "Me at Motorcycle Training Wales")
 
 #### Update June 21st, 2012
-
-
 Successfully completed the first part of the practical exam called Module 1 :-) Did it on the same make and model of the Honda bike seen behind me on the photo above. I did the exam in the Swansea test centre which is just over an hours drive from Haverfordwest and still the closest test centre to me. Now I have start to get ready for Module 2 which is the bit of the practical exam you do on the 'real' roads. Module 1 is just in an enclosed circuit but its very technical.
 
-
 #### Update September, 2012
-
-
 Successfully completed module 2 so now I have the full licence.
 
-
-
- 	
-  * [US Biking trip](https://mcdowell.si/category/motorcycling/2013-bike-trip-to-the-states)
-
+[US Biking trip]({{< ref "/categories/bike-trip-round-the-usa-2013" >}} "US Biking trip")
 

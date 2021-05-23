@@ -18,10 +18,7 @@ One thing to note to anyone attempting to hike up the [Snežnik](http://en.wikip
 
 About half an hour or so from the summit I walked onto this clearing where there was a lot of chopped wood. The strange thing is it almost looked like it was put there deliberately and to try to get hikers to each take one piece of wood up the Snežnik hut. To my surprise that was exactly what the logs were there for as described by this somewhat poetically inspired sign:
 
-[caption id="attachment_2752" align="alignleft" width="1000"]![2013-09-03 15.28.08.resized](https://img.mcdowell.si/2013/10/2013-09-03-15.28.08.resized-1.jpg) Če star si, slabe sape,  
-počasi štej naprej korake.  
-Če pa mlad si, poln moči,  
-daj na ramo si par drvi.[/caption]
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.28.08.resized-1.jpg "Če star si, slabe sape, počasi štej naprej korake. Če pa mlad si, poln moči, daj na ramo si par drvi.") 
 
 
 As the sign was touting me to pick up a log if I was feeling young I decided that I will pick up two, of course. Nothing will interfere with my ego at this point and also ... no one was watching ... and I also couldn't brag to anyone ... except to you right now on this blog. Hell yeah, it is my blood blog anyway ;-)
@@ -29,6 +26,17 @@ As the sign was touting me to pick up a log if I was feeling young I decided tha
 
 When I arrived at the hut I was a little disappointed at how few other hikers have bothered to do the same log carrying as I did - you can clearly see on the photo just how few of the fresh-looking logs were taken up to the hut.
 
-[![2013-09-03 15.56.49.resized](https://img.mcdowell.si/2013/10/2013-09-03-15.56.49.resized-300x225.jpg)](https://img.mcdowell.si/2013/10/2013-09-03-15.56.49.resized.jpg)I took the trip back going north east and that is even more of a trek than getting to the mountain. Miles and miles of tracks through the deep forests of southern Slovenia.
+![I took the trip back going north east and that is even more of a trek than getting to the mountain. Miles and miles of tracks through the deep forests of southern Slovenia.](https://img.mcdowell.si/2013/10/2013-09-03-15.56.49.resized-1.jpg "I took the trip back going north east and that is even more of a trek than getting to the mountain. Miles and miles of tracks through the deep forests of southern Slovenia.")
 
-[gallery ids="2761,2760,2759,2758,2757,2756,2755,2754,2753,2752,2751"]
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.23.02.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.28.08.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-17.30.16.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-17.18.43.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-16.08.43.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-16.07.27.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-16.03.44.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.59.02.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.39.47.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.29.13.resized-1.jpg)
+![](https://img.mcdowell.si/2013/10/2013-09-03-15.28.08.resized-1.jpg)
+

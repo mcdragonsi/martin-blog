@@ -16,18 +16,26 @@ Haven't been on this little gem for a few years now. Some parts can be quite mud
 
 This walk was a modification of the Pentre Ifan walk from circular Pembrokeshire walks book by Dennis and Jan Kelsall. Only this time I extended it from the Pentre Ifan burial chamber towards the now confirmed site where the Stonehenge bluestones were sourced from. The location is called Rhos y felin and it sits next to the river Brynberian and surrounded by some of the most beautiful scenery Pembrokeshire has to offer.
 
-https://youtu.be/sYCgNOnKkqk
+{{< youtube id=sYCgNOnKkqk title="Origin of the Stonehenge bluestones" >}}
 
-[gallery ids="3436,3414,3415,3416,3417,3418,3419,3420,3421,3422,3423,3424,3425,3426,3427"]
+### Updated in 2018 with these pics:
+
+![](https://img.mcdowell.si/2017/04/2018-05-23-14.27.01.jpg "Origin of the Stonehenge bluestones")
+
+![](https://img.mcdowell.si/2017/04/2018-05-23-13.52.35.jpg "Pentre Ifan burial chamber")
+
+![](https://img.mcdowell.si/2017/04/2018-05-23-13.25.07.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-13.01.15.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.53.22.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.53.18-1.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.45.52-1.jpg)
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.45.11.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.41.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.37.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.02.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.42.58.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.13.36-2.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.12.33.jpg) 
+![](https://img.mcdowell.si/2017/04/2018-05-23-12.07.39-1.jpg)
 
 
-
-
-
-Updated in 2018 with these pics:
-
-[caption id="attachment_3533" align="alignnone" width="1000"]![](https://img.mcdowell.si/2017/04/2018-05-23-14.27.01.jpg) Origin of the Stonehenge bluestones[/caption]
-
-[caption id="attachment_3532" align="alignnone" width="1000"]![](https://img.mcdowell.si/2017/04/2018-05-23-13.52.35.jpg) Pentre Ifan burial chamber[/caption]
-
-![](https://img.mcdowell.si/2017/04/2018-05-23-13.25.07.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-13.01.15.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.53.22.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.53.18-1.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.45.52-1.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.45.11.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.41.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.37.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.43.02.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.42.58.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.13.36-2.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.12.33.jpg) ![](https://img.mcdowell.si/2017/04/2018-05-23-12.07.39-1.jpg)

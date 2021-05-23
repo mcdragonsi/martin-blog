@@ -14,7 +14,7 @@ tags:
 - Waterfall
 ---
 
-[caption id="attachment_1720" align="alignnone" width="500" caption="These waterfalls are actually Fullers Falls, not the one in the title"][![Fullers Falls - Sgwd y Pannwr](https://img.mcdowell.si/2010/10/Sgwd_y_Pannwr.jpg)](https://img.mcdowell.si/2010/10/Sgwd_y_Pannwr.jpg)[/caption]
+![Fullers Falls - Sgwd y Pannwr](https://img.mcdowell.si/2010/10/Sgwd_y_Pannwr-1.jpg "Fullers Falls - Sgwd y Pannwr")
 
 This hike is worth talking about as it takes you round some spectacular views in the Brecon Beacons.
 
@@ -24,4 +24,3 @@ One of the highlights of the walk is the fact that you can walk under one of the
 
 Taking this hike will also introduce you to waterfalls with delightful names like The Lady Waterfall and the Waterfall of the Chieftain.
 
-KPICASA_GALLERY(PontneddfechanWaterfalls)
