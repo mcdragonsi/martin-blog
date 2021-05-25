@@ -6,7 +6,11 @@
     <description>Recent content in Skiing on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2011 19:16:10 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/skiing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2011 19:16:10 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/skiing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Ski Wednesday</title>
       <link>https://blog.mcdowell.si/post/2011/ski-wednesday/</link>

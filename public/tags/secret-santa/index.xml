@@ -6,7 +6,11 @@
     <description>Recent content in Secret Santa on Martin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jan 2010 13:20:09 +0000</lastBuildDate><atom:link href="https://blog.mcdowell.si/tags/secret-santa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Jan 2010 13:20:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.mcdowell.si/tags/secret-santa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Dedek Mraz inkognito</title>
       <link>https://blog.mcdowell.si/post/2010/dedek-mraz-inkognito/</link>
