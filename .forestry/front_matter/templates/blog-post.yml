@@ -32,3 +32,5 @@ fields:
     maxSize: 64
   label: thumbnail
   description: An image thumbnail 680 x 680 px
+pages:
+- content/post/broken-foot.md
