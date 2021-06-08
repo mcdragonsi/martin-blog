@@ -7,7 +7,7 @@ draft = true
 layout = ""
 slug = ""
 tags = []
-thumbnail = "https://img.mcdowell.si.s3.amazonaws.com/fractured_metatarsal.jpg"
+thumbnail = "https://img.mcdowell.si.s3.amazonaws.com/fractured_metatarsal_680x680.jpg"
 title = "Broken foot"
 
 +++
