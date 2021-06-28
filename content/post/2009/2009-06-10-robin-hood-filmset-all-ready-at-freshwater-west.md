@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2009-06-10 06:55:52+00:00
 layout: post
-link: https://mcdowell.si/robin-hood-filmset-all-ready-at-freshwater-west-1238.html
 slug: robin-hood-filmset-all-ready-at-freshwater-west
 title: Robin Hood filmset all ready at Freshwater West
 wordpress_id: 1238

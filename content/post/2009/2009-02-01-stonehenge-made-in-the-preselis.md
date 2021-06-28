@@ -19,7 +19,7 @@ tags:
 - Stonehenge
 ---
 
-![carn_menyn_in_the_preselis](https://img.mcdowell.si/2009/02/carn_menyn_in_the_preselis1-1.jpg)
+![Carn Menyn in the Preselis](https://img.mcdowell.si/2009/02/carn_menyn_in_the_preselis1-1.jpg "Carn Menyn in the Preselis")
 
 
 

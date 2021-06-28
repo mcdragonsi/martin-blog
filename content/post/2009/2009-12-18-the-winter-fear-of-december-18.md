@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2009-12-18 21:23:38+00:00
 layout: post
-link: https://mcdowell.si/the-winter-fear-of-december-18-1458.html
 slug: the-winter-fear-of-december-18
 title: The winter fear of December 18 & 19
 wordpress_id: 1458
@@ -34,18 +33,3 @@ OK, we are now designated as late. Estimated departure time 13:00
 **Update 20 December in the morning**
 
 OK, after all the snow tears and swear words I'm finally in Ljubljana. Sorry I missed the skydiving film festival though. Off to clear the white stuff from the all so long drive soon.
-
-
-###### Related articles by Zemanta
-
-
-
-
-
- 	
-  * [Lake Bled Slovenia: alpine panoramas at half the price](http://r.zemanta.com/?u=http%3A//www.telegraph.co.uk/travel/destinations/europe/slovenia/6196725/Lake-Bled-Slovenia-alpine-panoramas-at-half-the-price.html&a=7693799&rid=8d6c1070-f8a8-4cc3-b660-582c56ae814d&e=02ac4a64d50d8de747d3ff3276c6f213) (telegraph.co.uk)
-
-
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=8d6c1070-f8a8-4cc3-b660-582c56ae814d)](http://reblog.zemanta.com/zemified/8d6c1070-f8a8-4cc3-b660-582c56ae814d/)

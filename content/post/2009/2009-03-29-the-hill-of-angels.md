@@ -32,8 +32,6 @@ If you are walking in the area the ruins of the Carn Ingli fort (the translation
 
 The book then states you should circle the fort on its north side and then find a path towards the hill on the eastern side. This is actually quite tricky but I was either lucky or my navigation experiences proved to be the basis of some good instincts. I though I completely missed those two poles and the tramway that were supposed to be somewhere on the descent. Instead I ended-up right on top of them - spot on!
 
-See the complete [photo gallery here](https://mcdowell.si/about/gallery?album=MynyddCaregogAndCarnIngli).
-
 The walk then continues towards some farms and ends up in the Cwm gwaun valley. The "second" part of the walk continues on a delightful path on the opposite side of the valley and there was absolutely nobody on it but myself. You will find a stunning forrest scenery, abandoned farms and even an abandoned mill.
 
 I would definitely recommend this trek to anyone and the muddiness factor was quite low.

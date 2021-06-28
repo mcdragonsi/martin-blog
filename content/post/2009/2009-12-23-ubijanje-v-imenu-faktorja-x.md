@@ -35,27 +35,4 @@ Uspelo jim je namreč zbrati čez 80.000 funtov.
 
 Poleg tega pa so 17. decembra imeli na BBC Radio 5 Morning show v živo predstavo iz Los Angelesa. Producenti so skupino prosili (mogoče celo zahtevali) da ne kolnejo. Če poznate pesem Killing in the name veste, da je kletvica "Fuck you, i won't do what you tell me" integralni del skladbe in to so seveda zapeli. Voditelja oddaje so jih po hitrem postopku odrezali, kar se na spodnjem posnetku ne sliši. Res bi rekli, da so si sami krivi. Lahko bi iskali namig v skladbi in tako vedeli, da se ne bodo ravnali po navodilih drugih.
 
-[http://www.rockpit.com/ratm/index.php](http://www.rockpit.com/ratm/index.php)
-
 http://www.youtube.com/watch?v=k-EMCd3VWys
-
-
-###### Related articles by Zemanta
-
-
-
-
-
- 	
-  * [Facebook backing trumps Cowell song](http://r.zemanta.com/?u=http%3A//www.cnn.com/2009/SHOWBIZ/Music/12/20/facebook.cowell.christmas/index.html&a=10595244&rid=2e92fd7e-7255-4bae-b732-800bc620385c&e=335f2d02af198b23c3dbbdaa4a88d5d4) (cnn.com)
-
- 	
-  * [Zee.: Rage against the Machine beats Simon Cowell to UK Christmas Number 1.](http://thenextweb.com/uk/2009/12/20/rage-machine-beats-simon-cowell-uk-christmas-number-1/) (thenextweb.com)
-
- 	
-  * [FACEBOOK WINS: Rage Against the Machine UK Christmas Number 1](http://mashable.com/2009/12/20/rage-against-the-machine-christmas/) (mashable.com)
-
-
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=2e92fd7e-7255-4bae-b732-800bc620385c)](http://reblog.zemanta.com/zemified/2e92fd7e-7255-4bae-b732-800bc620385c/)

@@ -15,7 +15,7 @@ tags:
 - Pembrokeshire
 ---
 
-[caption id="attachment_1407" align="alignleft" width="200"][![This is not a photo from the incident](https://img.mcdowell.si/2009/12/scary_horse_11-1.jpg)](https://img.mcdowell.si/2009/12/scary_horse_11.jpg) This is not a photo from the incident[/caption]
+![This is not a photo from the incident](https://img.mcdowell.si/2009/12/scary_horse_11-1.jpg "This is not a photo from the incident")
 
 Recently I haven not been writing about my treks round [Pembrokeshire](http://maps.google.com/maps?ll=51.845,-4.84222222222&spn=1.0,1.0&q=51.845,-4.84222222222%20%28Pembrokeshire%29&t=h) and how I have been working my way through the "[Walking in Pembrokeshire](http://www.amazon.co.uk/Walking-Pembrokeshire-Circular-National-Cicerone/dp/1852844310)" guide. I've done so many now I have been repeating some of them two to three times. This last walk I did for the first time and is worth mentioning as it was one of the more unusual.
 
@@ -28,6 +28,3 @@ About half way into the walk I came on this [field](http://maps.google.co.uk/map
 The next exciting bit (NOT!) came after the Broadley farm. The [track and surrounding fields](http://maps.google.co.uk/maps?q=landshipping&oe=utf-8&client=firefox-a&ie=UTF8&hl=en&hq=&hnear=Landshipping,+Narberth,+Dyfed,+United+Kingdom&ll=51.74975,-4.883949&spn=0.001051,0.003052&t=h&z=19) were so saturated with water that the mud was nearly getting into my [wellies](http://en.wikipedia.org/wiki/Wellington_boot). The problem was also I got completely stuck as my boots got sucked into the mud and moving my legs became was very very difficult. Not a completely un-dangerous situation as there was no soul around and the mobile phone reception was patchy at best. I somehow managed to almost crawl out of the very thick mixture of water, cow excrements and mud only to get myself corned at the end of the track. To get back onto the path I had to crawl under a [barbed wire](http://en.wikipedia.org/wiki/Barbed_wire). Of course it wouldn't be me If I didn't get stuck nice and proper. Luckily none of the clothing I was wearing sustained any serous damage.
 
 I got back to my car in Landshipping Quay properly soaked, covered with all sorts of filth and with a new founded respect/fear of horses.
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=62a706d9-70a3-438c-b9ba-c4909ad1e937)](http://reblog.zemanta.com/zemified/62a706d9-70a3-438c-b9ba-c4909ad1e937/)

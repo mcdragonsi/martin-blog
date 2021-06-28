@@ -5,7 +5,6 @@ date: 2009-06-20 13:29:00+00:00
 excerpt: Tinnitus is a non-fatal but potentially a very debilitating disease caused
   by a +/- ringing coming from one or both ears or the head.
 layout: post
-link: https://mcdowell.si/fighting-tinnitus-and-the-meniere-syndrome-1273.html
 slug: fighting-tinnitus-and-the-meniere-syndrome
 title: Fighting tinnitus and the Ménière syndrome
 wordpress_id: 1273
@@ -40,9 +39,9 @@ I was told that the tinnitus is not going to be permanent and that it is due, in
 
 The times, when you usually hear it the mos,t is in the evening and morning. This also includes during the night if you happen to wake up. At the beginning the tinnitus was so bad that I was waking up just from it. Going back to sleep after that was quite a job. The resulting insomnia can cause much more severe problems and I hope they weren't that bad with me.
 
-<!-- more -->I was told to visit the [RNID](http://en.wikipedia.org/wiki/Royal_National_Institute_for_Deaf_People) website to get more information on how to help myself. The best way is to listen to sounds that are similar to the tinnitus sound in frequency with the aim to "drown out" the tinnitus sound. It is also important not to put the therapeutic music on to loud so it is distracting in itself and also not to quiet as to not have any affect at all. There are various "pillow" speakers available to buy but I wanted something a bit more practical. I already had all my CD collection in digital form and loaded up on my 160 GB [iPod](http://en.wikipedia.org/wiki/IPod) [Classic](http://en.wikipedia.org/wiki/IPod_Classic). So I found it impractical to start buying special players with special speakers for this purpose. I wanted to buy something I could use for other purposes, for example to wake me up in the morning. I also wanted something that would turn itself off after x number of minutes so the sound playing won't be going on all through the night.
+I was told to visit the [RNID](http://en.wikipedia.org/wiki/Royal_National_Institute_for_Deaf_People) website to get more information on how to help myself. The best way is to listen to sounds that are similar to the tinnitus sound in frequency with the aim to "drown out" the tinnitus sound. It is also important not to put the therapeutic music on to loud so it is distracting in itself and also not to quiet as to not have any affect at all. There are various "pillow" speakers available to buy but I wanted something a bit more practical. I already had all my CD collection in digital form and loaded up on my 160 GB [iPod](http://en.wikipedia.org/wiki/IPod) [Classic](http://en.wikipedia.org/wiki/IPod_Classic). So I found it impractical to start buying special players with special speakers for this purpose. I wanted to buy something I could use for other purposes, for example to wake me up in the morning. I also wanted something that would turn itself off after x number of minutes so the sound playing won't be going on all through the night.
 
-[caption id="attachment_1276" align="alignleft" width="500"]![Chronos iDock by Pure](https://img.mcdowell.si/2009/06/51C56XPEWEL._SS500_1-1.jpg) Chronos iDock by Pure[/caption]
+![Chronos iDock by Pure](https://img.mcdowell.si/2009/06/51C56XPEWEL._SS500_1-1.jpg "Chronos iDock by Pure")
 
 I found a very good solution in the form of a product called [Chronos iDock](http://www.pure.com/products/product.asp?Product=VL-60903) from a company called [Pure](http://www.pure.com/). Pure is a British company that makes cutting edge audio equipment. The Chronos iDock is a FM and [DAB](http://en.wikipedia.org/wiki/Digital_Audio_Broadcasting) radio with an iPod docking ability on the top of the box. It also has a sleep button that shuts down the device after 15, 30, 45,  60 or 90 minutes. The DAB system proved to be a special blessing as there was a radio station that was test transmitting some great [Birdsong](http://www.birdsongradio.com/) natural sounds. Unfortunately this test transmission stopped on June 1st 2009. The service bacame so popular it has sprung-up [this website](http://www.birdsongradio.com/) with the ability to purchase the song online. However the version of the song on the website is not the same as the one that was transmitted on that DAB channel.
 
@@ -56,7 +55,7 @@ There is an alternative to the above suggestion if you don't want to buy this eq
 #### Software
 
 
-**[![soundmaskerdel](https://img.mcdowell.si/2009/06/soundmaskerdel1-1.jpg)](http://www.vectormediasoftware.com/tinmaskerhome.htm)**There a bit of useful software available to help you combat tinnitus called **[Tinnitus Masker Pro](http://www.vectormediasoftware.com/tinmaskerhome.htm)**. This app by Vectormedia software will allow you to mix and match different pre-installed sound like the sound of rain, [white noise](http://en.wikipedia.org/wiki/White_noise), fire and so on, to create your own. You can also modify the volume,  frequency and left/right balance. There is also a feature to record your own sounds. There is a Standard and and a Deluxe version available.
+![soundmaskerdel](https://img.mcdowell.si/2009/06/soundmaskerdel1-1.jpg) http://www.vectormediasoftware.com/tinmaskerhome.htm There a bit of useful software available to help you combat tinnitus called **[Tinnitus Masker Pro](http://www.vectormediasoftware.com/tinmaskerhome.htm)**. This app by Vectormedia software will allow you to mix and match different pre-installed sound like the sound of rain, [white noise](http://en.wikipedia.org/wiki/White_noise), fire and so on, to create your own. You can also modify the volume,  frequency and left/right balance. There is also a feature to record your own sounds. There is a Standard and and a Deluxe version available.
 
 <!-- more -->
 
@@ -85,6 +84,3 @@ I would also suggest joining the [British Tinnitus Association](http://www.tinni
 As described earlier you should avoid areas where you expect to feel uncomfortable. If you experience hyperacusis in crowded areas then best to avoid them or use ear plugs you can get from your local pharmacy. Listening to music in general should be OK, avoid loud sounds and loud music, especially if listening on headphones as this, in itself, can cause hearing loss and tinnitus. I play the acoustic guitar myself and have no problems with the vibartions or the frequency. It was also fine once I switched to an electric guitar.
 
 That is all. Keep well.
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=7837b73d-78b8-47e5-b779-dc86534930b7)](http://reblog.zemanta.com/zemified/7837b73d-78b8-47e5-b779-dc86534930b7/)
