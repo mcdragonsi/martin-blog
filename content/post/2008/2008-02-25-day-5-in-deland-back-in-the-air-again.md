@@ -9,6 +9,7 @@ title: Day 5 in Deland - back in the air again
 wordpress_id: 99
 categories:
 - skydiving
+- Skydiving Florida 2008
 ---
 
 The morning had low clouds but we hoped that they would soon lift and that we would see blue skies again - unfortunately this took much longer than first predicted as we started jumping at about 1PM.
@@ -22,4 +23,4 @@ I managed to make 4 jumps and they all went quite well, the last one was even fr
 Jumping out of the Skyvan's ramp was a exhilarating experience and very frightening. I will probably stick to the Otter and PAC from now on. I am still quite comfortable leaving the plane by its side door.
 
 
-[![](http://bp2.blogger.com/_NGEqiMCgdY8/R8IkzhFYLAI/AAAAAAAACH4/5FL0PRdQYiM/s400/skyvan.jpg)](http://bp2.blogger.com/_NGEqiMCgdY8/R8IkzhFYLAI/AAAAAAAACH4/5FL0PRdQYiM/s1600-h/skyvan.jpg)Photo of Skyvan by Tony Danbury
+![](http://bp2.blogger.com/_NGEqiMCgdY8/R8IkzhFYLAI/AAAAAAAACH4/5FL0PRdQYiM/s400/skyvan.jpg "Photo of Skyvan by Tony Danbury")

@@ -19,7 +19,8 @@ tags:
 - skydiving
 ---
 
-[![](https://img.mcdowell.si/2008/11/pa1900231-1-150x150.jpg)](https://img.mcdowell.si/2008/11/pa1900231.jpg)My recent visit to the motherland gave me the opportunity for yet another [skydiving](http://en.wikipedia.org/wiki/Parachuting) session, I joined my instructor and mentor Aleš Debeljak from the [Paranoia](https://mcdowell.si/?s=paranoia) skydiving school.
+![](https://img.mcdowell.si/2008/11/pa1900231-1.jpg)
+My recent visit to the motherland gave me the opportunity for yet another [skydiving](http://en.wikipedia.org/wiki/Parachuting) session, I joined my instructor and mentor Aleš Debeljak from the Paranoia skydiving school.
 
 All went well and on the third jump of the second day just as I exited the [Cessna 206](http://en.wikipedia.org/wiki/Cessna_206) I apparently managed to hook my rig on the side of the door which resulted in a nasty tear in my container on the reserve parachute flap. I am suspecting poor stitching but will have to send the whole thing to [Florida](http://en.wikipedia.org/wiki/Florida) to be fixed.
 

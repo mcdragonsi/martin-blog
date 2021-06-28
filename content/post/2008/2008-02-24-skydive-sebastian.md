@@ -9,6 +9,7 @@ title: Skydive Sebastian
 wordpress_id: 98
 categories:
 - skydiving
+- Skydiving Florida 2008
 ---
 
 As we woke this morning we could only take a depressing glance out of the window and despair over the rubbish weather we had. It was bucketing down. We had to decide either to stay in the house, go on a (inside) sightseeing tour, or drive to a DZ that does not have bad weather. We chose on the latter and decided to go to [Skydive Sebastian](http://www.skydiveseb.com/) - a DZ located in the Florida town called Sebastian (duh) just over 2 hours drive from Deland, passing Titusville and Cape Canaveral on the way.

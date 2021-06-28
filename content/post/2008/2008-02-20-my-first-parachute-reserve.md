@@ -7,6 +7,9 @@ link: https://mcdowell.si/my-first-parachute-reserve-93.html
 slug: my-first-parachute-reserve
 title: My first parachute reserve
 wordpress_id: 93
+categories:
+- skydiving
+- Skydiving Florida 2008
 ---
 
 Not only was it my first jump at Deland or in the U.S. in general, but it also ended up being the jump that I had to deploy my reserve.

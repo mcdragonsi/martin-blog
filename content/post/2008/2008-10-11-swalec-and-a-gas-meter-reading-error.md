@@ -26,7 +26,7 @@ _How could this be possible?_
 
 My best answer is - I have no idea. The initial meter reading must have been done by someone from Swalec and although some bills come based on estimated readings some come from actual meter readings and these were all done with an extra digit. First I thought I was mistaken but I re-checked the instructions and there was no doubt - they have been overcharging me (via meter readings) **ten times** (**10x**). If you look closer at the bill it says the unit us "cu meters" which is cubic meters or m3. That corresponds to the values before the comma.
 
-[![](https://img.mcdowell.si/2008/10/gas_meter1-1-300x215.jpg)](https://img.mcdowell.si/2008/10/gas_meter1.jpg)
+![](https://img.mcdowell.si/2008/10/gas_meter1-1.jpg)
 
 I received a delayed re-vised bill where they re-calculated all bills payed after I moved in over a year ago. I had been overcharged by about five hundred pounds.
 
@@ -35,10 +35,7 @@ don't let this happen to you, check you meter yourself and check the instruction
 Insert from the instructions page:
 
 
-<blockquote>Read the numbers from left to right, including all 'zeros' but ignoring the red number(s) or any number(s) after a decimal point.</blockquote>
+> Read the numbers from left to right, including all 'zeros' but ignoring the red number(s) or any number(s) after a decimal point.
 
 
-So if you think your gas bill is to high it might not be all down to the increasing [oil prices](http://en.wikipedia.org/wiki/Price_of_petroleum). Check.
-
-
-[![Reblog this post [with Zemanta]](http://img.zemanta.com/reblog_e.png?x-id=5c6e3cf8-71bb-4512-8c4b-9821ab9c080b)](http://reblog.zemanta.com/zemified/5c6e3cf8-71bb-4512-8c4b-9821ab9c080b/)
+So if you think your gas bill is to high it might not be all down to the increasing [oil prices](https://en.wikipedia.org/wiki/Price_of_petroleum). Check.

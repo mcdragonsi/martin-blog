@@ -9,6 +9,7 @@ title: Day 3 in Orlando
 wordpress_id: 91
 categories:
 - skydiving
+- Skydiving Florida 2008
 ---
 
 This is getting to be really tough. Last nights session started at midnight and I somewhat remember going to bed at 2am. This morning there are another three sessions, the first one on which starts at 9am. I am well and truly sore all over and hadn't had this much physical exercise in a good few years.

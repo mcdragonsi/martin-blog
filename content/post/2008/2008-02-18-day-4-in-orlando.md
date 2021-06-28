@@ -7,6 +7,9 @@ link: https://mcdowell.si/day-4-in-orlando-92.html
 slug: day-4-in-orlando
 title: Day 4 in Orlando
 wordpress_id: 92
+categories:
+- skydiving
+- Skydiving Florida 2008
 ---
 
 Feeling better after the midnights tunnel session, still having problems with some of the techniques but my instructor Aljaž says there are visible improvements. I hope so as I sometimes feel like a sack of potatoes in a tornado when I'm in the tunnel.  

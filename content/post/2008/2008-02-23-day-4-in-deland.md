@@ -7,6 +7,9 @@ link: https://mcdowell.si/day-4-in-deland-96.html
 slug: day-4-in-deland
 title: Day 4 in Deland
 wordpress_id: 96
+categories:
+- skydiving
+- Skydiving Florida 2008
 ---
 
 The weather, again, was a bit of a disappointment. In the morning we were not sure if we should bother even going to the DZ. Our landlord Dennis said that the clouds should break up. When we came there the DZ was closed for jumps and it looked like nobody was going to jump today.  

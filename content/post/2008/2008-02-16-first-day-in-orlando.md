@@ -3,12 +3,12 @@ author: mcdragon
 comments: true
 date: 2008-02-16 05:48:00+00:00
 layout: post
-link: https://mcdowell.si/first-day-in-orlando-89.html
 slug: first-day-in-orlando
 title: First day in Orlando
 wordpress_id: 89
 categories:
-- Indoor skydiving
+- skydiving
+- Skydiving Florida 2008
 ---
 
 The wind tunnel training started a day before I expected so I had to get up at about 6am. I did 5x2 minutes in the morning, then another 5x2 minutes in the afternoon and I have just completed another 2x2 minutes session. I have now finished debriefing and it is ten minutes to one in the morning! By my home watch it is just before 6am!
