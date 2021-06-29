@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2007-05-10 15:54:00+00:00
 layout: post
-link: https://mcdowell.si/my-second-start-as-a-vet-40.html
 slug: my-second-start-as-a-vet
 title: My second start as a vet
 wordpress_id: 40

@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2007-12-12 13:54:00+00:00
 layout: post
-link: https://mcdowell.si/moje-prvo-srecanje-z-lokalnim-nesocialnim-vedenjem.html
 slug: moje-prvo-srecanje-z-lokalnim-nesocialnim-vedenjem
 title: Moje prvo srečanje z lokalnim nesocialnim vedenjem
 wordpress_id: 74

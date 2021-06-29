@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2007-04-08 15:01:00+00:00
 layout: post
-link: https://mcdowell.si/the-trip-to-wales-germany-33.html
 slug: the-trip-to-wales-germany
 title: The trip to Wales (Germany)
 wordpress_id: 33

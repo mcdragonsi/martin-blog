@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2006-11-27 19:00:00+00:00
 layout: post
-link: https://mcdowell.si/the-london-trip-2006-day-1.html
 slug: the-london-trip-2006-day-1
 title: The London trip 2006 (day 1)
 wordpress_id: 10

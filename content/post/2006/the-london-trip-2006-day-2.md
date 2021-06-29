@@ -14,25 +14,14 @@ OK, this time it was for real. No more messing about with strange-side-of-the-st
 
 Unfortunately Mrs. Luck or whatever he/she is called was not on my side all the way as there was an accident on the M11 (the motorway you have to use if you drive from Stansted airport to London) so I ended up in a mild traffic jam and to top that, I ended-up lost by missing the exit on the M11 and nearly missing the exit after that as well. I then had to find my way back to the previous exit by maneuvering through the small back streets while the rush hour was still in effect. I was hoping to park my car at Redbridge station but once I finally got there (after getting lost again by turning of the wrong exit on the roundabout) I was not so pleased to find out that the parking lot was full! So the parking attendant told me to use the parking by a nearby pub and that it will cost only me only 5 pounds fr the whole day. Yeah, right. It ended up costing me 30 pounds. But as I was late as it is I had to dish up the money and sprint for the tube station. I got to the RCVS only 9 minutes before my appointment. To close for comfort, if you ask me.
 
-
-
-
-My next job was [getting myself into the RCVS ](http://www.rcvs.org.uk/Templates/system/SearchResults.asp?SearchType=Surgeons&NodeID=89806&int1stParentNodeID=89634&parentsiteid=89626&Surname=&Ref=6441157&Location=&orderby=Surname&Submit=Search)which I will describe in a separate post, where I will describe in detail the procedure I went through in getting my Slovene veterinary diploma nostrified and confirmed by the RCVS.
-
-
+My next job was getting myself registered with the [RCVS](http://www.rcvs.org.uk) which I will describe in a separate post, where I will describe in detail the procedure I went through in getting my Slovene veterinary diploma nostrified and confirmed by the RCVS.
 
 
 After the RCVS business I put on my tourist hat and went walking round London. I started at Lambeth bridge and went towards Westminster through the [Victoria Tower Gardens](http://en.wikipedia.org/wiki/Victoria_Tower_Gardens). I remembered that I have never been to the [Westminster Abbey](http://www.westminster-abbey.org/) so I had a look (entrance fee 10 GBP). I finally saw where many of the famous people I knew from history and literature lessons were buried: Queen Mary I. and Queen Elisabeth I., Lord Byron, Charles Dickens and so on. After that I continued on Whitehall, pass Downing street, waived (or should I have made rude gestures, I am not completely sure) and ended up at Trafalgar square. From there I went up the Strand and down to the Embankment. Then I took a short trip with the underground at Charing Cross to Oxford circus, where I continued on Oxford street to Marble Arch and Hyde Park, walked down Park lane and near Brook Gate visited the **Animals in War Memorial** ([link 1](http://news.bbc.co.uk/2/hi/uk_news/4037873.stm), [link 2](http://www.indielondon.co.uk/events/att_animals_warmemorial.html), [link 3](http://www.horseandhound.co.uk/news/397/59397.html), [link4](http://www.gardenvisit.com/landscape/london/lguide/animals-war-memorial.htm)) by an English sculptor called David Backhouse. I found the memorial completely by chance but loved the idea of it.
 
+![](https://img.mcdowell.si/2008/08/animalsinwarmemorial-1.jpg)
 
-
-
-[![](https://img.mcdowell.si/2008/08/animalsinwarmemorial-1.jpg)](https://img.mcdowell.si/2008/08/animalsinwarmemorial.jpg)
-
-
-
-
-[![](https://img.mcdowell.si/2008/08/screenhunter11-1.jpg)](https://img.mcdowell.si/2008/08/screenhunter11.jpg)
+![](https://img.mcdowell.si/2008/08/screenhunter11-1.jpg)
 
 
 After that I continued in Green Park, then on Piccadilly where I got my regular dose of Polonium 210 at 167 Piccadilly and ended up in Piccadilly Circus. By then I was so nackered and above all it was getting arctic so I used the Central line to go back to Redbridge but remembered I have never been to [St. Paul's](http://en.wikipedia.org/wiki/St_Paul%27s_Cathedral) cathedral on the way - so I made another stop.
