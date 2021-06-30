@@ -14,7 +14,7 @@ categories:
 
 The morning had low clouds but we hoped that they would soon lift and that we would see blue skies again - unfortunately this took much longer than first predicted as we started jumping at about 1PM.
 
-As it was a Sunday most of the skydivers wanted to make the most of the day and the DZ became very busy as there were 3 planes flying at any given time (Twin Otter, PAC 820, Skyvan or Porter), today we saw the first appearance of the [Skyvan](http://en.wikipedia.org/wiki/Short_Skyvan). The problem was that the pilot for the Skyvan was the same as for the Porter so the jumpers who wanted to use the Skyvan were without their favourite plane for a few times during the day.
+As it was a Sunday most of the skydivers wanted to make the most of the day and the DZ became very busy as there were 3 planes flying at any given time (Twin Otter, PAC 820, Skyvan or Porter), today we saw the first appearance of the [Skyvan](https://en.wikipedia.org/wiki/Short_Skyvan). The problem was that the pilot for the Skyvan was the same as for the Porter so the jumpers who wanted to use the Skyvan were without their favourite plane for a few times during the day.
 
 The photo on the top was made on the last jump where Barbara (white helmet, pink grips), Babi (white helmet, blue/white suit), Gvido (red helmet) and myself (blue/silver suit) made a 4-way formation.
 
@@ -23,4 +23,4 @@ I managed to make 4 jumps and they all went quite well, the last one was even fr
 Jumping out of the Skyvan's ramp was a exhilarating experience and very frightening. I will probably stick to the Otter and PAC from now on. I am still quite comfortable leaving the plane by its side door.
 
 
-![](http://bp2.blogger.com/_NGEqiMCgdY8/R8IkzhFYLAI/AAAAAAAACH4/5FL0PRdQYiM/s400/skyvan.jpg "Photo of Skyvan by Tony Danbury")
+![](https://bp2.blogger.com/_NGEqiMCgdY8/R8IkzhFYLAI/AAAAAAAACH4/5FL0PRdQYiM/s400/skyvan.jpg "Photo of Skyvan by Tony Danbury")

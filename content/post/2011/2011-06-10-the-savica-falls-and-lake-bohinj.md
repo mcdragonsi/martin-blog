@@ -18,7 +18,7 @@ tags:
 
 This is an old favourite of mine and apparently for many Brits as well as during my short visit there saw countless UK reg cars on the roads.
 
-The Savica waterfall is part of the [Sava Bohinjka](http://en.wikipedia.org/wiki/Sava_Bohinjka) river which is joined by the [Sava Dolinka](http://en.wikipedia.org/wiki/Sava_Dolinka) near [Radovljica](http://en.wikipedia.org/wiki/Radovljica) to form the [Sava river](http://en.wikipedia.org/wiki/Sava). That in turns flows into the Danube at Belgrade which discharges into the Black Sea.
+The Savica waterfall is part of the [Sava Bohinjka](https://en.wikipedia.org/wiki/Sava_Bohinjka) river which is joined by the [Sava Dolinka](https://en.wikipedia.org/wiki/Sava_Dolinka) near [Radovljica](https://en.wikipedia.org/wiki/Radovljica) to form the [Sava river](https://en.wikipedia.org/wiki/Sava). That in turns flows into the Danube at Belgrade which discharges into the Black Sea.
 
-The 71-metre waterfall is fed by the [Triglav Lakes](http://en.wikipedia.org/wiki/Triglav_Lakes_Valley) and flows into the [Bohinj lake](http://en.wikipedia.org/wiki/Lake_Bohinj).
+The 71-metre waterfall is fed by the [Triglav Lakes](https://en.wikipedia.org/wiki/Triglav_Lakes_Valley) and flows into the [Bohinj lake](https://en.wikipedia.org/wiki/Lake_Bohinj).
 

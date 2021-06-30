@@ -15,7 +15,7 @@ tags:
 
 ![](https://img.mcdowell.si/2011/06/rakov_skocjan-1.jpg "Rakov Škocjan")
 
-Here is an example of an area I remember visiting as a child and have only vague recollections of it. It is a stunning area in the [karst](http://en.wikipedia.org/wiki/Karst) region of Slovenia - the same region where the world famous [Postojna caves](http://en.wikipedia.org/wiki/Postojna_Cave) and [Škocjan caves](http://en.wikipedia.org/wiki/%C5%A0kocjan_Caves) are located, however the Rakov Škocjan park albeit less known to the regular tourist, is still a must see.
+Here is an example of an area I remember visiting as a child and have only vague recollections of it. It is a stunning area in the [karst](https://en.wikipedia.org/wiki/Karst) region of Slovenia - the same region where the world famous [Postojna caves](https://en.wikipedia.org/wiki/Postojna_Cave) and [Škocjan caves](https://en.wikipedia.org/wiki/%C5%A0kocjan_Caves) are located, however the Rakov Škocjan park albeit less known to the regular tourist, is still a must see.
 
 ![](https://img.mcdowell.si/2011/06/rakov_skocjan2-1.jpg "Rakov Škocjan")
 The photos you see are from a part of the Rakov Škocjan that might not be for the faint hearted or extremely worried about rocks falling on your head. There is an actual warning sign when entering one of the caves that there is a serious danger of falling rock and that you enter at your own peril. If you happen to have a helmet with you - use it!

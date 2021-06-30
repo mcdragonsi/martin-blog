@@ -22,7 +22,7 @@ Gospa Hamer, žena vrtnarja v majhni južno-valežanski vasici, naj bi ponoči s
 
 Pen-y-fan je najvišja točka gorovja imenovanega Brecon Beacons ki pokriva večji del južnega dela Walesa in skupaj z malo nižjim dvojčkom z imenom Corn Du tvorita čudovit razgled, ki bolj spominja na površino lune, kot pa na zeleno valežansko hribovje. Malo ob poti na vrh Brecon Beacons boste našli manjši obelisk, ki so ga postavili po končani iskalni akciji izginulega dečka Tommya.
 
-Dne 4. avgusta daljnega leta 1900 se je oče, po poklicu rudar, odpravil skupaj s svojim petletnim sinom Johnnyem na obisk sorodnikov na kmetijo nekaj kilometrov južno od mesteca [Brecon](http://en.wikipedia.org/wiki/Brecon). V Brecon sta prispela z vlakom okoli šestih zvečer, do kmetije pa ju je vodila šest in pol kilometra dolga pešpot. Okoli osmih zvečer sta prispela v danes podrto vasico Login, kjer je bila v tistem času nastanjena vojska, ki je imela višje v dolini strelske vaje.
+Dne 4. avgusta daljnega leta 1900 se je oče, po poklicu rudar, odpravil skupaj s svojim petletnim sinom Johnnyem na obisk sorodnikov na kmetijo nekaj kilometrov južno od mesteca [Brecon](https://en.wikipedia.org/wiki/Brecon). V Brecon sta prispela z vlakom okoli šestih zvečer, do kmetije pa ju je vodila šest in pol kilometra dolga pešpot. Okoli osmih zvečer sta prispela v danes podrto vasico Login, kjer je bila v tistem času nastanjena vojska, ki je imela višje v dolini strelske vaje.
 
 
 > Zgodba se zdi močno oddaljena in življenja takratnih prebivalcev so že dolgo pozabljena. Prav tako se zdi, da na večer 110. obletnice Tommyevega izginotja njegovemu obelisku delajo le dežne kaplje in ovce na paši.
@@ -38,7 +38,7 @@ Ko sta oče in dedek tudi sama končno prispela na kmetijo in ugotovila, da je T
 
 Vsak dan so sistematično preiskali dolino in okoliške travnike, porezali grmovja, in prečesali gozdove. Porodila se je celo ideja, da bi preiskali tudi dno jezera Cwm llwch, vendar je prevladalo mnenje, da petletni deček zagotovo ni uspel priti tako visoko v dolini. Predvidevali so, da se je ob poskusu vrnitve v Login izgubil in šel predaleč v dolino ali pa je celo ob prečkanju brvi padel v vodo. Iskanje so zato osredotočili na dolino in celo do mesta Brecon. Ker dečka še vedno niso našli, so se porodile ideje, da so ga ugrabili - to je bilo za svojce tudi zadnji up, da bi Tommy še našli živega. V tistih časih so bil glavni osumljenec za taka dejanja okoliško Romsko prebivalstvo. Tudi preiskave njihovih naselbin niso obrodila sadov.
 
-Zgodba je seveda prišla v medije in časopis [The Daily Mail](http://en.wikipedia.org/wiki/Daily_Mail) je ponudil nagrado, njihov predstavnik pa je tudi aktivno sodeloval v iskalnih akcijah. Po tednih iskanja je bil Tommyev oče primoran zapustiti dolino in se vrniti domov v [Maerdy](http://maps.google.co.uk/maps?client=ubuntu&channel=cs&q=maerdy&ie=UTF8&hq=&hnear=Maerdy,+Ferndale,+Mid+Glamorgan,+United+Kingdom&gl=uk&ei=IWVeTLeyIpP40wTU1rTCBw&ved=0CB0Q8gEwAA&ll=51.669148,-3.456573&spn=0.213781,0.441513&z=11), vendar se je uspel kmalu vrniti in sodelovati v nadaljnjih iskanjih. Bil je tudi eden redkih, ki so se pri iskanju povzpeli na vrh Pen-y-fan.
+Zgodba je seveda prišla v medije in časopis [The Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail) je ponudil nagrado, njihov predstavnik pa je tudi aktivno sodeloval v iskalnih akcijah. Po tednih iskanja je bil Tommyev oče primoran zapustiti dolino in se vrniti domov v [Maerdy](https://maps.google.co.uk/maps?client=ubuntu&channel=cs&q=maerdy&ie=UTF8&hq=&hnear=Maerdy,+Ferndale,+Mid+Glamorgan,+United+Kingdom&gl=uk&ei=IWVeTLeyIpP40wTU1rTCBw&ved=0CB0Q8gEwAA&ll=51.669148,-3.456573&spn=0.213781,0.441513&z=11), vendar se je uspel kmalu vrniti in sodelovati v nadaljnjih iskanjih. Bil je tudi eden redkih, ki so se pri iskanju povzpeli na vrh Pen-y-fan.
 
 Ravno približno v tem času pa je imela gospa Hamer svoje razsvetljujoče sanje, kjer je v njih videla mesto, kjer leži Tommy. In tako se je okoli mesec po izginotju - 2. septembra še z nekaterimi drugimi svojci podala na iskanje visoko v dolino Cwm llwch in na greben nad njim.
 
@@ -65,7 +65,7 @@ Napis na obelisku:
 
 
 Vir:
-  1. [Victim of the Beacons](http://www.breconbeacons.org/visit-us/about-the-brecon-beacons/victim-of-the-beacons)
-  2. [Wikipedia](http://en.wikipedia.org/wiki/Pen-y-Fan#Tommy_Jones.27_Obelisk)
+  1. [Victim of the Beacons](https://www.breconbeacons.org/visit-us/about-the-brecon-beacons/victim-of-the-beacons)
+  2. [Wikipedia](https://en.wikipedia.org/wiki/Pen-y-Fan#Tommy_Jones.27_Obelisk)
 
 

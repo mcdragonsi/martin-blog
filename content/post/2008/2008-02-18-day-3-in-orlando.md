@@ -3,7 +3,6 @@ author: mcdragon
 comments: true
 date: 2008-02-18 01:09:00+00:00
 layout: post
-link: https://mcdowell.si/day-3-in-orlando-91.html
 slug: day-3-in-orlando
 title: Day 3 in Orlando
 wordpress_id: 91
@@ -25,5 +24,5 @@ I hope it was just down to tiredness but I found myself flipped on my back after
 
 
 This part I write in the evening. Already completed 2 sessions today, only one left at midnight and another tomorrow. After doing so much exercise I feel really fit, the weather here is still holding and is sunny and quite hot, yes wet'n cold Pembrokeshire seems a universe away.
-Had a quite nice afternoon lunch at [Sizzler](http://www.sizzler.com/), after only hearing about it I took the opportunity to try it out.
+Had a quite nice afternoon lunch at [Sizzler](https://www.sizzler.com/), after only hearing about it I took the opportunity to try it out.
 

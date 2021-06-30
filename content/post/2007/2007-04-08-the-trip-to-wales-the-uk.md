@@ -13,4 +13,4 @@ I reserved a hotel in Ashford and it took me less than half an hour to get there
   
 The rest of the day was quite uneventful and boring all the way to Wales. I arrived in Haverfordwest at about 15.00 GMT.  
   
-This was the house I arrived in. Its called Bryn Illtyd and is located in a very small village of Hill mountain, about 10 km out of [Haverfordwest](http://en.wikipedia.org/wiki/Haverfordwest).
+This was the house I arrived in. Its called Bryn Illtyd and is located in a very small village of Hill mountain, about 10 km out of [Haverfordwest](https://en.wikipedia.org/wiki/Haverfordwest).

@@ -33,13 +33,13 @@ No, kak odgovor sem dobil:
 > 
 > Thank you for your recent letter and the 'certificate' from the Dean of the University of Ljubljana confirming that the approved post-nominal for the primary veterinary qualification is DrVetMed.
 > 
-> We have looked into this further with interesting results.  As indicated to you in August, EU Directive 2005/36/EU does indeed not list this post-nominal against the entry for the Ljubljana qualification. However, having now also looked at the [The Veterinary Surgeons' Qualifications (European Recognition) Regulations 2008](http://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) - which transpose EU Directive [2005/36/EU](http://eur-lex.europa.eu/Notice.do?val=412521%3Acs&lang=sl&list=487955%3Acs%2C467972%3Acs%2C457343%3Acs%2C456959%3Acs%2C412521%3Acs%2C393697%3Acs%2C393370%3Acs%2C&pos=5&page=1&nbl=7&pgs=10&hwords=) into UK law - the table of qualifications herein does list 'DrVetMed' alongside the qualification.
+> We have looked into this further with interesting results.  As indicated to you in August, EU Directive 2005/36/EU does indeed not list this post-nominal against the entry for the Ljubljana qualification. However, having now also looked at the [The Veterinary Surgeons' Qualifications (European Recognition) Regulations 2008](https://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) - which transpose EU Directive [2005/36/EU](https://eur-lex.europa.eu/Notice.do?val=412521%3Acs&lang=sl&list=487955%3Acs%2C467972%3Acs%2C457343%3Acs%2C456959%3Acs%2C412521%3Acs%2C393697%3Acs%2C393370%3Acs%2C&pos=5&page=1&nbl=7&pgs=10&hwords=) into UK law - the table of qualifications herein does list 'DrVetMed' alongside the qualification.
 > 
 > Whether it was omitted from EU Directive 2005/36/EU in error is not clear but, in short, we will add this to your RCVS Register entry and to that of the only other graduate from Ljubljana on the RCVS Register.
 > 
 > Regards,
 
 
-Res, da sem potrdilo naročil ne da bi predhodno vprašal RCVS ali ga sploh sprejmejo. Je pa tudi res da bi lahko na RCVS že na začetku pravilno preverili  [zakonodajo](http://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) in bi se zgodba lahko zaključila že pred časom. Skrivnost seveda je, od kod se jim je kratica DrVetMed (ena beseda, brez pik)  sploh znašla v britanski zakonodaji, saj to nikoli ni bila priznana kratica za veterinarje v Sloveniji in je v EU direktivi tudi ni.
+Res, da sem potrdilo naročil ne da bi predhodno vprašal RCVS ali ga sploh sprejmejo. Je pa tudi res da bi lahko na RCVS že na začetku pravilno preverili  [zakonodajo](https://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) in bi se zgodba lahko zaključila že pred časom. Skrivnost seveda je, od kod se jim je kratica DrVetMed (ena beseda, brez pik)  sploh znašla v britanski zakonodaji, saj to nikoli ni bila priznana kratica za veterinarje v Sloveniji in je v EU direktivi tudi ni.
 
 Še ne vem ali bi komu težil za to ali ne. Verjetno, da ne bom, ker se mi ne ljubi in imam bolj pametne stvari za počet :-)

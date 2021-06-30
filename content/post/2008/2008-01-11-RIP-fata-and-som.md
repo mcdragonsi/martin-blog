@@ -10,7 +10,7 @@ categories:
 - skydiving
 ---
 
-![](http://bp1.blogger.com/_NGEqiMCgdY8/R4eL5eyXaWI/AAAAAAAAB_o/Y0YkQMbY_3k/s400/fata.jpg)
+![](https://bp1.blogger.com/_NGEqiMCgdY8/R4eL5eyXaWI/AAAAAAAAB_o/Y0YkQMbY_3k/s400/fata.jpg)
 I must sadly inform you that the Antonov-2 airplane (we lovingly called "Fata") from which I learned how to skydive and did many jumps, the most recent ones in September 2007, crashed in the mountains near Trbovlje at about 1pm local time.
 
 ![](https://img.mcdowell.si/2008/08/som_bovec_aug_2007-1.jpg "Photo taken by Daniel Zavratnik in Bovec in August 2007. Viktor Bečan a.k.a. 'Som' is the chap on the left in a green t-shirt. In the middle is one of our lovely fellow skydivers and on the right is the legend of Slovene skydiving who runs, in my opinion, the best skydiving school in Slovenia - Aleš Debeljak a.k.a. 'Debeli'")
@@ -23,9 +23,9 @@ I also am sorry for Aleš Debeljak who runs the Paranoia skydiving school and ma
 
 News articles:
 
-* [Delo.si](http://www.delo.si/index.php?sv_path=41,1735,263978)
-* [Dnevnik.si](http://www.dnevnik.si/novice/crna_kronika/292277/)
-* [RtvSlo.si](http://www.dnevnik.si/novice/crna_kronika/292115/)
+* [Delo.si](https://www.delo.si/index.php?sv_path=41,1735,263978)
+* [Dnevnik.si](https://www.dnevnik.si/novice/crna_kronika/292277/)
+* [RtvSlo.si](https://www.dnevnik.si/novice/crna_kronika/292115/)
 * [24ur.com](https://www.24ur.com/novice/crna-kronika/letalo-strmoglavilo-zaradi-megle.html)
 * [Siol.net](https://siol.net/novice/crna-kronika/pri-trbovljah-strmoglavilo-letalo-162228)
 
@@ -36,13 +36,13 @@ News articles:
 ### UPDATE 2!
 
 
-I was angry, but not so surprised to hear some of the more moronic interviews on [24ur.com](http://24ur.com/) regarding the supposed unairworthiness of the AN-2. This airplane is definately one of the most safest civilian planes we have even though it looks like your Russian 3rd grade rubbish bin from the inside. It is extremely stable and can land on a penny. It is flight characteristics are great at low speed flights. In many respects it was the best plane to start my first skydiving jumps from and anyone who flew her knew that as a fact.
+I was angry, but not so surprised to hear some of the more moronic interviews on [24ur.com](https://24ur.com/) regarding the supposed unairworthiness of the AN-2. This airplane is definately one of the most safest civilian planes we have even though it looks like your Russian 3rd grade rubbish bin from the inside. It is extremely stable and can land on a penny. It is flight characteristics are great at low speed flights. In many respects it was the best plane to start my first skydiving jumps from and anyone who flew her knew that as a fact.
 I am proud to have made 35 out of my 91 jumps from this airplane.
 
 Fellow skydivers' websites reporting on the incident:
 
 * Peter Lamut (Jeti) (website unavailable, checked Sep 2018)
-* [Black Betty](http://betmenka.blogspot.com/2008/01/o-fak-o-pizda-o-sranje-o-kriza.html)
+* [Black Betty](https://betmenka.blogspot.com/2008/01/o-fak-o-pizda-o-sranje-o-kriza.html)
 * Matej Golob (website unavailable, checked Sep 2018)
 ### UPDATE 3! on 7-May-2010
 
@@ -50,4 +50,4 @@ A final report from the Slovene Civil Aviation Authority has been issued. Read i
 
 ### UPDATE 4! on 5-Sep-2018
 
-Removed some of the dead links and added the PDF reports about the incident as they were linked to the [Slovenian GOV website in charge of aeroplane accidents](http://www.mzi.gov.si/).
+Removed some of the dead links and added the PDF reports about the incident as they were linked to the [Slovenian GOV website in charge of aeroplane accidents](https://www.mzi.gov.si/).

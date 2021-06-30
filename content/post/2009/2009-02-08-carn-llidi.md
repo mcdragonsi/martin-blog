@@ -24,10 +24,10 @@ tags:
 ![Coetan Arthur burial chamber on St Davids Head](https://img.mcdowell.si/2009/02/carn_llidi_11-1.jpg "Coetan Arthur burial chamber on St Davids Head")
 
 
-OK, same book used from the [last walk]({{< relref "2009-02-01-stonehenge-made-in-the-preselis.md" >}} "Stonehenge = Made in the Preselis"), but this time it was walk no. 11:  [St David's Head](http://en.wikipedia.org/wiki/St_Davids_Head) and Carn Llidi. You start off at [Whitesands](http://en.wikipedia.org/wiki/Whitesands) near St David which is convenient as there is lots of parking available - you will be charged parking if you come during the tourist season.
+OK, same book used from the [last walk]({{< relref "2009-02-01-stonehenge-made-in-the-preselis.md" >}} "Stonehenge = Made in the Preselis"), but this time it was walk no. 11:  [St David's Head](https://en.wikipedia.org/wiki/St_Davids_Head) and Carn Llidi. You start off at [Whitesands](https://en.wikipedia.org/wiki/Whitesands) near St David which is convenient as there is lots of parking available - you will be charged parking if you come during the tourist season.
 
 
-The Carn Lidi hill is a prominent feature in southern [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire) and you can see it from miles away. In fact I could clearly see it from the [Preseli](http://en.wikipedia.org/wiki/Preseli_Pembrokeshire) mountains from the a trek I did a couple of weeks ago to Foel Eryr. The walk is straightforward enough but by the time I got to the north-western part of the walk the wind was really really strong. In fact I was a bit tempted to do some skydiving practice by performing some RW (relative work) positions.
+The Carn Lidi hill is a prominent feature in southern [Pembrokeshire](https://en.wikipedia.org/wiki/Pembrokeshire) and you can see it from miles away. In fact I could clearly see it from the [Preseli](https://en.wikipedia.org/wiki/Preseli_Pembrokeshire) mountains from the a trek I did a couple of weeks ago to Foel Eryr. The walk is straightforward enough but by the time I got to the north-western part of the walk the wind was really really strong. In fact I was a bit tempted to do some skydiving practice by performing some RW (relative work) positions.
 
 ![](https://img.mcdowell.si/2009/02/carn_llidi_21-1.jpg "At this point I was barely able to stand up properly, yet alone take a photo")
 
@@ -37,6 +37,6 @@ The poo tredding and thorny bush evasion was immediately forgotten as I came to 
 
 Getting down the hill, however, proved to be even trickier than the trip up as I nearly got blown over by the gale force winds. I took a different route to avoid the above mentioned _Frutex dolens vulgaris_ only to be met by more of the also above mentioned horse poo and your general bog-standard mud. It seemed like you were walking a path and came to a part where it was so muddy you had to take a detour only to find out the detour is covered in sh*t. So the choice was: wet and muddy shoes or dry and crappy shoes.
 
-Just as I was approaching the Whitesands car-park I was met by these beautiful scenes of a sunset above the ocean facing east south-east. Sorry for the poor quality as I took it with my [Nokia N95](http://en.wikipedia.org/wiki/Nokia_N95) phone cam. Not happy with it, plan on getting an [iPhone](http://en.wikipedia.org/wiki/IPhone) anyway soon :-)
+Just as I was approaching the Whitesands car-park I was met by these beautiful scenes of a sunset above the ocean facing east south-east. Sorry for the poor quality as I took it with my [Nokia N95](https://en.wikipedia.org/wiki/Nokia_N95) phone cam. Not happy with it, plan on getting an [iPhone](https://en.wikipedia.org/wiki/IPhone) anyway soon :-)
 
 ![](https://img.mcdowell.si/2009/02/carn_llidi_31-1.jpg "Beautiful sunset above the sea at Whitesands")

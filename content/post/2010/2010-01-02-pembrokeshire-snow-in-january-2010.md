@@ -18,6 +18,6 @@ tags:
 - Wales
 ---
 
-Had a big snowstorm last night that covered [Pembrokeshire](http://en.wikipedia.org/wiki/Pembrokeshire) with a bit of snow. These photos taken from a hike up to the highest peak in the [Preseli hills](http://en.wikipedia.org/wiki/Preseli_Hills) - [Foel Cwmcerwyn](http://en.wikipedia.org/wiki/Foel_Cwmcerwyn). Very windy at the top!
+Had a big snowstorm last night that covered [Pembrokeshire](https://en.wikipedia.org/wiki/Pembrokeshire) with a bit of snow. These photos taken from a hike up to the highest peak in the [Preseli hills](https://en.wikipedia.org/wiki/Preseli_Hills) - [Foel Cwmcerwyn](https://en.wikipedia.org/wiki/Foel_Cwmcerwyn). Very windy at the top!
 
 

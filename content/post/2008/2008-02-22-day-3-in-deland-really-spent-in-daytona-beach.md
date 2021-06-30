@@ -18,9 +18,9 @@ After we saw that the jumps were definitely off we decided to do some sightseein
 
 ![](https://img.mcdowell.si/2008/08/daytona21-1.jpg)
 
-We went to have something to eat in what looked like an old fashioned americana diner called [Johnny Rockets](http://johnnyrockets.com/). They had the old fashioned furniture and juke boxes on every table and at some songs they would turn off all the lights, turn on the disco ball and then some of the waiters would dance and sing to the song. Great atmosphere.
+We went to have something to eat in what looked like an old fashioned americana diner called [Johnny Rockets](https://johnnyrockets.com/). They had the old fashioned furniture and juke boxes on every table and at some songs they would turn off all the lights, turn on the disco ball and then some of the waiters would dance and sing to the song. Great atmosphere.
 
 We then did a drive through the streets of Daytona Beach and tried very hard to see some big fat bikers with their naked (or at least topless) biker girls - no such luck.
 
-Of course a visit to Daytona Beach would not be complete if we did not have a look at the [Daytona International speedway](http://www.daytonainternationalspeedway.com/) where the Nascar races are held.
+Of course a visit to Daytona Beach would not be complete if we did not have a look at the [Daytona International speedway](https://www.daytonainternationalspeedway.com/) where the Nascar races are held.
 

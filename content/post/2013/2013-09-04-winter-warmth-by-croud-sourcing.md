@@ -14,7 +14,7 @@ tags:
 - Snežnik
 ---
 
-One thing to note to anyone attempting to hike up the [Snežnik](http://en.wikipedia.org/wiki/Sne%C5%BEnik_%28mountain%29) mountain is that the place is quite remote. If you set off from Ljubljana the road takes you past [Postojna](http://en.wikipedia.org/wiki/Postojna) and towards [Croatia](http://en.wikipedia.org/wiki/Croatia) and you then have to drive on a gravel road for quite some time to get to the Sviščaki village. From there the route takes you through a beautiful bear country forest.
+One thing to note to anyone attempting to hike up the [Snežnik](https://en.wikipedia.org/wiki/Sne%C5%BEnik_%28mountain%29) mountain is that the place is quite remote. If you set off from Ljubljana the road takes you past [Postojna](https://en.wikipedia.org/wiki/Postojna) and towards [Croatia](https://en.wikipedia.org/wiki/Croatia) and you then have to drive on a gravel road for quite some time to get to the Sviščaki village. From there the route takes you through a beautiful bear country forest.
 
 About half an hour or so from the summit I walked onto this clearing where there was a lot of chopped wood. The strange thing is it almost looked like it was put there deliberately and to try to get hikers to each take one piece of wood up the Snežnik hut. To my surprise that was exactly what the logs were there for as described by this somewhat poetically inspired sign:
 

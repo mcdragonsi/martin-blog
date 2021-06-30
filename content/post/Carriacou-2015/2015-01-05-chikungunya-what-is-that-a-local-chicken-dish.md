@@ -20,9 +20,9 @@ Soon after starting planning my volunteer trip to Carriacou I was given advice a
 
 Then later I heard about this Chikungunya virus that was causing issues round the world but it was also prevalent in the Caribbean. Turns out this virus causes a quite nasty disease. OK, not exactly ebola grade badness but can still be lethal in extreme cases and can also cause severe joint pain that can linger for months and even a few years. And, you guessed it, absolutely no vaccine for it.
 
-Want to know more? [optimistic version](http://www.fitfortravel.nhs.uk/advice/disease-prevention-advice/chikungunya-fever.aspx#Illness) and [slightly less cheerful version](http://www.who.int/mediacentre/factsheets/fs327/en/)
+Want to know more? [optimistic version](https://www.fitfortravel.nhs.uk/advice/disease-prevention-advice/chikungunya-fever.aspx#Illness) and [slightly less cheerful version](https://www.who.int/mediacentre/factsheets/fs327/en/)
 
-[![JustGiving - Sponsor me now!](http://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](http://www.justgiving.com/Martin-McDowell)
+[![JustGiving - Sponsor me now!](https://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](https://www.justgiving.com/Martin-McDowell)
 
 Image reference
  	

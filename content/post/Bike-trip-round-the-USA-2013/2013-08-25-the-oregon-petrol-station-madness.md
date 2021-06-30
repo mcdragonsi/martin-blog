@@ -13,7 +13,7 @@ categories:
 - Politics and opinions
 ---
 
-I would admit the headline is a little sensational but at the time of driving through [Oregon](http://en.wikipedia.org/wiki/Oregon) I did think there was something odd about the Beaver state. In my many years of driving round Europe and now the USA I have found that all petrol stations have turned into self-service affairs. You get there, you you fill up your tank, you pay and then you drive off.
+I would admit the headline is a little sensational but at the time of driving through [Oregon](https://en.wikipedia.org/wiki/Oregon) I did think there was something odd about the Beaver state. In my many years of driving round Europe and now the USA I have found that all petrol stations have turned into self-service affairs. You get there, you you fill up your tank, you pay and then you drive off.
 
 But in Oregon - oh nooooo. I even saw some other fellow Americans drivers puzzled by what they we and were not expected to do at the petrol stations. I definitely wasn't the only one. As soon as I crossed the border from Washington going south and pulled-in the first filling station I got told off by some petrol station worker that I am not allowed to fill-up petrol myself.
 
@@ -28,7 +28,7 @@ By the time I came to my third and fourth Oregon petrol station I had more or le
 
 One of the attendants even threatened that he and I could get a fine if we didn't comply with this rule but I did not see one signs, not even one on any of the petrol stations I stopped in Oregon. I was also quite surprised that New Jersey has similar laws in place.
 
-Oh, and yes, in case you think I am making this up, here is the legislature - [http://www.leg.state.or.us/ors/480.html](http://www.leg.state.or.us/ors/480.html)
+Oh, and yes, in case you think I am making this up, here is the legislature - [https://www.leg.state.or.us/ors/480.html](https://www.leg.state.or.us/ors/480.html)
 
 They lost me after slick surfaces and "Self-service dispensing at retail contributes to unemployment, particularly among young people;".
 

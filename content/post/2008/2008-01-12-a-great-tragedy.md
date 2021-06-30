@@ -16,6 +16,6 @@ Slovenia lost a great pilot Viktor Bečan (a.k.a. "Som"). My sincere condolences
 
 Photo on left featuring the "Som" made by Lubi in Novo mesto (Prečna) in June 2007.
 
-Slovenia lost a legend among skydiving planes the "Fata" - Antonov 2 from the Paranoia Skydiving school (part of the [ŠOLT](http://www.zavod-solt.si/) organization) that fulfilled the dreams of many skydivers in becoming the vessel for them to do their first skydive jumps. It is also the plane even us experienced skydivers loved to use.
+Slovenia lost a legend among skydiving planes the "Fata" - Antonov 2 from the Paranoia Skydiving school (part of the [ŠOLT](https://www.zavod-solt.si/) organization) that fulfilled the dreams of many skydivers in becoming the vessel for them to do their first skydive jumps. It is also the plane even us experienced skydivers loved to use.
 
 Aleš Debeljak (a.k.a. "Debeli") and his friends were the sole machinery behind the Paranoia skydiving school and my heart goes to them. Aleš is a to good a chap for this to have happened to and everybody that knows him will agree with me 200%. His most important moto in skydiving was "Safety first" and he would never put anyone on a plane, let alone allow him/her to jump out of it unless he wasn't completely certain about their safety. I have been a skydiver since April 2005 and I am proud to be one, and I hope this accident won't become a stepping stone for an old fashioned witch hunt that some media companies, apparently, still like to have.

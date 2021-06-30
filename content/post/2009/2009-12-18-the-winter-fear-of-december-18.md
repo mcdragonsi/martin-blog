@@ -14,17 +14,17 @@ tags:
 - weather
 ---
 
-After all the worries about traveling from [Haverfordwest](http://en.wikipedia.org/wiki/Haverfordwest) to [Stansted](http://en.wikipedia.org/wiki/London_Stansted_Airport) the 5 1/2 hour trip went fine. Blue skies in most of the [Wales](http://en.wikipedia.org/wiki/Wales) part, the first snow on the M4 spotted about 6 miles west of the exit for [Slough](http://en.wikipedia.org/wiki/Slough).
+After all the worries about traveling from [Haverfordwest](https://en.wikipedia.org/wiki/Haverfordwest) to [Stansted](https://en.wikipedia.org/wiki/London_Stansted_Airport) the 5 1/2 hour trip went fine. Blue skies in most of the [Wales](https://en.wikipedia.org/wiki/Wales) part, the first snow on the M4 spotted about 6 miles west of the exit for [Slough](https://en.wikipedia.org/wiki/Slough).
 
-The roads are gritted and the only delay was on the M4 exit for the [M25](http://en.wikipedia.org/wiki/M25_motorway). It looked like a Smart car caught fire. It was being extinguished on the side of the motorway just as I was passing by.
+The roads are gritted and the only delay was on the M4 exit for the [M25](https://en.wikipedia.org/wiki/M25_motorway). It looked like a Smart car caught fire. It was being extinguished on the side of the motorway just as I was passing by.
 
-The worst bit is right here at the b&b near [Great Dunmow](http://en.wikipedia.org/wiki/Great_Dunmow) - snow stuck to the road and very slippery.
+The worst bit is right here at the b&b near [Great Dunmow](https://en.wikipedia.org/wiki/Great_Dunmow) - snow stuck to the road and very slippery.
 
 More snow forecast for tomorrow so not sure if my flight for Stansted still on.
 
 **Update 19 December at 10:30**
 
-Freezing cold in Great Dunmow -6C, clear blue skies and no fresh snow - at least not here. There is a fresh snowstorm in [Ljubljana](http://en.wikipedia.org/wiki/Ljubljana) so anything is possible (delay, cancellation, reroute ...). What a coincidence, was having breakfast at the b&b this morning with a lovely couple from [Preston](http://en.wikipedia.org/wiki/Preston) and were actually on the same flight as I. What now, is everyone going to [Slovenia](http://en.wikipedia.org/wiki/Slovenia) (or should I sat maybe NOT going if the weather has its way).
+Freezing cold in Great Dunmow -6C, clear blue skies and no fresh snow - at least not here. There is a fresh snowstorm in [Ljubljana](https://en.wikipedia.org/wiki/Ljubljana) so anything is possible (delay, cancellation, reroute ...). What a coincidence, was having breakfast at the b&b this morning with a lovely couple from [Preston](https://en.wikipedia.org/wiki/Preston) and were actually on the same flight as I. What now, is everyone going to [Slovenia](https://en.wikipedia.org/wiki/Slovenia) (or should I sat maybe NOT going if the weather has its way).
 
 **Update 19 December at 11:50**
 

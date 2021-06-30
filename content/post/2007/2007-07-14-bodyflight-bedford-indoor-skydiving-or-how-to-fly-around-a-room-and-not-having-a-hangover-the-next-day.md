@@ -12,7 +12,7 @@ categories:
 - skydiving
 ---
 
-It was a great day probably more suitable for outdoor skydiving than indoor skydiving. I set of from home early Saturday morning and arrived at Bedford five and a half hours later after stupidly ignoring my satnav and adding another hour to my already long journey. The [Bodyflight](http://www.bodyflight.co.uk/) facility is situated in a generally abandoned ex-military complex outside of Bedford near the A6. I heard it was used to do tests for the Concorde. One of the things it does include besides Bodyflight is also a Red Bull formula 1 wind tunnel testing facility, at least it did at the time.
+It was a great day probably more suitable for outdoor skydiving than indoor skydiving. I set of from home early Saturday morning and arrived at Bedford five and a half hours later after stupidly ignoring my satnav and adding another hour to my already long journey. The [Bodyflight](https://www.bodyflight.co.uk/) facility is situated in a generally abandoned ex-military complex outside of Bedford near the A6. I heard it was used to do tests for the Concorde. One of the things it does include besides Bodyflight is also a Red Bull formula 1 wind tunnel testing facility, at least it did at the time.
 OK, if anyone is interested in going there be prepared to do a bit of walking - up the soddin' stairs. To get to the Bodyflight reception they make you walk up all the way to the third floor :-)
 I soon found my mates Jaks, Petra, Emillio and Maja exercising 4-way positions on the Bodyflight training room. It was nice to see them all after all this time away, I also got the opportunity to speak more Slovene than in all the last three months in total.
 

@@ -21,7 +21,7 @@ So far the surroundings are mesmerising. Its like riding in a scene of Jurassic 
 
 These trees are just awesome. Its funny how I didn't notice them at first but then I slowly realised that the trees around me were getting bigger and bigger. Then it hit me once I drove close to one of them. They are huge.
 
-The photo was taken at a byway aptly called [Avenue of the giants](http://en.wikipedia.org/wiki/Avenue_of_the_Giants). Awesome. :-)
+The photo was taken at a byway aptly called [Avenue of the giants](https://en.wikipedia.org/wiki/Avenue_of_the_Giants). Awesome. :-)
 
 Took a walk to a beach called the Hidden beach I was told about by the camp manager. The path is not very obvious and takes you down what looks like a jungle and then you finally emerge on this spectacular sandy beach with tonnes of driftwood on it. I really felt like a creature from the prehistoric past will come crawling on it. Took my first swim in the Pacific ocean and just as I waded in I started to wonder if there are things in these waters that would want to bite me. I am pretty sure there are but my brief swim in what felt like ice-cold waters went without any unpleasant teeth marks.
 Just my luck and apparently inherited clumsiness (sorry Dad :-) I somehow managed to hurt my left knee and right ankle both at the same exact mistook step. Now I don't know which leg I should be lame on. Bummer. Hope it gets better soon. Getting about this small Zephyros tent is bad enough as it us without having to endure additional pain when doing so.
