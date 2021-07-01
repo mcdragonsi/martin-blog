@@ -17,7 +17,7 @@ Pot sem hotel dokončati že decembra, pa je bilo vreme precej bolj zanič in se
 
 Sicer je bilo vreme lepo, ko sem šel ampak, ker se tu vreme spreminja vsako minuto je bilo seveda že prec oblačno, ko sem prišel v Neyland. Sicer nič kaj zanimivo mesto, je pa bilo včasih precej pomembno pristanišče, do katerega je vodila železnica. Železnico je leta 1850 zgradil slavni britanski inženir Isambard Kingdom Brunel, ampak ne čisto sam, baje je imel kar nekaj pomočnikov s seboj, ki so mu pomagali nositi kamne ;-)
 Več o železniških povezavah, ki jih je gradil, si lahko preberete na [tej stran](https://en.wikipedia.org/wiki/Great_Western_Railway)i. Ko so v 60 letih na veliko zapirali linije je nastradala tudi povezava med Johnstonom in Neylandom, ki so jo kasneje preuredili v kolesarsko pot - ravno to pot, ki sem jo uporabil za pohod.
-Prva stvar, ki jo zagledaš v Neylandu, če prideš po tej kolesarski poti je [velik most](https://maps.google.com/?ie=UTF8&ll=51.71557,-4.942689&spn=0.005065,0.013475&z=16), ki se razteza čez dolino in povezuje Cleddau most do Pembroke in Pembroke Dock z ostalimi mesti na severu Pembrokeshire-ja. Druga stvar, ki jo vidiš pa je marina na levi strani in ravno tu sem si dal duška, se vsedel na klopco in malo opazoval dogajanje v marini.
+Prva stvar, ki jo zagledaš v Neylandu, če prideš po tej kolesarski poti je velik most, ki se razteza čez dolino in povezuje Cleddau most do Pembroke in Pembroke Dock z ostalimi mesti na severu Pembrokeshire-ja. Druga stvar, ki jo vidiš pa je marina na levi strani in ravno tu sem si dal duška, se vsedel na klopco in malo opazoval dogajanje v marini.
 
 Potem pa se je nenapovedana predstava začela...
 

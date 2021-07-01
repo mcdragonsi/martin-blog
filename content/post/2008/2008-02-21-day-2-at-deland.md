@@ -17,6 +17,8 @@ Now that I have got my reserve deployment out of the way I can get to some good 
 
 The picture on the left is showing our makeshift hangar - the flag has now been moved to a proper flag post close to the boarding zone - pics to follow :-)
 
+![](https://img.mcdowell.si/2008/08/P2270008.JPG "I was probably writing this blog page for all I know")
+
 I have been having some problems with my landings and I was planning to do a canopy control course in Deland, but the instructors have not appeared to be very interested so I was lucky to have my old instructor from my home DZ in Prečna here - Aleš Debeljak. He gave me some simple live guidances during my landing and they went great. I was apparently flaring to late and that made my landing quite sore - especially on the knees.
 
 ![](https://img.mcdowell.si/2008/08/p2200001-1.jpg)
