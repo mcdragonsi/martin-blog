@@ -20,6 +20,5 @@ categories:
 ![The flancat pastry and hot sweet herbal tea](https://img.mcdowell.si/2018/12/2018-12-24-15.32.47-1-1024x576.jpg "The 'flancat' pastry and hot sweet herbal tea")
 ![People in the UK won't really know about the sport performed here](https://img.mcdowell.si/2018/12/2018-12-24-14.23.54-1-1024x576.jpg "People in the UK won't really know about the sport performed here")
 ![](https://img.mcdowell.si/2018/12/2018-12-24-14.17.16-1024x576.jpg)
-![](https://img.mcdowell.si/2018/12/2018-12-24-21.11.33-1-1024x576.jpg)
 ![](https://img.mcdowell.si/2018/12/2018-12-25-08.19.22-2-1-1024x543.jpg)
 
