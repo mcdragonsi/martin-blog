@@ -27,7 +27,7 @@ One thing that (sort of) felt worrying was a casual observation from a few peopl
 
 But as my general experience of the whole trip goes I really liked how the whole trip helped to detach myself from the day to day rubbish and problems of my life. Now I just had to stay on the bike (meaning not fall over) and not get the bike stopped (ie. run out of petrol). I managed to do both just fine. There was that little incident in Custer state park where I nearly fell over ... what happened was that I had to stop for a warden to pay the entrance fee. The road was slightly on a decline and as I was sitting on the bike and kicked out the stand the bike rolled and the stand folded back nearly tipping the bike over. Got the warden to help me keep it upright but it taught me a valuable lesson about keeping the damn bike in gear when on a hill. For those who don't know ... these bloody things don't have a handbrake. I also quickly learnt how to park the bike in carparks as a lot of them slope down towards the kerb. Not really noticeable when you park your car but damn noticeable when you almost give yourself a hernia trying to reverse the motorcycle. Also, and you have my word on this, this procedure does not look cool ;-)
 
-![Illinois](https://img.mcdowell.si/2013/06/Illinois-1-1024x682.jpg)
+![Illinois](https://img.mcdowell.si/2013/06/Illinois-1.jpg)
 
 ![On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really](https://img.mcdowell.si/2013/07/Chicago_4.1000px-1.jpg) On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really
 
