@@ -24,7 +24,7 @@ tags:
 - Simon Cowell
 ---
 
-[![](https://img.mcdowell.si/2009/12/ragm4xmas1-1.jpg)](https://bit.ly/inthename)V Veliki Britaniji že nekaj Božičev zaporedno prihaja na [britanski glasbeni lestvici](https://www.theofficialcharts.com/) do nadvlade pocukranih komadov iz tovarne pocukranih komadov [Simona Cowell-a](https://en.wikipedia.org/wiki/Simon_Cowell) in njegovega [X Factor](https://xfactor.itv.com/2009/) glasbenega show-a.
+[![](https://img.mcdowell.si/2009/12/ragm4xmas1-1.jpg)](https://bit.ly/inthename)V Veliki Britaniji že nekaj Božičev zaporedno prihaja na [britanski glasbeni lestvici](https://www.theofficialcharts.com/) do nadvlade pocukranih komadov iz tovarne pocukranih komadov [Simona Cowell-a](https://en.wikipedia.org/wiki/Simon_Cowell) in njegovega [X Factor](https://en.wikipedia.org/wiki/The_X_Factor_(British_series_6) glasbenega show-a.
 
 Tudi za letošnji Božič je kazalo, da bo zopet zmagal njegov protežiranec in zmagovalec Faktorja X - letos je to uspelo Joe McElderry-u. Račune mu je prekrižala zelo odmevna Facebook kampanija Jona in Tracy Morter, imenovana [Rage Against The Machine For Christmas No.1](https://www.facebook.com/group.php?gid=2228594104). Po 13. decembru, to je datumu, po katerem se začnejo šteti nakupljeni singli v okviru glasbene lestvice za Božič, je bilo potrebno preko katerekoli spletne trgovine z MP3 skladbami kupiti komad [Rage Against the Machine](https://en.wikipedia.org/wiki/Rage_Against_the_Machine) imenovan [Killing in the name](https://en.wikipedia.org/wiki/Killing_in_the_Name). Na tak način naj bi uspeli spravit ta komad na prvo mesto namesto singla Faktorja X.
 
@@ -35,4 +35,5 @@ Uspelo jim je namreč zbrati čez 80.000 funtov.
 
 Poleg tega pa so 17. decembra imeli na BBC Radio 5 Morning show v živo predstavo iz Los Angelesa. Producenti so skupino prosili (mogoče celo zahtevali) da ne kolnejo. Če poznate pesem Killing in the name veste, da je kletvica "Fuck you, i won't do what you tell me" integralni del skladbe in to so seveda zapeli. Voditelja oddaje so jih po hitrem postopku odrezali, kar se na spodnjem posnetku ne sliši. Res bi rekli, da so si sami krivi. Lahko bi iskali namig v skladbi in tako vedeli, da se ne bodo ravnali po navodilih drugih.
 
-https://www.youtube.com/watch?v=k-EMCd3VWys
+{{< youtube id=k-EMCd3VWys title="Rage Against The Machine on BBC Radio 5 Live UNCENSORED" >}}
+
