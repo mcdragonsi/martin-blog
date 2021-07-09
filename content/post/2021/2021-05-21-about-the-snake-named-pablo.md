@@ -1,7 +1,6 @@
 ---
-title: "The snake called Pablo"
 date: 2021-05-21T15:19:36+01:00
-title: 'Pablo'
+title: 'About the snake we named Pablo'
 thumbnail: https://img.mcdowell.si/2021/Pablo480x480.png
 draft: false
 tags:
