@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-03-15 20:00:22+00:00
 layout: post
-link: https://mcdowell.si/great-treffgarne-mountain-1076.html
-slug: great-treffgarne-mountain
 title: Great Treffgarne Mountain
 wordpress_id: 1076
 categories:

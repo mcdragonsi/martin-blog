@@ -21,7 +21,7 @@ tags:
 - Whitesands
 ---
 
-![Coetan Arthur burial chamber on St Davids Head](https://img.mcdowell.si/2009/02/carn_llidi_11-1.jpg "Coetan Arthur burial chamber on St Davids Head")
+![Coetan Arthur burial chamber on St Davids Head](https://img.mcdowell.si/2009/02/carn_llidi_1.jpg "Coetan Arthur burial chamber on St Davids Head")
 
 
 OK, same book used from the [last walk]({{< relref "2009-02-01-stonehenge-made-in-the-preselis.md" >}} "Stonehenge = Made in the Preselis"), but this time it was walk no. 11:  [St David's Head](https://en.wikipedia.org/wiki/St_Davids_Head) and Carn Llidi. You start off at [Whitesands](https://en.wikipedia.org/wiki/Whitesands) near St David which is convenient as there is lots of parking available - you will be charged parking if you come during the tourist season.
@@ -39,4 +39,4 @@ Getting down the hill, however, proved to be even trickier than the trip up as I
 
 Just as I was approaching the Whitesands car-park I was met by these beautiful scenes of a sunset above the ocean facing east south-east. Sorry for the poor quality as I took it with my [Nokia N95](https://en.wikipedia.org/wiki/Nokia_N95) phone cam. Not happy with it, plan on getting an [iPhone](https://en.wikipedia.org/wiki/IPhone) anyway soon :-)
 
-![](https://img.mcdowell.si/2009/02/carn_llidi_31-1.jpg "Beautiful sunset above the sea at Whitesands")
+![](https://img.mcdowell.si/2009/02/carn_llidi_2.jpg "Beautiful sunset above the sea at Whitesands")
