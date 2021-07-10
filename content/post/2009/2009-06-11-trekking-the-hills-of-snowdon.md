@@ -29,11 +29,11 @@ tags:
 - walks
 ---
 
-![snowdon_01](https://img.mcdowell.si/2009/06/snowdon_011-1.jpg)
+![Mt Snowdon](https://img.mcdowell.si/2009/06/snowdon-1.jpg "Mt Snowdon")
 
 Ever since I moved to [Wales](https://en.wikipedia.org/wiki/Wales) 2 years ago I had a quiet wish to climb the highest peak in this country - Snowdon. Last weekend was showing to be a perfect opportunity to fulfil that wish. I was working only till 12 pm and the forecast was for sunshine and high temperatures stretching way into the following week. Getting some good [literature](https://www.amazon.co.uk/Hillwalking-Snowdonia-Carneddau-Outlying-Mountains/dp/1852843497), so you know what your are doing, is very advisable.
 
-![View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)](https://img.mcdowell.si/2009/06/snowdon_031-1.jpg "View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)")
+![View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)](https://img.mcdowell.si/2009/06/snowdon-2.jpg "View from Garnedd Ugain: to the right is Snowdon and to the left is Y Lliwedd with its three peaks ) from left Lliwedd Bach, East peak and West peak. Any similarities with Triglav are strictly coincidental :-)")
 
 If you are based in southwest Wales it is a good idea to head up there on the day before you are [climbing](https://en.wikipedia.org/wiki/Climbing) as the road trip takes you over three hours. There are no motorways or even dual carriageways between the south and north parts of Wales! Instead of going for a more expensive option of a hotel or B&B (the decision to go to [Snowdon](https://en.wikipedia.org/wiki/Snowdon) was make pretty late and the hotel accommodations were either not available or very pricey) I opted for a [campsite](https://en.wikipedia.org/wiki/Campsite). The last camping I did was for a [skydiving](https://en.wikipedia.org/wiki/Parachuting) tournament that was held in my "home" [DZ](https://en.wikipedia.org/wiki/Drop_zone) in Prečna near [Novo mesto](https://en.wikipedia.org/wiki/Novo_Mesto) a few years back and I was a bit worried I might forget to bring along something essential. Hold that thought.
 
@@ -48,10 +48,10 @@ The trek itself started off on a reasonable steep incline, with the morning sun 
 There were not many climbers on the Crib Goch path but once you reach the 3m marker stone you joined the rest of climbers from the Pyg and Miners track and there were loads of them on that beautiful day. On this weekend it was like downtown [Haverfordwest](https://en.wikipedia.org/wiki/Haverfordwest) - full of people. The remainder is a short walk up to the summit walking by the Snowdon railtrack.
 
 
-![The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption](https://img.mcdowell.si/2009/06/snowdon_021-1.jpg "The Snowdon Mountain Railway goes right to the top of the Snowdon summit edit Delete caption")
+![The Snowdon Mountain Railway goes right to the top of the Snowdon summit](https://img.mcdowell.si/2009/06/snowdon-3.jpg "The Snowdon Mountain Railway goes right to the top of the Snowdon summit")
 
 The descent on the [Miners Track](https://en.wikipedia.org/wiki/Snowdon#Miners.27_Track) was a bit tedious and still quite stressful on the legs - it is almost completely covered by rock slabs and that does not make a very comfortable walking surface. In other places you have smaller stones and there you have to watch you dont sprain an ancle. There are some nice views of the lakes (see photo gallery) and the end part of the track is very easy - like a walk in a park :-)
 
 At the time of my trek on May 30th the top railway station was closed for renovations and there were no refreshments or toilets available. I was surprised not to see a local entrepreneur selling us drinks and snacks - I remember seeing someone at the top of Triglav and there definitely weren't as many people on that summit as there were on Snowdon. 
 
-![Glaslyn lake](https://img.mcdowell.si/2009/06/snowdon_041-1.jpg) Glaslyn lake
+![Glaslyn lake](https://img.mcdowell.si/2009/06/snowdon-4.jpg "Glaslyn lake")

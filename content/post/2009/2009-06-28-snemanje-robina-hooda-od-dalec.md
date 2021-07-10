@@ -17,7 +17,8 @@ tags:
 - Wales
 ---
 
-[![P6230013](https://img.mcdowell.si/2009/06/P62300131-1.jpg)](https://img.mcdowell.si/2009/06/P62300131.jpg)V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.
+![V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.](https://img.mcdowell.si/2009/06/P62300131-1-768x316.jpg "V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.")
+V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.
 
 Lokacija, kjer poteka snemanje, se imenuje [Freshwater West](https://en.wikipedia.org/wiki/Freshwater_West) in gre za eno lepših plaž v [Pembrokeshire](https://en.wikipedia.org/wiki/Pembrokeshire)-ju in Wales-u nasploh. Tu so pejšnji mesec celo snemali naslednji film o Harryu Potterju. Produkcija za Robina Hooda pa je precej večja in vključuje veliko več ljudi in opreme. Pred tedni so imeli v bližnji dvorani avdicijo za statiste in prijaviti se jih je hotelo veliko več, kolikor je bilo mest na voljo.
 
