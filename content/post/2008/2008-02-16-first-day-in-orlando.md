@@ -13,9 +13,16 @@ categories:
 
 The wind tunnel training started a day before I expected so I had to get up at about 6am. I did 5x2 minutes in the morning, then another 5x2 minutes in the afternoon and I have just completed another 2x2 minutes session. I have now finished debriefing and it is ten minutes to one in the morning! By my home watch it is just before 6am!
 
-![](https://img.mcdowell.si/2008/07/martin_z-hills_2-1.jpg)
+![](https://img.mcdowell.si/2008/03/z-hills.jpg "Photo with a friend. Sorry, can't remember your name")
 
 Don't even think that flying in a wind tunnel is easy and not exhausting. My back is VERY sore. However I did manage to get some time and see a bit of Orlando from their buses. The one we used was very interesting and here is a photo to prove it. We passed a very funny building that looked like it was ripped out of the ground and landed on another one. It was probably also a bit of a joke on the hurricanes they tend to get here in Florida. As I was in the bus at the time I couldn't get a decent photo of it.
 
 I am otherwise surprised how much unusual and different everything is to me here. It is almost I still cannot believe I am in the U.S. It's so much different from any European country I have visited till now. In fact, till now I have not been outside the European continent, if we count out that trip to Istanbul where I took a touristy boat ride to the Asian side of the city. And it seems that the people who said, that Americans love their SUVs were absolutely correct. The the majority of the population, that don't have one at home, wished they could have one.
 And now to report on the weather: is makes a nice change from the relatively cold and damp Pembrokeshire weather, here is is quite hot during the day with just a bit to cold nights. Well shouldn't complain, it is mid February!
+
+![](https://img.mcdowell.si/2008/03/z-hills-1.jpg "")
+![](https://img.mcdowell.si/2008/03/z-hills-2.jpg "")
+![](https://img.mcdowell.si/2008/03/z-hills-3.jpg "")
+![](https://img.mcdowell.si/2008/03/z-hills-4.jpg "")
+![](https://img.mcdowell.si/2008/03/z-hills-5.jpg "")
+![](https://img.mcdowell.si/2008/03/z-hills-6.jpg "")

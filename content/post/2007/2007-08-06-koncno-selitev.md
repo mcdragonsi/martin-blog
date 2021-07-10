@@ -27,3 +27,5 @@ Pa še nekaj o stanovanju. Nahaja se v kraju oz. urbani vasici [Johnston](https:
 ![](https://img.mcdowell.si/2007/08/Johnston-flat-7.jpg)
 ![](https://img.mcdowell.si/2007/08/Johnston-flat-8.jpg)
 ![](https://img.mcdowell.si/2007/08/Johnston-flat-9.jpg)
+
+{{< youtube id=NlySEpJGltQ title="My Johnston flat" >}}

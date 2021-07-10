@@ -3,9 +3,8 @@ author: mcdragon
 comments: true
 date: 2007-09-18 08:36:00+00:00
 layout: post
-link: https://mcdowell.si/johnston-2-ljubljana-2080-km-58.html
 slug: johnston-2-ljubljana-2080-km
-title: Johnston 2 Ljubljana = 2080 km
+title: Johnston 2 Ljubljana = 2,080 km
 wordpress_id: 58
 ---
 
