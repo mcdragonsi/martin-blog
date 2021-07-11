@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-06-10 19:00:18+00:00
 layout: post
-link: https://mcdowell.si/the-savica-falls-and-lake-bohinj-1918.html
-slug: the-savica-falls-and-lake-bohinj
 title: The Savica falls and Lake Bohinj
 wordpress_id: 1918
 categories:

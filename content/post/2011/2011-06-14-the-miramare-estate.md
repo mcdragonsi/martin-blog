@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-06-14 19:00:46+00:00
 layout: post
-link: https://mcdowell.si/the-miramare-estate-1924.html
-slug: the-miramare-estate
 title: The Miramare estate
 wordpress_id: 1924
 categories:

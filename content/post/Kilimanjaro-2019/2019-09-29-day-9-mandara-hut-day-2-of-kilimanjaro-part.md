@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-29T19:00:05.000+00:00
 layout: post
-link: https://mcdowell.si/day-9-mandara-hut-day-2-of-kilimanjaro-part-3813.html
-slug: day-9-mandara-hut-day-2-of-kilimanjaro-part
 title: 'Day 9: Mandara Hut (Day 2 of Kilimanjaro part)'
 wordpress_id: "3813"
 categories:

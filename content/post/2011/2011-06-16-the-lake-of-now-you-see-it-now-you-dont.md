@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-06-16 20:00:33+00:00
 layout: post
-link: https://mcdowell.si/the-lake-of-now-you-see-it-now-you-dont-1959.html
-slug: the-lake-of-now-you-see-it-now-you-dont
 title: 'The lake of: Now you see it, now you don''t'
 wordpress_id: 1959
 categories:

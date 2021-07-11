@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-09-30 19:24:09+00:00
 layout: post
-link: https://mcdowell.si/the-red-dragon-will-lead-the-way-716.html
-slug: the-red-dragon-will-lead-the-way
 title: The red dragon will lead the way
 wordpress_id: 716
 categories:

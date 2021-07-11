@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-03-14 13:50:00+00:00
 layout: post
-link: https://mcdowell.si/reserve-parachute-and-aad.html
-slug: reserve-parachute-and-aad
 title: Reserve parachute and AAD
 wordpress_id: 25
 tags:

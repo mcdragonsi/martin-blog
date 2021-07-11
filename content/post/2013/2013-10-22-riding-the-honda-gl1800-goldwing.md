@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-10-22 08:00:50+00:00
 layout: post
-link: https://mcdowell.si/biking-trip-october-2013-2780.html
-slug: riding-the-honda-gl1800-goldwing
 title: Riding the Honda GL1800 Goldwing
 wordpress_id: 2780
 categories:

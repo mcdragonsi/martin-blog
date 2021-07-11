@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-04-08 15:02:00+00:00
 layout: post
-slug: the-trip-to-wales-from-the-the-netherlands-to-the-channel-tunnel
 title: The trip to Wales (from the The Netherlands to the Channel tunnel)
 wordpress_id: 34
 ---

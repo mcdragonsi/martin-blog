@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-05-21 20:00:23+00:00
 layout: post
-link: https://mcdowell.si/cwm-gwsyn-and-the-llyn-brianne-reservoir-1607.html
-slug: cwm-gwsyn-and-the-llyn-brianne-reservoir
 title: Cwm Gwesyn and the Llyn Brianne reservoir
 wordpress_id: 1607
 categories:

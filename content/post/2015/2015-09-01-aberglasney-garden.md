@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-09-01 07:26:41+00:00
 layout: post
-link: https://mcdowell.si/aberglasney-garden-3008.html
-slug: aberglasney-garden
 title: Aberglasney Garden
 wordpress_id: 3008
 categories:

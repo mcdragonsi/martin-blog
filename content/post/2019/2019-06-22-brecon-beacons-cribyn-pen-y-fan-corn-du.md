@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-06-22 21:08:28+00:00
 layout: post
-link: https://mcdowell.si/brecon-beacons-cribyn-pen-y-fan-corn-du-3781.html
-slug: brecon-beacons-cribyn-pen-y-fan-corn-du
 title: 'Brecon beacons: Cribyn - Pen-y-fan - Corn Du'
 wordpress_id: 3781
 categories:

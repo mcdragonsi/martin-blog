@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-20 04:31:00+00:00
 layout: post
-slug: my-first-parachute-reserve
 title: My first parachute reserve
 wordpress_id: 93
 categories:

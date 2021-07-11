@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-06-16 19:00:32+00:00
 layout: post
-link: https://mcdowell.si/rakov-skocjan-1945.html
-slug: rakov-skocjan
 title: Rakov Škocjan
 wordpress_id: 1945
 categories:

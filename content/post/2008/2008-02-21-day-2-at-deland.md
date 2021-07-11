@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-21 02:53:00+00:00
 layout: post
-link: https://mcdowell.si/day-2-at-deland-94.html
-slug: day-2-at-deland
 title: Day 2 at Deland
 wordpress_id: 94
 categories:

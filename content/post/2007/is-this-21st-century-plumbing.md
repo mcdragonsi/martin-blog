@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-01-16 14:07:00+00:00
 layout: post
-slug: is-this-21st-century-plumbing
 title: Is this 21st century plumbing?
 wordpress_id: 21
 ---

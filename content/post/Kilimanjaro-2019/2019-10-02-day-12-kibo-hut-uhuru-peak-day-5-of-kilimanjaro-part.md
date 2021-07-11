@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-10-02 19:00:28+00:00
 layout: post
-slug: day-12-kibo-hut-uhuru-peak-day-5-of-kilimanjaro-part
 title: 'Day 12: Kibo Hut / Uhuru Peak (Day 5 of Kilimanjaro part)'
 wordpress_id: 3819
 categories:

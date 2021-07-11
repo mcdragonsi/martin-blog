@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-11 18:21:58+00:00
 layout: post
-link: https://mcdowell.si/london-visit-day-1-1410.html
-slug: london-visit-day-1
 title: London visit - day 1 of 4
 wordpress_id: 1410
 categories:

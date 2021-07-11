@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2006-12-01 19:00:00+00:00
 layout: post
-link: https://mcdowell.si/2006/the-london-trip-2006-days-4-and-5.html
-slug: the-london-trip-2006-days-4-and-5
 title: The London trip 2006 (days 4 and 5)
 wordpress_id: 13
 tags:

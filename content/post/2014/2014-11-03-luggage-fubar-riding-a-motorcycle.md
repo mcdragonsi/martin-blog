@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2014-11-03 17:27:46+00:00
 layout: post
-link: https://mcdowell.si/luggage-fubar-riding-a-motorcycle-2874.html
-slug: luggage-fubar-riding-a-motorcycle
 title: Luggage FUBAR riding a motorcycle
 wordpress_id: 2874
 categories:

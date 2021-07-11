@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-09-03 12:17:34+00:00
 layout: post
-link: https://mcdowell.si/my-2011-three-peak-challenge-in-three-days-2000.html
-slug: my-2011-three-peak-challenge-in-three-days
 title: My 2011 Three - Day Three - Peak Challenge
 wordpress_id: 2000
 categories:

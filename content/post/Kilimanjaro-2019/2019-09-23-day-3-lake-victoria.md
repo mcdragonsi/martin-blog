@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-23 18:21:30+00:00
 layout: post
-link: https://mcdowell.si/day-3-lake-victoria-3799.html
-slug: day-3-lake-victoria
 title: 'Day 3: Lake Victoria'
 wordpress_id: 3799
 categories:

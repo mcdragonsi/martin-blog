@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-07-14 18:11:00+00:00
 layout: post
-slug: bodyflight-bedford-indoor-skydiving-or-how-to-fly-around-a-room-and-not-having-a-hangover-the-next-day
 title: Bodyflight Bedford indoor skydiving [or how to fly around a room and not having
   a hangover the next day]
 wordpress_id: 47

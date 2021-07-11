@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-05-25 19:00:30+00:00
 layout: post
-link: https://mcdowell.si/time-for-new-boots-3664.html
-slug: time-for-new-boots
 title: Time for new boots
 wordpress_id: 3664
 categories:

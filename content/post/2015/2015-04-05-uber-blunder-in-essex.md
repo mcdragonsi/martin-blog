@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-04-05 09:00:28+00:00
 layout: post
-link: https://mcdowell.si/uber-blunder-in-essex-2997.html
-slug: uber-blunder-in-essex
 title: Uber blunder in Essex
 wordpress_id: 2997
 categories:

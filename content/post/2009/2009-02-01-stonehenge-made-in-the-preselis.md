@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-02-01 18:57:54+00:00
 layout: post
-link: https://mcdowell.si/stonehenge-made-in-the-preselis-962.html
-slug: stonehenge-made-in-the-preselis
 title: Stonehenge = Made in the Preselis
 wordpress_id: 962
 categories:

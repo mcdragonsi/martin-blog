@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-10-18 06:46:45+00:00
 layout: post
-link: https://mcdowell.si/waterfall-of-the-snow-1705.html
-slug: waterfall-of-the-snow
 title: Waterfall of the Snow
 wordpress_id: 1705
 categories:

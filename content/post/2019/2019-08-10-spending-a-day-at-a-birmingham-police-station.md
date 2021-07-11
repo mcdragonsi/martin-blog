@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-08-10 19:00:47+00:00
 layout: post
-link: https://mcdowell.si/spending-a-day-at-a-birmingham-police-station-3837.html
-slug: spending-a-day-at-a-birmingham-police-station
 title: Spending a day at a Birmingham police station
 wordpress_id: 3837
 categories:

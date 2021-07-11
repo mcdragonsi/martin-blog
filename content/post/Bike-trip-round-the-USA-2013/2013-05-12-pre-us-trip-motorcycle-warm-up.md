@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-05-12 18:14:42+00:00
 layout: post
-link: https://mcdowell.si/pre-us-trip-motorcycle-warm-up-2378.html
-slug: pre-us-trip-motorcycle-warm-up
 title: Pre US-trip motorcycle warm-up
 thumbnail: https://img.mcdowell.si/2013/05/pre-us-trip-motorcycle-warm-up.png
 wordpress_id: 2378

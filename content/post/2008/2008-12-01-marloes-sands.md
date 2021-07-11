@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-12-01 07:50:52+00:00
 layout: post
-link: https://mcdowell.si/marloes-sands-847.html
-slug: marloes-sands
 title: Marloes Sands
 wordpress_id: 847
 categories:

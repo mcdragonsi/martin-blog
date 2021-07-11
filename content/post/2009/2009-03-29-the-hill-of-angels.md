@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-03-29 17:29:53+00:00
 layout: post
-link: https://mcdowell.si/the-hill-of-angels-1136.html
-slug: the-hill-of-angels
 title: The Hill of Angels
 wordpress_id: 1136
 categories:

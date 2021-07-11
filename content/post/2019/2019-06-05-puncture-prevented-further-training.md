@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-06-05 19:05:33+00:00
 layout: post
-link: https://mcdowell.si/puncture-prevented-further-training-3703.html
-slug: puncture-prevented-further-training
 title: Puncture prevented further training
 wordpress_id: 3703
 categories:

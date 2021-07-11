@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-28 19:20:43+00:00
 layout: post
-link: https://mcdowell.si/day-8-marangu-day-1-of-kilimanjaro-part-3811.html
-slug: day-8-marangu-day-1-of-kilimanjaro-part
 title: 'Day 8: Marangu (Day 1 of Kilimanjaro part)'
 wordpress_id: 3811
 categories:

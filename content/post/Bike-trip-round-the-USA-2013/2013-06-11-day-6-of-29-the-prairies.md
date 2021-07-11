@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-11 02:24:09+00:00
 layout: post
-link: https://mcdowell.si/day-6-of-29-the-prairies-2465.html
-slug: day-6-of-29-the-prairies
 title: Day 6 of 29 - The prairies
 thumbnail: https://img.mcdowell.si/2013/06/day-6-of-29-the-prairies.png
 wordpress_id: 2465

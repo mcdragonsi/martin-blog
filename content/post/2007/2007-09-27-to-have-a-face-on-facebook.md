@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-09-27 19:00:00+00:00
 layout: post
-slug: to-have-a-face-on-facebook
 title: To have a face on Facebook
 wordpress_id: 61
 tags:

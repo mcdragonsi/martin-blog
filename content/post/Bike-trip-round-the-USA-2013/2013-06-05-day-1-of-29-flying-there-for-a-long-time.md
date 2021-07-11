@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-05 23:26:23+00:00
 layout: post
-link: https://mcdowell.si/day-1-of-29-flying-there-for-a-long-time-2-2419.html
-slug: day-1-of-29-flying-there-for-a-long-time
 title: Day 1 of 29 - Flying there (for a long time)
 thumbnail: https://img.mcdowell.si/2013/06/day-1-of-29-flying-there-for-a-long-time.png
 wordpress_id: 2419

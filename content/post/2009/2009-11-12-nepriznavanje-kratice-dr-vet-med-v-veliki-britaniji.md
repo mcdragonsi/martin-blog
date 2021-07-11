@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-11-12 10:00:48+00:00
 layout: post
-link: https://mcdowell.si/nepriznavanje-kratice-dr-vet-med-v-veliki-britaniji-1369.html
-slug: nepriznavanje-kratice-dr-vet-med-v-veliki-britaniji
 title: Nepriznavanje kratice dr.vet.med. v Veliki Britaniji
 wordpress_id: 1369
 categories:

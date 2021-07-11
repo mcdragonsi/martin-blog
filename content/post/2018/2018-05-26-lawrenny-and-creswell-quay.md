@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2018-05-26 13:14:23+00:00
 layout: post
-link: https://mcdowell.si/lawrenny-and-creswell-quay-3497.html
-slug: lawrenny-and-creswell-quay
 title: Lawrenny and Creswell Quay
 wordpress_id: 3497
 categories:

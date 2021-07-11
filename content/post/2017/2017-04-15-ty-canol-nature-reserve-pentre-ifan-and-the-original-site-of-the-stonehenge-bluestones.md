@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2017-04-15 21:32:37+00:00
 layout: post
-link: https://mcdowell.si/ty-canol-nature-reserve-pentre-ifan-and-the-original-site-of-the-stonehenge-bluestones-3413.html
-slug: ty-canol-nature-reserve-pentre-ifan-and-the-original-site-of-the-stonehenge-bluestones
 title: Tŷ Canol nature reserve, Pentre Ifan and the original site of the Stonehenge
   bluestones
 wordpress_id: 3413

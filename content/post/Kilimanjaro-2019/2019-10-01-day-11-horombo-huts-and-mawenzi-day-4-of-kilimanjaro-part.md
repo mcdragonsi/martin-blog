@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-10-01 19:00:18+00:00
 layout: post
-link: https://mcdowell.si/day-11-horombo-huts-and-mawenzi-day-4-of-kilimanjaro-part-3817.html
-slug: day-11-horombo-huts-and-mawenzi-day-4-of-kilimanjaro-part
 title: 'Day 11: Horombo Huts and Mawenzi (Day 4 of Kilimanjaro part)'
 wordpress_id: 3817
 categories:

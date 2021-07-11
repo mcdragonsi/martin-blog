@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-02-08 11:27:45+00:00
 layout: post
-link: https://mcdowell.si/carn-llidi-974.html
-slug: carn-llidi
 title: Carn Llidi
 wordpress_id: 974
 categories:

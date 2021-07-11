@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-16 05:48:00+00:00
 layout: post
-slug: first-day-in-orlando
 title: First day in Orlando
 wordpress_id: 89
 categories:

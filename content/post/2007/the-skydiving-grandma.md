@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-01-17 09:27:00+00:00
 layout: post
-slug: the-skydiving-grandma
 title: The skydiving grandma
 wordpress_id: 22
 ---

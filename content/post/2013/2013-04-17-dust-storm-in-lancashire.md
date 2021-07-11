@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-04-17 20:33:33+00:00
 layout: post
-link: https://mcdowell.si/dust-storm-in-lancashire-2372.html
-slug: dust-storm-in-lancashire
 title: Dust storm in Lancashire
 wordpress_id: 2372
 categories:

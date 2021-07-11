@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-18 21:23:38+00:00
 layout: post
-slug: the-winter-fear-of-december-18
 title: The winter fear of December 18 & 19
 wordpress_id: 1458
 categories:

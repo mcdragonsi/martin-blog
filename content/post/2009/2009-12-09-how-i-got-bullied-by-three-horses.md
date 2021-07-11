@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-09 10:33:54+00:00
 layout: post
-link: https://mcdowell.si/how-i-got-bullied-by-three-horses-1393.html
-slug: how-i-got-bullied-by-three-horses
 title: How I got bullied by three horses
 wordpress_id: 1393
 categories:

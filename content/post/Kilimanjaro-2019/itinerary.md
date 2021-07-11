@@ -1,18 +1,12 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-20 07:20:12+00:00
 layout: post
-link: https://mcdowell.si/itinerary-3857.html
-slug: itinerary
 title: Itinerary
 wordpress_id: 3857
 categories:
 - Kilimanjaro 2019
 ---
-
-
-
 
 So the plan is to go by car to Heathrow T4, catch a light to Nairobi, Kenya. I am supposed to get a shuttle from the airport from the airport to a hotel in downtown Nairobi. The group I am travelling with have a meeting the following day in the same hotel. 
 

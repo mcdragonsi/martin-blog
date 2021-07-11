@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2006-11-29 19:00:00+00:00
 layout: post
-slug: the-london-trip-2006-day-3
 title: The London trip 2006 (day 3)
 wordpress_id: 12
 ---

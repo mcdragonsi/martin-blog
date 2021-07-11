@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-09 13:16:15+00:00
 layout: post
-link: https://mcdowell.si/day-5-of-29-cold-and-hot-2455.html
-slug: day-5-of-29-cold-and-hot
 title: Day 5 of 29 - Cold and hot
 thumbnail: https://img.mcdowell.si/2013/06/dodging-storm-clouds_480x480.png
 wordpress_id: 2455

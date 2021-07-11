@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-06-22 21:00:29+00:00
 layout: post
-link: https://mcdowell.si/travel-vaccinations-3759.html
-slug: travel-vaccinations
 title: Travel vaccinations
 wordpress_id: 3759
 categories:

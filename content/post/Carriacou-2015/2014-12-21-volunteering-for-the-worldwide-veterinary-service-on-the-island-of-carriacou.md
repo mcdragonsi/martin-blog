@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2014-12-21 09:16:55+00:00
 layout: post
-link: https://mcdowell.si/volunteering-for-the-worldwide-veterinary-service-on-the-island-of-carriacou-2906.html
-slug: volunteering-for-the-worldwide-veterinary-service-on-the-island-of-carriacou
 title: Volunteering for the Worldwide Veterinary Service on the island of Carriacou
 wordpress_id: 2906
 categories:

@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-04-08 15:00:00+00:00
 layout: post
-slug: the-trip-to-wales-ljubljana-to-salzburg
 title: The trip to Wales (Ljubljana to Salzburg)
 wordpress_id: 32
 ---

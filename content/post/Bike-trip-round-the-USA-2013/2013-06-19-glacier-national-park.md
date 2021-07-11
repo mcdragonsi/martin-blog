@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-19 15:03:17+00:00
 layout: post
-link: https://mcdowell.si/glacier-national-park-2477.html
-slug: glacier-national-park
 title: Glacier national park
 thumbnail: https://img.mcdowell.si/2013/06/glacier-national-park.png
 wordpress_id: 2477

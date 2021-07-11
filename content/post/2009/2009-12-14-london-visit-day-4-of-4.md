@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-14 19:33:51+00:00
 layout: post
-link: https://mcdowell.si/london-visit-day-4-of-4-1421.html
-slug: london-visit-day-4-of-4
 title: London visit - day 4 of 4
 wordpress_id: 1421
 categories:

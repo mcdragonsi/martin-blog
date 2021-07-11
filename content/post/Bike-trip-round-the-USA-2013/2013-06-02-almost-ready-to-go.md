@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-02 08:07:03+00:00
 layout: post
-link: https://mcdowell.si/almost-ready-to-go-2406.html
-slug: almost-ready-to-go
 title: Almost ready to go...
 thumbnail: https://img.mcdowell.si/2013/05/almost-ready-to-go.png
 wordpress_id: 2406

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-04-27 12:33:00+00:00
 layout: post
-link: https://mcdowell.si/pst-od-johnstona-do-neylanda-113.html
-slug: pst-od-johnstona-do-neylanda
 title: PST od Johnstona do Neylanda
 wordpress_id: 113
 categories:

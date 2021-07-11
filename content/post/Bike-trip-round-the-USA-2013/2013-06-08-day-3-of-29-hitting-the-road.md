@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-08 01:19:13+00:00
 layout: post
-link: https://mcdowell.si/day-3-of-29-hitting-the-road-2439.html
-slug: day-3-of-29-hitting-the-road
 title: Day 3 of 29 - Hitting the road
 wordpress_id: 2439
 categories:

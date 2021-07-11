@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-24 05:01:07+00:00
 layout: post
-link: https://mcdowell.si/san-francisco-and-the-yosemite-national-park-2547.html
-slug: san-francisco-and-the-yosemite-national-park
 title: San Francisco and the Yosemite national park
 thumbnail: https://img.mcdowell.si/2013/06/san-francisco-and-the-yosemite-national-park.png
 wordpress_id: 2547

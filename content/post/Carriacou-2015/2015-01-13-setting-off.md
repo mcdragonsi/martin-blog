@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-01-13 23:49:23+00:00
 layout: post
-link: https://mcdowell.si/setting-off-2941.html
-slug: setting-off
 title: Setting off
 wordpress_id: 2941
 categories:

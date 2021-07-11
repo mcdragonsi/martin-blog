@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-10 10:07:00+00:00
 layout: post
-slug: moje-prve-ure-valezanscine
 title: Moje prve ure Valežanščine
 wordpress_id: 87
 ---

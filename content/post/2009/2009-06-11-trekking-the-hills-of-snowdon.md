@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-06-11 09:56:12+00:00
 layout: post
-link: https://mcdowell.si/trekking-the-hills-of-snowdon-1229.html
-slug: trekking-the-hills-of-snowdon
 title: Trekking the hills of Snowdon
 wordpress_id: 1229
 categories:

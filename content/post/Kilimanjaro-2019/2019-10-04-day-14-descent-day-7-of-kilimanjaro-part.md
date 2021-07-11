@@ -1,10 +1,8 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-10-04T19:00:28.000+00:00
 layout: post
 thumbnail: https://img.mcdowell.si/2019/10/group-photo3_680x680.jpg
-slug: day-14-descent-day-7-of-kilimanjaro-part
 title: 'Day 14: The Descent (Day 7 of Kilimanjaro part)'
 wordpress_id: "3821"
 categories:

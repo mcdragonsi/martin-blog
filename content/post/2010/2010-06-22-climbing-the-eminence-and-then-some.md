@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-06-22 19:00:44+00:00
 layout: post
-link: https://mcdowell.si/climbing-the-eminence-and-then-some-1634.html
-slug: climbing-the-eminence-and-then-some
 title: Climbing the eminence, and then some
 wordpress_id: 1634
 categories:

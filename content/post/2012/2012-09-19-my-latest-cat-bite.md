@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2012-09-19 21:33:19+00:00
 layout: post
-link: https://mcdowell.si/my-latest-cat-bite-2138.html
-slug: my-latest-cat-bite
 title: My latest cat bite
 wordpress_id: 2138
 categories:

@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-13 23:37:14+00:00
 layout: post
-slug: london-visit-day-3-of-4
 title: London visit - day 3 of 4
 wordpress_id: 1417
 categories:

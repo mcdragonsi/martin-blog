@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2012-09-19 21:36:25+00:00
 layout: post
-link: https://mcdowell.si/some-more-snowdonia-trekking-2147.html
-slug: some-more-snowdonia-trekking
 title: Some more Snowdonia trekking
 wordpress_id: 2147
 categories:

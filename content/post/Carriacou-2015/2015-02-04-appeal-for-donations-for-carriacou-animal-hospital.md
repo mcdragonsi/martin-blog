@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-02-04 17:11:07+00:00
 layout: post
-link: https://mcdowell.si/appeal-for-donations-for-carriacou-animal-hospital-2957.html
-slug: appeal-for-donations-for-carriacou-animal-hospital
 title: Appeal for donations for Carriacou Animal Hospital
 wordpress_id: 2957
 categories:

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-08-04 19:00:46+00:00
 layout: post
-link: https://mcdowell.si/tragicna-zgodba-tommya-jonesa-1653.html
-slug: tragicna-zgodba-tommya-jonesa
 title: Tragična zgodba Tommya Jonesa
 wordpress_id: 1653
 categories:

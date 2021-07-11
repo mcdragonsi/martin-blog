@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-26 13:11:30+00:00
 layout: post
-link: https://mcdowell.si/day-6-ngorongoro-crater-3807.html
-slug: day-6-ngorongoro-crater
 title: 'Day 6: Ngorongoro Crater'
 wordpress_id: 3807
 categories:

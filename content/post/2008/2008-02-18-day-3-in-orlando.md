@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-18 01:09:00+00:00
 layout: post
-slug: day-3-in-orlando
 title: Day 3 in Orlando
 wordpress_id: 91
 categories:

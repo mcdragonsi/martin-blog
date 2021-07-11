@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2006-11-21 15:09:00+00:00
 layout: post
-slug: ok-go
 title: "OK, go"
 wordpress_id: 1687
 ---

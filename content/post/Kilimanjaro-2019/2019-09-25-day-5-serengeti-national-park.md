@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-25 17:17:55+00:00
 layout: post
-link: https://mcdowell.si/day-5-serengeti-national-park-3805.html
-slug: day-5-serengeti-national-park
 title: 'Day 5: Serengeti National Park'
 wordpress_id: 3805
 categories:

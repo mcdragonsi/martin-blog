@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-10-07 16:22:49+00:00
 layout: post
-link: https://mcdowell.si/sands-of-speed-752.html
-slug: sands-of-speed
 title: Sands of speed
 wordpress_id: 752
 categories:

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-01-05 16:41:50+00:00
 layout: post
-link: https://mcdowell.si/chikungunya-what-is-that-a-local-chicken-dish-2923.html
-slug: chikungunya-what-is-that-a-local-chicken-dish
 title: Chikungunya what? Is that a local chicken dish?
 wordpress_id: 2923
 categories:

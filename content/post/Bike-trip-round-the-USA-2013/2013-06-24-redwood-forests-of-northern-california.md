@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-24 02:54:53+00:00
 layout: post
-link: https://mcdowell.si/redwood-forests-of-northern-california-2544.html
-slug: redwood-forests-of-northern-california
 title: Redwood forests of northern California
 thumbnail: https://img.mcdowell.si/2013/06/redwood-forests-of-northern-california.png
 wordpress_id: 2544

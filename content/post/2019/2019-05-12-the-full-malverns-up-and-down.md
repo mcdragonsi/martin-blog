@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-05-12 19:00:58+00:00
 layout: post
-link: https://mcdowell.si/the-full-malverns-up-and-down-3673.html
-slug: the-full-malverns-up-and-down
 title: The full Malverns, up and down
 wordpress_id: 3673
 categories:

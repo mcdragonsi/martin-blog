@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-01-04 15:55:44+00:00
 layout: post
-link: https://mcdowell.si/london-visit-2010-day-3-of-6-1756.html
-slug: london-visit-2010-day-3-of-6
 title: London visit 2010 – day 3 of 6
 wordpress_id: 1756
 categories:

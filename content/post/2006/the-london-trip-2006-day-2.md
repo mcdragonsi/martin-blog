@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2006-11-28 19:00:00+00:00
 layout: post
-link: https://mcdowell.si/the-london-trip-2006-day-2.html
-slug: the-london-trip-2006-day-2
 title: The London trip 2006 (day 2)
 wordpress_id: 11
 ---

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-13 13:04:58+00:00
 layout: post
-link: https://mcdowell.si/yellowstone-national-park-2473.html
-slug: yellowstone-national-park
 title: Yellowstone national park
 thumbnail: https://img.mcdowell.si/2013/06/yellowstone-national-park.png
 wordpress_id: 2473

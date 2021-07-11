@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-09-24 08:30:00+00:00
 layout: post
-slug: return-to-skydiving
 title: Return to skydiving
 wordpress_id: 60
 categories:

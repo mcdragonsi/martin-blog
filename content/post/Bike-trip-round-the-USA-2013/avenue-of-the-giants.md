@@ -1,11 +1,8 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-08-11 17:15:38+00:00
 layout: post
-link: https://mcdowell.si/avenue-of-the-giants.html
 thumbnail: https://img.mcdowell.si/2013/07/avenue-of-the-giants_480x480.png
-slug: avenue-of-the-giants
 title: Avenue of the Giants
 wordpress_id: 2696
 categories:

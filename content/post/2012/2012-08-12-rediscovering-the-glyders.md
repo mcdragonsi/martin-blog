@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2012-08-12 07:25:52+00:00
 layout: post
-link: https://mcdowell.si/rediscovering-the-glyders-2110.html
-slug: rediscovering-the-glyders
 title: Rediscovering the Glyders
 wordpress_id: 2110
 categories:

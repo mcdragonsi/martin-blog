@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2006-12-14 12:50:00+00:00
 layout: post
-slug: the-curse-of-the-christmas-cards
 title: The curse of the Christmas cards
 wordpress_id: 17
 ---

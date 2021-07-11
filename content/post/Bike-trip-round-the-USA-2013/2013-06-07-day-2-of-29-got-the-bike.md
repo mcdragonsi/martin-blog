@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-07 02:41:40+00:00
 layout: post
-link: https://mcdowell.si/day-2-of-29-got-the-bike-2422.html
-slug: day-2-of-29-got-the-bike
 title: Day 2 of 29 - Got the bike
 thumbnail: https://img.mcdowell.si/2013/06/day-2-of-29-got-the-bike.png
 wordpress_id: 2422

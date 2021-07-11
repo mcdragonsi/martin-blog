@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2016-08-29 18:04:59+00:00
 layout: post
-link: https://mcdowell.si/ladyclough-woods-ashop-valley-and-stanage-edge-3021.html
-slug: ladyclough-woods-ashop-valley-and-stanage-edge
 title: Ladyclough woods, Ashop valley and Stanage Edge
 wordpress_id: 3021
 categories:

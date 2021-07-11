@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-24 06:15:51+00:00
 layout: post
-link: https://mcdowell.si/day-4-serengeti-national-park-3801.html
-slug: day-4-serengeti-national-park
 title: 'Day 4: Serengeti National Park'
 wordpress_id: 3801
 categories:

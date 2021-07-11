@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2008-01-11 15:24:00+00:00
 layout: post
-slug: RIP-fata-and-som
 title: RIP Fata and Som
 wordpress_id: 77
 categories:

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-09 01:24:09+00:00
 layout: post
-link: https://mcdowell.si/day-4-of-29-just-the-interstate-94-2448.html
-slug: day-4-of-29-just-the-interstate-94
 title: Day 4 of 29 - Just the Interstate 94
 thumbnail: https://img.mcdowell.si/2013/06/day-4-of-29-just-the-interstate-94.png
 wordpress_id: 2448

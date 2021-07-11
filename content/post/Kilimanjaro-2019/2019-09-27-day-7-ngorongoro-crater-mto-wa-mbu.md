@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-27 20:00:00+00:00
 layout: post
-link: https://mcdowell.si/day-7-ngorongoro-crater-mto-wa-mbu-3809.html
-slug: day-7-ngorongoro-crater-mto-wa-mbu
 title: 'Day 7: Ngorongoro Crater / Mto Wa Mbu'
 wordpress_id: 3809
 categories:

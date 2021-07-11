@@ -1,13 +1,10 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-23 09:20:03+00:00
 excerpt: V Veliki Britaniji že nekaj Božičev zaporedno prihaja na britanski glasbeni
   lestvici do nadvlade pocukranih komadov iz tovarne pocukranih komadov Simona Cowella
   in njegovega X Factor glasbenega show-a.
 layout: post
-link: https://mcdowell.si/ubijanje-v-imenu-faktorja-x-1470.html
-slug: ubijanje-v-imenu-faktorja-x
 title: Ubijanje v imenu Faktorja X
 wordpress_id: 1470
 categories:

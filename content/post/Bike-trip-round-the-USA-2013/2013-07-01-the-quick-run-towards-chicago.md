@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-07-01 00:30:00+00:00
 layout: post
-link: https://mcdowell.si/the-quick-run-towards-chicago-2588.html
-slug: the-quick-run-towards-chicago
 title: The quick run towards Chicago
 wordpress_id: 2588
 categories:

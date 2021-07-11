@@ -1,11 +1,9 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-06-20 13:29:00+00:00
 excerpt: Tinnitus is a non-fatal but potentially a very debilitating disease caused
   by a +/- ringing coming from one or both ears or the head.
 layout: post
-slug: fighting-tinnitus-and-the-meniere-syndrome
 title: Fighting tinnitus and the Ménière syndrome
 wordpress_id: 1273
 categories:

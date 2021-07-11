@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-09-21 19:06:57+00:00
 layout: post
-link: https://mcdowell.si/filming-snow-white-and-the-huntsman-at-marloes-sands-2015.html
-slug: filming-snow-white-and-the-huntsman-at-marloes-sands
 title: Filming Snow White and the Huntsman at Marloes Sands
 wordpress_id: 2015
 categories:

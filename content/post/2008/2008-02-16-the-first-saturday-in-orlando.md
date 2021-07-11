@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-16 17:24:00+00:00
 layout: post
-link: https://mcdowell.si/the-first-saturday-in-orlando-90.html
-slug: the-first-saturday-in-orlando
 title: The first Saturday in Orlando
 wordpress_id: 90
 categories:

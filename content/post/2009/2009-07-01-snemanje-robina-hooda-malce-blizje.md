@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-07-01 18:38:28+00:00
 layout: post
-slug: snemanje-robina-hooda-malce-blizje
 title: Snemanje Robina Hooda - malce bližje
 wordpress_id: 1326
 categories:

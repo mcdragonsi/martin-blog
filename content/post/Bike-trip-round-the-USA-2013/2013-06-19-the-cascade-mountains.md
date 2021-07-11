@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-19 15:02:32+00:00
 layout: post
-link: https://mcdowell.si/the-cascade-mountains-2475.html
-slug: the-cascade-mountains
 title: The Cascade mountains
 thumbnail: https://img.mcdowell.si/2013/06/the-cascade-mountains.png
 wordpress_id: 2475

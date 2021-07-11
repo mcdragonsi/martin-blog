@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-02-12 19:21:36+00:00
 layout: post
-link: https://mcdowell.si/preparations-for-my-bike-trip-to-the-usa-2214.html
-slug: preparations-for-my-bike-trip-to-the-usa
 title: Preparations for my bike trip to the USA
 thumbnail: https://img.mcdowell.si/2013/02/preparations-for-my-bike-trip-to-the-usa.png
 wordpress_id: 2214
@@ -34,5 +31,5 @@ Haven't really planed a trip like this before so there will be a lot to learn, I
 Am am still trying to get my head around travel insurance but everything including the US is going to be more expensive as there is no social health care to speak of.
 
 
-![Doig my CBT in Haverfordwest](https://img.mcdowell.si/2012/04/cbt-1.jpg "Doig my CBT in Haverfordwest")
+![Doig my CBT in Haverfordwest](https://img.mcdowell.si/2012/04/cbt-1.jpg "Doing my CBT in Haverfordwest")
 

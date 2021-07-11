@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-05-04 18:37:08+00:00
 layout: post
-link: https://mcdowell.si/another-training-day-3624.html
-slug: another-training-day
 title: Another training day
 wordpress_id: 3624
 categories:

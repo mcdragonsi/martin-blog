@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-11-15 21:14:42+00:00
 layout: post
-link: https://mcdowell.si/ooops-or-how-i-ripped-my-container-on-a-cessna-206-2-816.html
-slug: ooops-or-how-i-ripped-my-container-on-a-cessna-206-2
 title: Ooops, or how I ripped my container on a Cessna 206, part 2
 wordpress_id: 816
 categories:

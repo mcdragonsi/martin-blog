@@ -1,10 +1,8 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-10-05T19:00:28.000+00:00
 layout: post
 thumbnail: https://img.mcdowell.si/2019/10/kili-group2_680x680.jpg
-slug: day-15-going-home-day-8-of-kilimanjaro-part
 title: 'Day 15: Going Home (Day 8 of Kilimanjaro part)'
 wordpress_id: "3821"
 categories:

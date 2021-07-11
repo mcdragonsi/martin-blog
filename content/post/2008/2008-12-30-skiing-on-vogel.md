@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-12-30 20:51:45+00:00
 layout: post
-link: https://mcdowell.si/skiing-on-vogel-898.html
-slug: skiing-on-vogel
 title: Skiing on Vogel
 wordpress_id: 898
 tags:

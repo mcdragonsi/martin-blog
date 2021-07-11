@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-01-07 13:20:09+00:00
 layout: post
-link: https://mcdowell.si/dedek-mraz-inkognito-1498.html
-slug: dedek-mraz-inkognito
 title: Dedek Mraz inkognito
 wordpress_id: 1498
 categories:

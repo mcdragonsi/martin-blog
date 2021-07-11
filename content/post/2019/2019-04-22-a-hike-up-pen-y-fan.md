@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-04-22 19:00:09+00:00
 layout: post
-link: https://mcdowell.si/a-hike-up-pen-y-fan-3650.html
-slug: a-hike-up-pen-y-fan
 title: A hike up Pen-y-fan
 wordpress_id: 3650
 categories:

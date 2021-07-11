@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-11-23 21:26:15+00:00
 layout: post
-link: https://mcdowell.si/my-gmail-account-hacked-by-115-52-213-93-1725.html
-slug: my-gmail-account-hacked-by-115-52-213-93
 title: My GMail account hacked by 115.52.213.93
 wordpress_id: 1725
 categories:

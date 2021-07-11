@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-01-15 12:16:00+00:00
 layout: post
-link: https://mcdowell.si/the-ghost-bb.html
-slug: the-ghost-bb
 title: The ghost B&B
 wordpress_id: 20
 ---

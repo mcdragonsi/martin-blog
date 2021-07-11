@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-10-11 15:03:22+00:00
 layout: post
-link: https://mcdowell.si/swalec-and-a-gas-meter-reading-error-776.html
-slug: swalec-and-a-gas-meter-reading-error
 title: Swalec and a gas meter reading error
 wordpress_id: 776
 tags:

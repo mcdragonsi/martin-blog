@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-18 12:52:00+00:00
 layout: post
-link: https://mcdowell.si/day-4-in-orlando-92.html
-slug: day-4-in-orlando
 title: Day 4 in Orlando
 wordpress_id: 92
 categories:

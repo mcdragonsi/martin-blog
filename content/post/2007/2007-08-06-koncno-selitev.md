@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-08-06 18:00:00+00:00
 layout: post
-link: https://mcdowell.si/koncno-selitev-52.html
-slug: koncno-selitev
 title: Končno, selitev
 wordpress_id: 52
 tags:

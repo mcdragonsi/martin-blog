@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-12-30 13:46:09+00:00
 layout: post
-link: https://mcdowell.si/zadenite-valezansko-gostilno-za-20-funtov-1493.html
-slug: zadenite-valezansko-gostilno-za-20-funtov
 title: Zadenite valežansko gostilno za 20 funtov
 wordpress_id: 1493
 categories:

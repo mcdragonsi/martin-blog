@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-09-09 11:05:00+00:00
 layout: post
-link: https://mcdowell.si/se-en-teden-do-odhoda-56.html
-slug: se-en-teden-do-odhoda
 title: Še en teden do odhoda
 wordpress_id: 56
 ---

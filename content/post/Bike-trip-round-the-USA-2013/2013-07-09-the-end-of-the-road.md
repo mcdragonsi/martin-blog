@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-07-09 20:00:31+00:00
 layout: post
-link: https://mcdowell.si/the-end-of-the-road-2607.html
-slug: the-end-of-the-road
 title: The end of the road
 thumbnail: https://img.mcdowell.si/2013/06/the-end-of-the-road.png
 wordpress_id: 2607

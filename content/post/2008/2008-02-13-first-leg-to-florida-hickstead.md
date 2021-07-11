@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-13 20:28:00+00:00
 layout: post
-link: https://mcdowell.si/first-leg-to-florida-hickstead-88.html
-slug: first-leg-to-florida-hickstead
 title: 'First leg to Florida: Hickstead'
 wordpress_id: 88
 categories:

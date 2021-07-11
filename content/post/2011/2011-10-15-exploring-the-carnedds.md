@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-10-15 21:00:36+00:00
 layout: post
-link: https://mcdowell.si/exploring-the-carnedds-2038.html
-slug: exploring-the-carnedds
 title: Exploring the Carnedds
 wordpress_id: 2038
 categories:

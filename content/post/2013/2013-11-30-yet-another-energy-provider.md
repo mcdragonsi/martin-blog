@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-11-30 10:00:13+00:00
 layout: post
-link: https://mcdowell.si/yet-another-energy-provider-2798.html
-slug: yet-another-energy-provider
 title: Yet another energy provider
 wordpress_id: 2798
 categories:

@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-08-05 18:03:00+00:00
 layout: post
-slug: no-smoking-please
 title: No smoking, please
 wordpress_id: 51
 tags:

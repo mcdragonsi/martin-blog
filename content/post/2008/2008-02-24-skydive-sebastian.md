@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-24 04:16:00+00:00
 layout: post
-link: https://mcdowell.si/skydive-sebastian-98.html
-slug: skydive-sebastian
 title: Skydive Sebastian
 wordpress_id: 98
 categories:

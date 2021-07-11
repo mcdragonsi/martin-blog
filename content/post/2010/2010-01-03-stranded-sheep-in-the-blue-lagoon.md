@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2010-01-03 21:01:54+00:00
 layout: post
-link: https://mcdowell.si/stranded-sheep-in-the-blue-lagoon-1512.html
-slug: stranded-sheep-in-the-blue-lagoon
 title: Stranded sheep in the Blue Lagoon
 wordpress_id: 1512
 categories:

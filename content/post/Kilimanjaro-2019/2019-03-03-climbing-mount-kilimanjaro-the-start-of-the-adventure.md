@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-03-03 20:00:31+00:00
 layout: post
-link: https://mcdowell.si/climbing-mount-kilimanjaro-the-start-of-the-adventure-3594.html
-slug: climbing-mount-kilimanjaro-the-start-of-the-adventure
 title: Climbing Mount Kilimanjaro - The start of the adventure
 wordpress_id: 3594
 categories:

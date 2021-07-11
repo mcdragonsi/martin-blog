@@ -1,11 +1,8 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-08-25 20:40:14+00:00
 layout: post
-link: https://mcdowell.si/the-oregon-petrol-station-madness-2670.html
 published: false
-slug: the-oregon-petrol-station-madness
 title: The Oregon petrol station madness
 wordpress_id: 2670
 categories:

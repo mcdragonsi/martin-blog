@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-09-30 19:00:43+00:00
 layout: post
-link: https://mcdowell.si/day-10-horombo-hut-day-3-of-kilimanjaro-part-3815.html
-slug: day-10-horombo-hut-day-3-of-kilimanjaro-part
 title: 'Day 10: Horombo Hut (Day 3 of Kilimanjaro part)'
 wordpress_id: 3815
 categories:

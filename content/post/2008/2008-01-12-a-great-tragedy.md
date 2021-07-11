@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-01-12 13:07:00+00:00
 layout: post
-slug: a-great-tragedy
 title: A great tragedy
 wordpress_id: 78
 categories:

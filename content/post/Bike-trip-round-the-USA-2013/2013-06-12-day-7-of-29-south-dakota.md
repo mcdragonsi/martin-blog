@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-06-12 04:00:30+00:00
 layout: post
-link: https://mcdowell.si/day-7-of-29-south-dakota-2472.html
-slug: day-7-of-29-south-dakota
 title: Day 7 of 29 - South Dakota
 thumbnail: https://img.mcdowell.si/2013/06/day-7-of-29-south-dakota.png
 wordpress_id: 2472

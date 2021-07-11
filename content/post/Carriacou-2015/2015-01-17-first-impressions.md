@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2015-01-17 01:12:00+00:00
 layout: post
-link: https://mcdowell.si/first-impressions-2945.html
-slug: first-impressions
 title: First impressions
 wordpress_id: 2945
 categories:

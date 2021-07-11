@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2009-06-28 19:30:44+00:00
 layout: post
-slug: snemanje-robina-hooda-od-dalec
 title: Snemanje Robina Hooda - od daleč
 wordpress_id: 1308
 categories:

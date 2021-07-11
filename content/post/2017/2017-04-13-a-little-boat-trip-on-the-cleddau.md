@@ -1,9 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2017-04-13 21:00:14+00:00
 layout: post
-slug: a-little-boat-trip-on-the-cleddau
 title: A little boat trip on the Cleddau
 wordpress_id: 3409
 categories:

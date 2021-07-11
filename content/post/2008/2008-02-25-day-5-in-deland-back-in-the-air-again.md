@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-25 01:30:00+00:00
 layout: post
-link: https://mcdowell.si/day-5-in-deland-back-in-the-air-again-99.html
-slug: day-5-in-deland-back-in-the-air-again
 title: Day 5 in Deland - back in the air again
 wordpress_id: 99
 categories:

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2012-04-16 21:30:28+00:00
 layout: post
-link: https://mcdowell.si/haverfordwest-drivers-beware-well-sort-of-2079.html
-slug: haverfordwest-drivers-beware-well-sort-of
 title: Haverfordwest drivers beware! Well, sort of :-)
 wordpress_id: 2079
 categories:

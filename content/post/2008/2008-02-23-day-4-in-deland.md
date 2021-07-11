@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2008-02-23 02:36:00+00:00
 layout: post
-link: https://mcdowell.si/day-4-in-deland-96.html
-slug: day-4-in-deland
 title: Day 4 in Deland
 wordpress_id: 96
 categories:

@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: false
 date: 2013-09-04 19:00:35+00:00
 layout: post
-link: https://mcdowell.si/winter-warmth-by-croud-sourcing-2739.html
-slug: winter-warmth-by-croud-sourcing
 title: Winter warmth by croud sourcing
 wordpress_id: 2739
 categories:

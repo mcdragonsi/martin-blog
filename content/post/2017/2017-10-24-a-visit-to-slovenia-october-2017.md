@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2017-10-24 07:30:07+00:00
 layout: post
-link: https://mcdowell.si/a-visit-to-slovenia-october-2017-3457.html
-slug: a-visit-to-slovenia-october-2017
 title: A visit to Slovenia, October 2017
 wordpress_id: 3457
 categories:

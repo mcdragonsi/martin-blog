@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-01-04 18:25:06+00:00
 layout: post
-link: https://mcdowell.si/experiencing-the-m25-car-park-1769.html
-slug: experiencing-the-m25-car-park
 title: Experiencing the M25 car park
 wordpress_id: 1769
 categories:

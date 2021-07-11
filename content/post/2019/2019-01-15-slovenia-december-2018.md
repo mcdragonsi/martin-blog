@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2019-01-15 14:01:19+00:00
 layout: post
-link: https://mcdowell.si/slovenia-december-2018-3573.html
-slug: slovenia-december-2018
 title: Slovenia, December 2018
 wordpress_id: 3573
 categories:

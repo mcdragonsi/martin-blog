@@ -2,7 +2,6 @@
 author: mcdragon
 date: 2008-02-22 01:24:00+00:00
 layout: post
-slug: day-3-in-deland-really-spent-in-daytona-beach
 title: Day 3 in Deland (really spent in Daytona Beach)
 wordpress_id: 95
 categories:

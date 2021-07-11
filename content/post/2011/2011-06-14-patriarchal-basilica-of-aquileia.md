@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2011-06-14 19:00:16+00:00
 layout: post
-link: https://mcdowell.si/patriarchal-basilica-of-aquileia-1936.html
-slug: patriarchal-basilica-of-aquileia
 title: Patriarchal Basilica of Aquileia
 wordpress_id: 1936
 categories:

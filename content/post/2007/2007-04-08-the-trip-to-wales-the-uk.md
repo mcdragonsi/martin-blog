@@ -1,10 +1,7 @@
 ---
 author: mcdragon
-comments: true
 date: 2007-04-08 15:03:00+00:00
 layout: post
-link: https://mcdowell.si/the-trip-to-wales-the-uk-35.html
-slug: the-trip-to-wales-the-uk
 title: The trip to Wales (the UK)
 wordpress_id: 35
 ---
