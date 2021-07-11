@@ -56,3 +56,9 @@ blockquote {
     margin: 4rem 0;
     padding: .5rem 0 .5rem 2rem;
 }
+
+.footer {
+    color: #ffffff;
+    background: #3a4d5c;
+    border-top: 3px solid #999;
+}
