@@ -32,8 +32,7 @@ But hell noooo, I have a lovely afternoon stroll on a gravel road and I go and b
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/about/</guid>
-      <description>My name is Martin and I started this blog in about 2006. The OK Go post was my very first. It was on Google&amp;rsquo;s platform Blogger. I then migrated to Wordpress on different service providers: Bluehost, Webhosting UK and OVH. I finally broke free of Worpdress and moved to a static website platform. The static files are hosted on Amazon S3 and the domain managed by Cloudflare.
-Locuming You might have been redirected here from my old locuming page Martin.</description>
+      <description>My name is Martin and I started this blog in about 2006. The OK Go post was my very first. It was on Google&amp;rsquo;s platform Blogger. I then migrated to Wordpress on different service providers: Bluehost, Webhosting UK and OVH. I finally broke free of Worpdress and moved to a static website platform. Hugo in this case. The CDN is hosted by Netlify, the photos are hosted on AWS S3 and the domain managed by Cloudflare.</description>
     </item>
     
     <item>
