@@ -37,4 +37,4 @@ About half way up the 11 km hike we saw the last of the trees which were replace
 ![](https://img.mcdowell.si/2019/10/2019-09-30-16.47.31.resized.jpg)
 ![](https://img.mcdowell.si/2019/10/2019-09-30-18.07.13.resized.jpg)
 
-
+{{< youtube id=j88AtWdIrYM title="Some of the porters dancing" >}}
