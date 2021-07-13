@@ -26,6 +26,7 @@ The second night the electricity went in the whole town because of the wind caus
 The Yellowstone park is amazing and has such a variety of surroundings, from the almost alpine serenity to almost desert-like hills, sulphur gushing geysers - of course I have to mention the [Old Faithful](https://en.wikipedia.org/wiki/Old_Faithful), but there are many many more smaller ones in the park.
 
 ![Stop the car Trading Post](https://img.mcdowell.si/2013/06/wpid-20130613_125123-1.jpg "Stop the car Trading Post")
+![Stop the car Trading Post](https://img.mcdowell.si/2013/06/yellowstone_stop-the-car.jpg "Stop the car Trading Post")
 
 ![Some warm food from Stop the Car](https://img.mcdowell.si/2013/06/wpid-20130613_125555-1.jpg "Some warm food from Stop the Car")
 
@@ -34,3 +35,6 @@ The Yellowstone park is amazing and has such a variety of surroundings, from the
 ![Photo of a canyon in Yellowstone](https://img.mcdowell.si/2013/06/wpid-20130614_101127-1.jpg)
 
 ![Sign warning about bears](https://img.mcdowell.si/2013/06/wpid-20130613_165139-1.jpg)
+![Sign warning about bears](https://img.mcdowell.si/2013/06/yellowstone-bear-warning-sign.jpg "This warning was a bit more detailed and I decided to continue untill...")
+![Bear footprint](https://img.mcdowell.si/2013/06/yellowstone-bear-footprint.jpg "... I stumbled upon this bear footprint. Decided this was enough for me and turned around went back to where I came from.")
+

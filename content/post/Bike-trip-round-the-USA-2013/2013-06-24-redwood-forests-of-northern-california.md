@@ -26,3 +26,6 @@ Just my luck and apparently inherited clumsiness (sorry Dad :-) I somehow manage
 Getting into the part of my journey where I am trying to figure out how to best spend these days and also get back to Chicago.
 
 Need to go now. Being domestic tonight - doing my laundry and I thing the drying cycle might be over.
+
+![Pacific coast](https://img.mcdowell.si/2013/06/Pacific_coast_1.jpg "Pacific coast")
+![Pacific coast](https://img.mcdowell.si/2013/06/Pacific_coast_2.jpg "Pacific coast")

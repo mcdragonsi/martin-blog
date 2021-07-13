@@ -26,3 +26,6 @@ The first looks much more impressive when you are actully there. The second will
 
 ![Mt Rushmore](https://img.mcdowell.si/2013/06/wpid-20130611_082928-1.jpg "Mt Rushmore")
 
+![Bison](https://img.mcdowell.si/2013/06/Bison_in_Custer_Park.1000px.jpg "Bison behind the warden's hut in Custer Park")
+
+
