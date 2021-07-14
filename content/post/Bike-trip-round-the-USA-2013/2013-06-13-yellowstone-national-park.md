@@ -47,3 +47,8 @@ An actual footprint from a bear. Not doesn't look like much on a photo but being
 ![Bear footprint](https://img.mcdowell.si/2013/06/yellowstone-bear-footprint.jpg "... I stumbled upon this bear footprint. Decided this was enough for me and turned around went back to where I came from.")
 
 Decided was not going to end up as one of those horrifying bear-attack-related stories and hastily returned back to my bike. 
+
+[![A great panoramic view of Yellowstone](https://img.mcdowell.si/2013/06/yellowstone-panoramic1-small.jpg "A great panoramic view of Yellowstone - Click image to enlarge")](https://img.mcdowell.si/2013/06/yellowstone-panoramic1.jpg)
+
+
+[![Another great panoramic view of Yellowstone](https://img.mcdowell.si/2013/06/yellowstone-panoramic2-small.jpg "Another great panoramic view of Yellowstone - Click image to enlarge")](https://img.mcdowell.si/2013/06/yellowstone-panoramic2.jpg)
