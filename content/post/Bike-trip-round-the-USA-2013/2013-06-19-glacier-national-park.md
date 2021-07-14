@@ -29,6 +29,8 @@ Coming back to the non-hitch-hiking guy. I felt bad passing him and absolutely n
 As I was doing that a rather scary thing happened; probably something that happens all the time in the middle-off-nowhere Montana but was darn well weird for the likes of me living in the UK. A man casually walks into the saloon, just as I was enjoying my tea and had a nice big gun, holstered to his waist. He had a brief exchange with the staff at the bar and then left. Didn't look like he was law enforcement so freaked me out a lot.
 And no, did not take a photo oh him but was tempted.
 
+When I checked on Google maps in 2021 it looks like the place now closed permanently.
+
 ![My camping setup](https://img.mcdowell.si/2013/06/my-camping-setup.jpg "This was my typical camping setup. This particular photo was taken at Logan State park campsite in Montana - https://fwp.mt.gov/stateparks/logan/ ")
 
-![Kickin Horse Saloon](https://img.mcdowell.si/2013/06/kickin-horse-saloon.jpg "Kickin Horse Saloon - This was the saloon where I had a meal. When I checked on Google maps in 2021 it seems the place is now permanently closed")
+![Kickin Horse Saloon](https://img.mcdowell.si/2013/06/kickin-horse-saloon.jpg "Kickin Horse Saloon")
