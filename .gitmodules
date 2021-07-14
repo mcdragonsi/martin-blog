@@ -1,5 +1,5 @@
 [submodule "themes/mainroad"]
-	path = themes/Mainroad
+	path = themes/mainroad
 	url = https://github.com/mcdragonsi/Mainroad
 [submodule "themes/Mainroad"]
 	path = themes/Mainroad
