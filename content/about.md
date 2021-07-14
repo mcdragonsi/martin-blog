@@ -22,3 +22,7 @@ Unfortunately I have been forced to stop locuming in 2020. Partly because of COV
 - I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital]({{< relref "categories/carriacou-2015/" >}} "Carriacou Animal Hospital").
 - I'm {{% years-till-today 1972 %}} years old.
 - I have {{% years-till-today 2005 %}} years of experience in practising small animal veterinary medicine both in the UK and abroad.
+
+[![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/)
+[![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](http://google.com.au/)
+
