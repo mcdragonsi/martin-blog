@@ -26,5 +26,3 @@ Maybe I am just dumb. Anyhow... the pegs that come with it are almost useless. A
 Nice place but to very noisy as its right next to the motorway and, as I found out during the night, a busy railway.
 
 ![Amish country](https://img.mcdowell.si/2013/06/Amish-country.jpg "Amish country")
-
-
