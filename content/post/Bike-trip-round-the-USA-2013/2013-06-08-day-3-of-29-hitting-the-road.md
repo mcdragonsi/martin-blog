@@ -3,12 +3,12 @@ author: mcdragon
 date: 2013-06-08 01:19:13+00:00
 layout: post
 title: Day 3 of 29 - Hitting the road
+thumbnail: https://img.mcdowell.si/2013/06/Chicago-setting-off_680x680.jpg
 wordpress_id: 2439
 categories:
 - Bike trip round the USA 2013
 - Motorcycling
 ---
-
 Last night had a few loose nerves to which those close to me can attest. Got a little worried the Heritage wont be able to take all the luggage I had for it. Turns out it was fine and this photo confirms that.
 
 ![Fully loaded and ready to go](https://img.mcdowell.si/2013/06/Chicago-setting-off.jpg "Fully loaded and ready to go. Possibly regretting taking to much stuff")
