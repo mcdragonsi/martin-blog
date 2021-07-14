@@ -15,8 +15,3 @@ After staying in a great KOA campsite in Winthrop, Washington, I took the road a
 Stopped for a cup of coffee on the way and took the ferry crossing to Port Townsend. Rubbish campsite where I couldn't even use my pegs to pitch my tent. There was also a storm brewing and my tent would surely be airborne with such poor anchorage. So I decided to go to a hotel for the night.
 
 [![Diablo Lake, Washington](https://img.mcdowell.si/2013/06/wpid-20130618_0918391-1.jpg "Diablo Lake, Washington")](https://img.mcdowell.si/2013/06/wpid-20130618_0918391-1.jpg)
-
-![My camping setup](https://img.mcdowell.si/2013/06/my-camping-setup.jpg "This was my typical camping setup. This particular photo was taken at Logan State park campsite in Montana - https://fwp.mt.gov/stateparks/logan/ ")
-
-
-![Kickin Horse Saloon](https://img.mcdowell.si/2013/06/kickin-horse-saloon.jpg "Kickin Horse Saloon - This was the saloon where I had a meal. When I checked on Google maps in 2021 it seems the place is now permanently closed")
