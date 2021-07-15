@@ -12,3 +12,5 @@ Internal link
 
 Link to an image
 [![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/MRCVS-certificate.jpg)
+
+[![My KTM in Wales in May 2021](https://img.mcdowell.si/2021/2021-05-30-My-KTM-in-Wales.jpg "My KTM in Wales in May 2021 - Click to enlarge")](https://img.mcdowell.si/2021/2021-05-30-My-KTM-in-Wales-large.jpg)

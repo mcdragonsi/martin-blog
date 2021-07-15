@@ -1,7 +1,6 @@
 ---
-title: "Pablo"
-date: 2021-06-07T23:00:00Z
 title: 'Broken foot'
+date: 2021-06-07T23:00:00Z
 thumbnail: https://img.mcdowell.si/2021/fractured_metatarsal_480x480.jpg
 draft: false
 tags:

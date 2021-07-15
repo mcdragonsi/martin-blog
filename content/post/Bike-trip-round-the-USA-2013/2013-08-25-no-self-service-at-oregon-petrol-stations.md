@@ -2,15 +2,15 @@
 author: mcdragon
 date: 2013-08-25 20:40:14+00:00
 layout: post
-published: false
-title: The Oregon petrol station madness
+published: true
+title: No self-service at Oregon petrol stations
+thumbnail: https://img.mcdowell.si/2013/06/Flag_of_Oregon_680x680.png
 wordpress_id: 2670
 categories:
 - Bike trip round the USA 2013
 - Motorcycling
 - Politics and opinions
 ---
-
 I would admit the headline is a little sensational but at the time of driving through [Oregon](https://en.wikipedia.org/wiki/Oregon) I did think there was something odd about the Beaver state. In my many years of driving round Europe and now the USA I have found that all petrol stations have turned into self-service affairs. You get there, you you fill up your tank, you pay and then you drive off.
 
 But in Oregon - oh nooooo. I even saw some other fellow Americans drivers puzzled by what they we and were not expected to do at the petrol stations. I definitely wasn't the only one. As soon as I crossed the border from Washington going south and pulled-in the first filling station I got told off by some petrol station worker that I am not allowed to fill-up petrol myself.
@@ -71,3 +71,7 @@ _Already covered it but I had to write it down again, just for laughs._
 _And that is one of the reasons we have invented 'Pay at pump', not that Oregon lawmakers have noticed_
 
 
+## Update in 2021
+Apparnetly the self-service law was changed in 2018 and you are now allowed to fill up your vehicle by yourself. At least in most counties in Oregon
+
+https://www.huffingtonpost.co.uk/entry/oregon-self-serve-gas-law-comments_n_5a4bafdde4b0b0e5a7a8dab5?ri18n=true
