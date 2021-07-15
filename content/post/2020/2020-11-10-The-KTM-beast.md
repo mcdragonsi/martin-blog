@@ -23,5 +23,3 @@ Listen it roar
 ![The KTM guy delivering the bike](https://img.mcdowell.si/2020/2020-11-10_new-bike-day.jpg "The KTM guy delivering the bike")
 
 ![The old bike gets loaded up to be taken away. Yes, I did a part-exchange](https://img.mcdowell.si/2020/2020-11-10_the-honda-gets-loaded-up.jpg "The old bike gets loaded up to be taken away. Yes, I did a part-exchange")
-
-[![RCVS certifcate](/img/MRCVS-certificate-213x300.jpg)](https://img.mcdowell.si/MRCVS-certificate.jpg)
