@@ -15,7 +15,7 @@ categories:
 First item on the menu is an apology. This was typed on my Samsung Galaxy phone and considering the quality of my usual typing on its virtual keyboard I think I will probably have some absolute spelling gems ;-)
 
 12am
-We should have taken off at 11am but I am not really sure we did. The weather up here very sunny and best of all you guys in Pembrokeshire might have seen me as we flew over Fishguard. I could actualy recognize the Cleddau river, Haverfordwest and what really put a smile on my face was a clear view of Marloes sands, Skomer and even Gateholm. Sooooo great :-D am grinning ear to ear. Literally.
+We should have taken off at 11am but I am not really sure we did. The weather up here very sunny and best of all you guys in Pembrokeshire might have seen me as we flew over Fishguard. I could actually recognize the Cleddau river, Haverfordwest and what really put a smile on my face was a clear view of Marloes sands, Skomer and even Gateholm. Sooooo great :-D am grinning ear to ear. Literally.
 Just been served the nibbly bits which comprised of a microscopic bag of pretzels. Richmeister probably assumes we shoul all be on a diet.
 
 12:30

@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-06-24 05:01:07+00:00
+date: 2013-06-23
 layout: post
 title: San Francisco and the Yosemite national park
 thumbnail: https://img.mcdowell.si/2013/06/san-francisco-and-the-yosemite-national-park.png

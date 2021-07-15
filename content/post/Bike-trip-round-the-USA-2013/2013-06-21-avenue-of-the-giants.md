@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-08-11 17:15:38+00:00
+date: 2013-06-21 17:15:38+00:00
 layout: post
 thumbnail: https://img.mcdowell.si/2013/07/avenue-of-the-giants_480x480.png
 title: Avenue of the Giants

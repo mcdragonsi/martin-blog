@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-06-19 15:03:17+00:00
+date: 2013-06-16
 layout: post
 title: Glacier national park
 thumbnail: https://img.mcdowell.si/2013/06/glacier-national-park.png
@@ -18,11 +18,9 @@ Took a boat ride on the lake and chilled in the surroundings. I also wasn't very
 
 The following night I staid in a basic campsite at Logan State Park at Middle Thompson Lake in Montana. As a treat the night before  went to a local bar (saloon) about 5 miles down the road. On the way saw a guy walking on the side of the road but wasn't apparently hitch-hiking. After passing him I did recall seeing a car not far behind the guy so I did fear he might have broken down. Now this was in the middle of nowhere and I might have been in the altruistic mood of helping your fellow human being. There seems to be a code like that among bikers. Quite a few times when I stopped at the side of the road I quickly had another biker slowing down and enquiring if I am OK and if I need assistance. Its like the bikers have their own Green Flag going for them :-)
 
-![Lake McDonald](https://img.mcdowell.si/2013/06/glacier-national-park.jpg "Lake McDonald")
-
-![Lake McDonald](https://img.mcdowell.si/2013/06/wpid-20130616_153854-1.jpg "Lake McDonald")
-
-![Lake McDonald](https://img.mcdowell.si/2013/06/wpid-20130616_153950-1.jpg "Lake McDonald")
+![Lake McDonald](https://img.mcdowell.si/2013/06/Lake-McDonald-1.jpg "Lake McDonald")
+![Lake McDonald](https://img.mcdowell.si/2013/06/Lake-McDonald-2.jpg "Lake McDonald")
+![Lake McDonald](https://img.mcdowell.si/2013/06/Lake-McDonald-3.jpg "Lake McDonald")
 
 Coming back to the non-hitch-hiking guy. I felt bad passing him and absolutely no memories from maaaany US horror films about picking up strange people on the road came in to my mind as I decided to do a U-turn and try to find what was going on. The guy indeed had a car breakdown and needed to use the phone. The problem wasn't that I had luggage on my bike - I didn't, but I was not used to driving pillion drivers and had to quickly scramble through my memories of my training in [Motorcycling training Wales](https://motorcycletrainingwales.co.uk/) in Swansea. The guy was also a little, how shall I be politically correct .... well, he was fat. Just as I got him on the back seat - still not expecting my head to be chopped off at this moment - tried to start the engine and nilch, nada, nothing. Just as I realised I had the emergency cut off switch accidentally engaged another driver pulled up and offered to take the guy to the nearest phone. Haven't heard of any mysterious missing people in Montana or brutal murders but the whole notion only came to me as I was tucking in to my dinner.
 

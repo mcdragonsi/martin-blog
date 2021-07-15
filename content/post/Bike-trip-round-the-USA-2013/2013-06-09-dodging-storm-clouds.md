@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-09-01 22:00:00+00:00
+date: 2013-06-09 22:00:00+00:00
 layout: post
 title: Dodging storm clouds
 thumbnail: https://img.mcdowell.si/2013/06/dodging-storm-clouds_480x480.png
@@ -10,7 +10,7 @@ categories:
 - Motorcycling
 ---
 
-I guess a lot of seasoned bikers are familiar this skill but I had to develop olit completely from scratch and it was up to necessity rather than fancying myself taking on a skill I might not use ever again.
+I guess a lot of seasoned bikers are familiar this skill but I had to develop it completely from scratch and it was up to necessity rather than fancying myself taking on a skill I might not use ever again.
 
 During my few weeks biking in the US this June I got quite good at it.
 What it basically is that as a motorcyclist you try avoiding getting wet by avoiding rainy clouds as they intercept your route. You do however have another choice which is to bd a fatalist and give in to nature and ... well ... get soaked. I preferred to stay nice and dry so I tried my best.

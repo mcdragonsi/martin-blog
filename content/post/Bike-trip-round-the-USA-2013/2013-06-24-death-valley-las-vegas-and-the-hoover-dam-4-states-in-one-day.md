@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-06-25 04:23:23+00:00
+date: 2013-06-24
 layout: post
 title: Death Valley, Las Vegas and the Hoover dam - 4 states in one day
 thumbnail: https://img.mcdowell.si/2013/06/death-valley-las-vegas-and-the-hoover-dam-4-states-in-one-day.png

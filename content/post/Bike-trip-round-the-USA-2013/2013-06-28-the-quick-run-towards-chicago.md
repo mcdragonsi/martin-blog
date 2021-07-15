@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-07-01 00:30:00+00:00
+date: 2013-06-28
 layout: post
 title: The quick run towards Chicago
 wordpress_id: 2588

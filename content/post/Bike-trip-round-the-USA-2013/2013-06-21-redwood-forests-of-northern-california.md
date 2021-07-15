@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2013-06-24 02:54:53+00:00
+date: 2013-06-21 02:54:53+00:00
 layout: post
 title: Redwood forests of northern California
 thumbnail: https://img.mcdowell.si/2013/06/redwood-forests-of-northern-california.png

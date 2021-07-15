@@ -6,6 +6,7 @@ published: false
 title: The Oregon petrol station madness
 wordpress_id: 2670
 categories:
+- Bike trip round the USA 2013
 - Motorcycling
 - Politics and opinions
 ---
