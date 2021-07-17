@@ -19,10 +19,10 @@ Then later I heard about this Chikungunya virus that was causing issues round th
 
 Want to know more? [optimistic version](https://www.fitfortravel.nhs.uk/advice/disease-prevention-advice/chikungunya-fever.aspx#Illness) and [slightly less cheerful version](https://www.who.int/mediacentre/factsheets/fs327/en/)
 
-[![JustGiving - Sponsor me now!](https://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](https://www.justgiving.com/Martin-McDowell)
+## Update July 2021
+A successful vaccine is being developed: https://www.niaid.nih.gov/news-events/experimental-chikungunya-vaccine-safe-and-well-tolerated-early-trial
 
 Image reference
- 	
   * Sun, Siyang et al., 2013 “Structural Analyses at Pseudo Atomic Resolution of Chikungunya Virus and Antibodies Show Mechanisms of Neutralization.” Ed. Werner Kühlbrandt. eLife 2 (2013): e00435. PMC. Web. 5 Jan. 2015.
 
 
