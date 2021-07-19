@@ -10,7 +10,7 @@ categories:
 - Motorcycling
 ---
 
-![Illinois](https://img.mcdowell.si/2013/06/Illinois-1)
+![Illinois](https://img.mcdowell.si/2013/06/Illinois-1.jpg)
 Distance travelled: **~8,000 miles** (just under 13,000 km)
 
 The 17 states that I had a chance to see:

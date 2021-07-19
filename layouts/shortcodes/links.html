@@ -1,7 +1,8 @@
-{{ $data := getJSON "https://api.short.io/api/links?domain_id=178003&limit=3" (dict "Authorization" "QkiLBIG3TCU6R8IUNxaaQo0uUmVfYJYr") }}
-{{ range $data }}
+{{ $data1 := getJSON "https://api.short.io/api/links?domain_id=178003&limit=3" (dict "Authorization" "QkiLBIG3TCU6R8IUNxaaQo0uUmVfYJYr")}}
+{{ $data2 := getJSON "https://postman-echo.com/get?foo1=bar1&foo2=bar2" }}
+{{ range $data2 }}
 {{ . }}
-{{ index 3 }}
+{{ index 2 }}
 {{else}}
     <p>The import from short.io is empty.</p>
 {{end}}
