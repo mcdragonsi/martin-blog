@@ -3,6 +3,7 @@ author: mcdragon
 date: 2014-12-21 09:16:55+00:00
 layout: post
 title: Volunteering for the Worldwide Veterinary Service on the island of Carriacou
+thumbnail: https://img.mcdowell.si/2015/02/wvs-logo.png
 wordpress_id: 2906
 categories:
 - Carriacou 2015
@@ -22,3 +23,5 @@ The CAH, ran by Kathy, Shurlene and Hans, is very active in the welfare of pets 
 After that I have to, again, sleep over as the flight is to late for me to catch the ferry to get me from St George's on Grenada to Hillsborough on Carriacou. There is a plane shuttle between the islands but I would be late for that as well (its also a little more pricier). I figure after a long-haul flight I would have been sick and tired of hearing the safety brief and the knee crunching legroom. After that I hope to be picked up at the airport to end at CAH.
 
 That is the plan. Stay tuned :)
+
+![Worldwide Veterinary Service logo](https://img.mcdowell.si/2015/02/wvs-logo.svg)

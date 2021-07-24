@@ -3,6 +3,7 @@ author: mcdragon
 date: 2015-01-13 23:49:23+00:00
 layout: post
 title: Setting off
+thumbnail: https://img.mcdowell.si/2015/02/setting-off-thumb.jpg
 wordpress_id: 2941
 categories:
 - Carriacou 2015

@@ -3,6 +3,7 @@ author: mcdragon
 date: 2015-02-08 14:54:14+00:00
 layout: post
 title: Carriacou - the island surrounded by reefs
+thumbnail: https://img.mcdowell.si/2015/02/carriacou-the-island-surrounded-by-reefs-thumb.jpg
 wordpress_id: 2965
 categories:
 - Carriacou 2015

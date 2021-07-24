@@ -3,6 +3,7 @@ author: mcdragon
 date: 2015-01-05 16:41:50+00:00
 layout: post
 title: Chikungunya what? Is that a local chicken dish?
+thumbnail: https://img.mcdowell.si/2015/01/Chikungunya-thumb.jpg
 wordpress_id: 2923
 categories:
 - Carriacou 2015

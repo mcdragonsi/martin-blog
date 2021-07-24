@@ -3,6 +3,7 @@ author: mcdragon
 date: 2015-02-04 17:11:07+00:00
 layout: post
 title: Appeal for donations for Carriacou Animal Hospital
+thumbnail: https://img.mcdowell.si/2015/02/cah-1-thumb.jpg
 wordpress_id: 2957
 categories:
 - Carriacou 2015
