@@ -14,7 +14,7 @@ tags:
 
 ![The Chikungunya virus / Sun, Siyang et al., 2013](https://img.mcdowell.si/2015/01/Chikungunya-1.jpg "The Chikungunya virus / Sun, Siyang et al., 2013") 
 
-Soon after starting planning my volunteer trip to Carriacou I was given advice about vaccinations I would require. These were basically for rabies and tetanus. As I was tested and proven that I already had enough anti-bodies against tetanus (Clostridium tetani) all I had to do was to get my rabies shots. Great. Cashed out over £110 for this and thought this was it.
+Soon after starting planning my volunteer trip to [Carriacou](https://en.wikipedia.org/wiki/Carriacou) I was given advice about vaccinations I would require. These were basically for rabies and tetanus. As I was tested and proven that I already had enough anti-bodies against [tetanus](https://www.nhs.uk/conditions/tetanus/) (Clostridium tetani) all I had to do was to get my rabies shots. Great. Cashed out over £110 for this and thought this was it.
 
 Then later I heard about this Chikungunya virus that was causing issues round the world but it was also prevalent in the Caribbean. Turns out this virus causes a quite nasty disease. OK, not exactly ebola grade badness but can still be lethal in extreme cases and can also cause severe joint pain that can linger for months and even a few years. And, you guessed it, absolutely no vaccine for it.
 

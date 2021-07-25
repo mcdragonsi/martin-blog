@@ -37,7 +37,6 @@ People met: loads
 
 Technical issues with the motorcycle: almost none, substantial oil addition in Utah at about 6.125 miles into trip. When I wrote this article I seemed to have completely forgotten about my problem getting the bike started on Day 1, when I was still on the Eaglerider carpark in Chicago. The damn thing wouldn't even go in 1st gear. The mechanic needed to change the battery. Coincidence? This is the second rental and both have had electrical problems relating to the battery.
 
-
 #### Distances
 
 This bit is a retrospective note and was not part of the original article. A few people have asked me what was the longest distance I rode in a day. Well considering that I stopped a lot at the beginning it would definitely be towards the latter part of my trip. From Grand Junction in Colorado to North Platte in Nebraska is just over 500 miles (800km). However the last BIG riding day by far was the day after that so from North Platte, NE to Davenport on the most eaters point of Iowa and that was a whopping 580 mile ride (933 km) !!!
