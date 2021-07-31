@@ -3,6 +3,7 @@ author: mcdragon
 date: 2008-02-21 02:53:00+00:00
 layout: post
 title: Day 2 at Deland
+thumbnail: https://img.mcdowell.si/2008/02/deland-day2-thumb.jpg
 wordpress_id: 94
 categories:
 - skydiving
@@ -14,11 +15,11 @@ Now that I have got my reserve deployment out of the way I can get to some good 
 
 The picture on the left is showing our makeshift hangar - the flag has now been moved to a proper flag post close to the boarding zone - pics to follow :-)
 
-![](https://img.mcdowell.si/2008/02/P2270008.JPG "I was probably writing this blog page for all I know")
+![](https://img.mcdowell.si/2008/02/deland-day2.jpg "I was probably writing this blog page for all I know")
 
 I have been having some problems with my landings and I was planning to do a canopy control course in Deland, but the instructors have not appeared to be very interested so I was lucky to have my old instructor from my home DZ in Prečna here - Aleš Debeljak. He gave me some simple live guidances during my landing and they went great. I was apparently flaring to late and that made my landing quite sore - especially on the knees.
 
-![](https://img.mcdowell.si/2008/02/p2200001-1.jpg)
+![](https://img.mcdowell.si/2008/02/deland-packing.jpg)
 I would also recommend to have you rigged packed by one of the riggers here - it makes jumping much more enjoyable and you can get more jumps in than usual. It is also very good if you have a new parachute that does not like to be packed very much.
 
 The weather was not as nice as previous days so some of the lifts were at a lower altitude than 4.000 m. If this happens - tough, no money back at all.

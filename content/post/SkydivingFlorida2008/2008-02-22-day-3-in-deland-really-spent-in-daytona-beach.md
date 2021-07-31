@@ -3,11 +3,14 @@ author: mcdragon
 date: 2008-02-22 01:24:00+00:00
 layout: post
 title: Day 3 in Deland (really spent in Daytona Beach)
+thumbnail: https://img.mcdowell.si/2008/02/daytona-beach-group-photo-thumb.jpg
 wordpress_id: 95
 categories:
 - skydiving
 - Skydiving Florida 2008
 ---
+
+![Daytona beach](https://img.mcdowell.si/2008/02/daytona-beach-group-photo.jpg)
 
 As the weather wasn't very promising most of us managed to do only two jumps, the last one in many cases being in the rain and believe me, it is not nice or romantic to free fly through rain. It feels like you are being pricked with pins all over your face. I did a couple of three-way jump with Miha and Barbara and I think it went well considering our experience.
 

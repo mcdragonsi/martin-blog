@@ -3,6 +3,7 @@ author: mcdragon
 date: 2008-02-24 04:16:00+00:00
 layout: post
 title: Skydive Sebastian
+thumbnail: https://img.mcdowell.si/2008/02/sebastian_logo_in_bar-thumb.jpg
 wordpress_id: 98
 categories:
 - skydiving

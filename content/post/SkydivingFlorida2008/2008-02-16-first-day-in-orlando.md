@@ -3,12 +3,13 @@ author: mcdragon
 date: 2008-02-16 05:48:00+00:00
 layout: post
 title: First day in Orlando
+thumbnail: https://img.mcdowell.si/2008/02/wind-tunnel1-thumb.jpg
 wordpress_id: 89
 categories:
 - skydiving
 - Skydiving Florida 2008
 ---
-
+![Wind tunnel](https://img.mcdowell.si/2008/02/wind-tunnel1.jpg "Wind tunnel")
 The wind tunnel training started a day before I expected so I had to get up at about 6am. I did 5x2 minutes in the morning, then another 5x2 minutes in the afternoon and I have just completed another 2x2 minutes session. I have now finished debriefing and it is ten minutes to one in the morning! By my home watch it is just before 6am!
 
 Don't even think that flying in a wind tunnel is easy and not exhausting. My back is VERY sore. However I did manage to get some time and see a bit of Orlando from their buses. The one we used was very interesting and here is a photo to prove it. We passed a very funny building that looked like it was ripped out of the ground and landed on another one. It was probably also a bit of a joke on the hurricanes they tend to get here in Florida. As I was in the bus at the time I couldn't get a decent photo of it.

@@ -3,6 +3,7 @@ author: mcdragon
 date: 2008-02-13 20:28:00+00:00
 layout: post
 title: 'First leg to Florida: Hickstead'
+thumbnail: https://img.mcdowell.si/2008/02/hickstead-thumb.jpg
 wordpress_id: 88
 categories:
 - skydiving

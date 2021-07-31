@@ -3,11 +3,13 @@ author: mcdragon
 date: 2008-02-25 01:30:00+00:00
 layout: post
 title: Day 5 in Deland - back in the air again
+thumbnail: https://img.mcdowell.si/2008/02/four_way_skyvan-thumb.jpg
 wordpress_id: 99
 categories:
 - skydiving
 - Skydiving Florida 2008
 ---
+![Barbara (white helmet, pink grips), Babi (white helmet, blue/white suit), Gvido (red helmet) and myself (blue/silver suit) made a 4-way formation](https://img.mcdowell.si/2008/02/four_way_skyvan.jpg "Barbara (white helmet, pink grips), Babi (white helmet, blue/white suit), Gvido (red helmet) and myself (blue/silver suit) made a 4-way formation")
 
 The morning had low clouds but we hoped that they would soon lift and that we would see blue skies again - unfortunately this took much longer than first predicted as we started jumping at about 1PM.
 
