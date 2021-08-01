@@ -1,9 +1,9 @@
 ---
 author: mcdragon
 date: 2019-10-03T19:00:28.000+00:00
-thumbnail: "https://img.mcdowell.si/2019/10/top-of-uhuru_680x680.jpg"
 layout: post
 title: 'Day 13: Uhuru Peak / Horombo Hut (Day 6 of Kilimanjaro part)'
+thumbnail: "https://img.mcdowell.si/2019/10/top-of-uhuru_680x680.jpg"
 wordpress_id: "3821"
 categories:
 - Kilimanjaro 2019
@@ -13,8 +13,7 @@ tags:
 
 ---
 ## Thursday, 3 October
-
-Elevation: 5,895 m (Uhuru peak), alpine desert
+**Elevation: 5,895 m (Uhuru peak), alpine desert**
 
 This post was written months after I actually did the climb. There were so many emotions surrounding this day I needed time to process them. So as I procrastinated the post I ended just forgetting about it. Putting it to words and posting it onto this blog was of secondary importance to me. The thoughts and memories will be mine forever.
 
@@ -42,5 +41,4 @@ Because of the low O2 in the air my brain also wasn't working very well and I ha
 
 ![](https://img.mcdowell.si/2019/10/2019-10-03+07.32.08.resized.jpg)
 
-![Made it!!](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg)
-Made it!!
+![Made it!!](https://img.mcdowell.si/2019/10/top-of-uhuru.jpg "Made it!!")

@@ -3,14 +3,11 @@ author: mcdragon
 date: 2019-09-26 13:11:30+00:00
 layout: post
 title: 'Day 6: Ngorongoro Crater'
+thumbnail: "https://img.mcdowell.si/2019/09/NgorongoroCrater-680x680.jpg"
 wordpress_id: 3807
 categories:
 - Kilimanjaro 2019
 ---
-
-
-
-
 ## Thursday, 26 September
 
 Another interesting night in regards to the local wildlife but this time we knew what to expect. Again hienas trashed our rubbish bins, one of or fellow hikers got kinda chased round the toilet block by a hiena. It might have happened slightly differently but this is how I'm serving it and I suggest you believe it. 😉 Also the lion roars and zebras giving out weird sounds were the repeat repertoire. 

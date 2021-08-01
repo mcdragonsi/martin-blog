@@ -3,11 +3,11 @@ author: mcdragon
 date: 2019-09-21 17:16:51+00:00
 layout: post
 title: 'Day 1: Nairobi'
+thumbnail: "https://img.mcdowell.si/2019/09/nairobi-680x680.jpg"
 wordpress_id: 3794
 categories:
 - Kilimanjaro 2019
 ---
-
 
 ## Saturday, September 21st
 

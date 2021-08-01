@@ -3,11 +3,11 @@ author: mcdragon
 date: 2019-09-25 17:17:55+00:00
 layout: post
 title: 'Day 5: Serengeti National Park'
+thumbnail: "https://img.mcdowell.si/2019/09/Serengeti2-680x680.jpg"
 wordpress_id: 3805
 categories:
 - Kilimanjaro 2019
 ---
-
 ## Wednesday, 25 September
 
 What a night! Sleeping in the tent and surrounded by sounds of the Serengeti wildlife. At one point I had a zebra come right close to the tent. It must have been just 10 feet or so away. Then the there was a constant vocalising of the hienas who actually had a field day on the bin belonging to the other group that was in the same campsite. The pinnacle of the nigh-time experience was the lion roaring. A little to close for comfort really.

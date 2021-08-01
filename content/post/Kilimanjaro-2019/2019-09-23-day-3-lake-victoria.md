@@ -3,6 +3,7 @@ author: mcdragon
 date: 2019-09-23 18:21:30+00:00
 layout: post
 title: 'Day 3: Lake Victoria'
+thumbnail: "https://img.mcdowell.si/2019/09/Lake-Victoria-680x680.jpg"
 wordpress_id: 3799
 categories:
 - Kilimanjaro 2019

@@ -3,12 +3,11 @@ author: mcdragon
 date: 2019-09-24 06:15:51+00:00
 layout: post
 title: 'Day 4: Serengeti National Park'
+thumbnail: "https://img.mcdowell.si/2019/09/Serengeti-680x680.jpg"
 wordpress_id: 3801
 categories:
 - Kilimanjaro 2019
 ---
-
-
 ## Tuesday, 24 September
 Still being under the impression of the stunning sunset over lake Victoria the night before, we started again with an early breakfast and a couple of quick stops in town to get more supplies. We also managed to source some ice that we put in a chiller box with all our beers.
 
@@ -38,3 +37,4 @@ Night, night. 😲
 ![](https://img.mcdowell.si/2019/10/2019-09-24-12.04.08.resized.jpg)
 
 
+{{< youtube id=zU7YkmqiqPI title="Serengeti National Park - Tanzania" >}}

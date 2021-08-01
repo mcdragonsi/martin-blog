@@ -3,6 +3,7 @@ author: mcdragon
 date: 2019-03-03 20:00:31+00:00
 layout: post
 title: Climbing Mount Kilimanjaro - The start of the adventure
+thumbnail: "https://img.mcdowell.si/2019/03/martin-kili.ai_.svg_.png"
 wordpress_id: 3594
 categories:
 - Kilimanjaro 2019
@@ -11,9 +12,6 @@ categories:
 
 
 ![](https://img.mcdowell.si/2019/03/kilimanjaro-1025146_1280-1024x658.jpg)Image by [Greg Montani](https://pixabay.com/users/GregMontani-1014946/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1025146) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1025146)
-
-
-
 
 
 In this case with booking. I heard of a friend using the company [Intrepid Travel](https://www.intrepidtravel.com/) several years ago when she went on a fabulous trip to south America.  

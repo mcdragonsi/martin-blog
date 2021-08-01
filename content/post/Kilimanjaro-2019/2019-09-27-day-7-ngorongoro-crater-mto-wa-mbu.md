@@ -3,6 +3,7 @@ author: mcdragon
 date: 2019-09-27 20:00:00+00:00
 layout: post
 title: 'Day 7: Ngorongoro Crater / Mto Wa Mbu'
+thumbnail: "https://img.mcdowell.si/2019/09/NgorongoroCrater2-680x680.jpg"
 wordpress_id: 3809
 categories:
 - Kilimanjaro 2019

@@ -3,6 +3,7 @@ author: mcdragon
 date: 2019-10-02 19:00:28+00:00
 layout: post
 title: 'Day 12: Kibo Hut / Uhuru Peak (Day 5 of Kilimanjaro part)'
+thumbnail: https://img.mcdowell.si/2019/10/2019-10-02-day-12-kibo-hut-uhuru-peak-day-5-of-kilimanjaro-part-680x680.jpg
 wordpress_id: 3819
 categories:
 - Kilimanjaro 2019
@@ -11,12 +12,8 @@ tags:
 - Uhuru
 ---
 
-
-
-
 ## Wednesday, 2 October
-
-Elevation: 4,703 m (Kibo Hut), alpine desert
+**Elevation: 4,703 m (Kibo Hut), alpine desert**
 
 Today's hike was supposed to be 5h long to the Marangu route's basecamp at Kibo hut. Somewhere along the 11 kilometres we hiked we left the marshland and entered what could be best described as rocky desert, a lunar landscape that has been plonked down on top of an African mountain. 
 

@@ -3,16 +3,14 @@ author: mcdragon
 date: 2019-09-30 19:00:43+00:00
 layout: post
 title: 'Day 10: Horombo Hut (Day 3 of Kilimanjaro part)'
+thumbnail: "https://img.mcdowell.si/2019/09/Kili3-680x680.jpg"
 wordpress_id: 3815
 categories:
 - Kilimanjaro 2019
 ---
 
-
-
-
 ## Monday, 30 September
-Elevation: 3,720 m, moorland terrain
+**Elevation: 3,720 m, moorland terrain**
 
 Spirits very high we started our mountain hut routine. Woken up by one of the porter for coffee and tea and then the "wishy washy" was brought which was basically a small bucket of warm water each and some soap. This was the same in the evenings and allowed us a little bit of hygiene. This bit of "luxury" was omitted at the highest - Kibo hut. After wishy washy time we had breakfast and then about 30 minutes later we hit the trail again.
 
