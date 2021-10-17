@@ -34,3 +34,4 @@ The next toll was for the Karavanke tunnel that connects Austria to Slovenia via
 End of the road was 1,819 km later. Te great thing about the KTM Super Adventure is the electronics and the very very good dash and when I was still the the Eurotunnel I switched the units from miles to kilometres to make following the speed limit much easier. Hence why my dash and milage is in km, not miles. When I enter England I will switch back. When I am writing these lines this will be in 2 days time. I will try to make it in two days by re-arranging where I have the overnight stop and when I choose to cross the channel. 
 
 ## Trip from Ljubljana to Herefordshire
+![First stop: Ashford, Kent](https://img.mcdowell.si/2021/Slovenia2021/2021-09-08 17.24.06.jpg "The red dot is where I was at the time so I could see that there wasn't much weather on the other side of that wave of rain.")

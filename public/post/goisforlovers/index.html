@@ -4,8 +4,8 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="generator" content="Hugo 0.86.1" />
-	<meta name="build" content="2021-07-30T10:13:35Z">
+	<meta name="generator" content="Hugo 0.88.1" />
+	<meta name="build" content="">
 	<title>(Hu)go Template Primer - Martin&#39;s Blog</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
@@ -327,7 +327,7 @@ benefit from having the table of contents provided. Sometimes the TOC just
 doesn&rsquo;t make a lot of sense. We&rsquo;ve defined a variable in our front matter
 of some pages to turn off the TOC from being displayed.</p>
 <p>Here is the example front matter:</p>
-<pre><code>---
+<pre tabindex="0"><code>---
 title: &quot;Permalinks&quot;
 date: &quot;2013-11-18&quot;
 aliases:
@@ -356,20 +356,20 @@ provided if the <code>CopyrightHTML</code> parameter is provided, and if it is g
 you would declare it to be HTML-safe, so that the HTML entity is not escaped
 again.  This would let you easily update just your top-level config file each
 January 1st, instead of hunting through your templates.</p>
-<pre><code>{{if .Site.Params.CopyrightHTML}}&lt;footer&gt;
+<pre tabindex="0"><code>{{if .Site.Params.CopyrightHTML}}&lt;footer&gt;
 &lt;div class=&quot;text-center&quot;&gt;{{.Site.Params.CopyrightHTML | safeHtml}}&lt;/div&gt;
 &lt;/footer&gt;{{end}}
 </code></pre><p>An alternative way of writing the &ldquo;if&rdquo; and then referencing the same value
 is to use &ldquo;with&rdquo; instead. With rebinds the context <code>.</code> within its scope,
 and skips the block if the variable is absent:</p>
-<pre><code>{{with .Site.Params.TwitterUser}}&lt;span class=&quot;twitter&quot;&gt;
+<pre tabindex="0"><code>{{with .Site.Params.TwitterUser}}&lt;span class=&quot;twitter&quot;&gt;
 &lt;a href=&quot;https://twitter.com/{{.}}&quot; rel=&quot;author&quot;&gt;
 &lt;img src=&quot;/images/twitter.png&quot; width=&quot;48&quot; height=&quot;48&quot; title=&quot;Twitter: {{.}}&quot;
 alt=&quot;Twitter&quot;&gt;&lt;/a&gt;
 &lt;/span&gt;{{end}}
 </code></pre><p>Finally, if you want to pull &ldquo;magic constants&rdquo; out of your layouts, you can do
 so, such as in this example:</p>
-<pre><code>&lt;nav class=&quot;recent&quot;&gt;
+<pre tabindex="0"><code>&lt;nav class=&quot;recent&quot;&gt;
   &lt;h1&gt;Recent Posts&lt;/h1&gt;
   &lt;ul&gt;{{range first .Site.Params.SidebarRecentLimit .Site.Recent}}
     &lt;li&gt;&lt;a href=&quot;{{.RelPermalink}}&quot;&gt;{{.Title}}&lt;/a&gt;&lt;/li&gt;
@@ -435,7 +435,7 @@ so, such as in this example:</p>
 			<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<label>
-			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
 		</label>
 		<input class="widget-search__submit" type="submit" value="Search">
 		<input type="hidden" name="sitesearch" value="https://blog.mcdowell.si/" />
