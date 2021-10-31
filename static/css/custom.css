@@ -1,9 +1,11 @@
+@import “fonts.css”;
+ 
 .logo__title {
     font-size: 32px;
-    font-size: 2rem;
+    font-size: 2.7rem;
     font-weight: 700;
     line-height: 1;
-    color: #3a4d5c;
+    color: #6786a1;
     font-family: 'Ubuntu';
 }
 
