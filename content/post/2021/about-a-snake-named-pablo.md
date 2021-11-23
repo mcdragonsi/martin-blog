@@ -2,6 +2,7 @@
 date: 2021-05-21T15:19:36+01:00
 title: 'About a snake named Pablo'
 thumbnail: https://img.mcdowell.si/2021/Pablo480x480.png
+lead: "Spoiler alert: We nearly lost him" # Lead text
 draft: false
 tags:
 - Grass snake

@@ -46,4 +46,4 @@ Here you can see all my stops, where I slept (letters A, B, C...) and major stop
 
 [https://drive.google.com/open?id=1HJrzS2vKFh7q4ivbJ-JOjQA-D8c&usp=sharing](https://drive.google.com/open?id=1HJrzS2vKFh7q4ivbJ-JOjQA-D8c&usp=sharing)
 
-
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HJrzS2vKFh7q4ivbJ-JOjQA-D8c" width="668" height="501"></iframe>

@@ -2,6 +2,8 @@
 title: 'Bike trip to Slovenia 2021'
 date: 2021-09-20
 thumbnail: https://img.mcdowell.si/2021/Slovenia2021/Slovenia2021_680x680.jpg
+lead: "My first motorcycle trip abroad!" # Lead text
+toc: true # Enable Table of Contents for specific page
 draft: false
 tags:
 - Slovenia

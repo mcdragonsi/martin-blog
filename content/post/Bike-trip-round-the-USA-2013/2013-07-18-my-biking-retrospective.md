@@ -29,3 +29,5 @@ But as my general experience of the whole trip goes I really liked how the whole
 ![On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really](https://img.mcdowell.si/2013/07/Chicago_4.1000px-1.jpg) On top of the John Hancock Center - looking towards the direction of my long 23-day biking trip. A fitting end to the trip really
 
 ![In the KOA campsite in Bismarck, North Dakota](https://img.mcdowell.si/2013/06/wpid-20130609_210353-1.jpg) In the KOA campsite in Bismarck, North Dakota
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HJrzS2vKFh7q4ivbJ-JOjQA-D8c" width="668" height="501"></iframe>

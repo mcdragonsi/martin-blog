@@ -92,3 +92,6 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
     url = "/about/"
     weight = -100
 
+[markup.goldmark.renderer]
+unsafe= true
+
