@@ -43,3 +43,8 @@ The trek ends in Jomsom from where we take a flight to Pokhara where the overall
 I won't publish this article just yet so I don't have to have egg on my face after I have to bloody cancel the whole thing. But I will strive not to. 
 
 New adventure ahead 😃😃
+
+**External links:**
+- Plotted route on Komoot: https://www.komoot.com/tour/606980637
+- Annapurna Circuit Trek page (Wikipedia): https://en.wikipedia.org/wiki/Annapurna_Circuit
+- 2014 Nepal snowstorm disaster (Wikipedia): https://en.wikipedia.org/wiki/2014_Nepal_snowstorm_disaster
