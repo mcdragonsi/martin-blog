@@ -5,7 +5,7 @@ layout: post
 title: 'Annapurna: first post'
 thumbnail: https://img.mcdowell.si/Annapurna-2022/annapurna-2022_680x680.jpg
 lead: "My Himalayan adventure!" # Lead text
-draft: true
+draft: false
 summary: The trip will start from Kathmandu, Nepal after which we will drive for 5-6 hours to Besisahar where the actual trek starts. According to Wikipedia the trek is anything between 160–230 km long and I can tell you after how long it will be for me. The highest point is the (in)famous Thorong La pass at 5,416 metre altitude so just about where I started to have some issues on the Kilimanjaro hike in 2019. 
 categories:
 - Annapurna 2022
