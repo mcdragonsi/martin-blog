@@ -40,6 +40,10 @@ The trek ends in Jomsom from where we take a flight to Pokhara where the overall
 
 ![Preliminary map of the trek](https://img.mcdowell.si/Annapurna-2022/rough-map-of-trek.gif "Preliminary map of the trek")
 
+{{< rawhtml >}}
+  <iframe src="https://www.komoot.com/tour/606980637/embed?profile=1" width="100%" height="680" frameborder="0" scrolling="no"></iframe>
+{{< /rawhtml >}}
+
 I won't publish this article just yet so I don't have to have egg on my face after I have to bloody cancel the whole thing. But I will strive not to. 
 
 New adventure ahead 😃😃
