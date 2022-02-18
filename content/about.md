@@ -18,7 +18,7 @@ Unfortunately I have been forced to stop locuming in 2020. Partly because of COV
 * Full name: Dr **Martin McDowell** DrVetMed ISFM AdvCertFB MRCVS
 * RCVS No. [6441157](https://findavet.rcvs.org.uk/find-a-vet-surgeon/martin-mcdowell-6441157/)
 * Current employer: [Bromyard Vets](https://bromyardvets.co.uk/) (part of the [Vet Partners Ltd](https://vetpartners.co.uk/) group)
-* I am have gained the [ISFM Advanced Certificate in Feline Behaviour](https://icatcare.org/event/isfm-advanced-feline-behaviour/) (**ISFM AdvCertFB**) with distinction in November 2019
+* I have gained the [ISFM Advanced Certificate in Feline Behaviour](https://icatcare.org/event/isfm-advanced-feline-behaviour/) (**ISFM AdvCertFB**) with distinction in November 2019
 * I have also been involved with the WVS in January 2015 with veterinary voluntary work at the [Carriacou Animal Hospital]({{< relref "categories/carriacou-2015/" >}} "Carriacou Animal Hospital").
 * I'm {{% years-till-today 1972 %}} years old.
 * I have {{% years-till-today 2005 %}} years of experience in practising small animal veterinary medicine both in the UK and abroad.

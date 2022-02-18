@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="generator" content="Hugo 0.91.2" />
+	<meta name="generator" content="Hugo 0.92.2" />
 	<meta name="build" content="">
 	<title>Snemanje Robina Hooda - od daleč - Martin&#39;s Blog</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
@@ -335,10 +335,15 @@ Tik pred snemanjem se je potem pojavil še helikopter za katerega sem najprej su
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2021 Martin McDowell
+			&copy; <span id="year">2022</span> Martin McDowell
 		</div>
 	</div>
 </footer>
+
+<script>
+const d = new Date();
+document.getElementById("year").innerHTML = d.getFullYear();
+</script>
 
 	</div>
 <script async defer src="/js/menu.js"></script>
