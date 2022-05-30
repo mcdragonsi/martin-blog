@@ -51,13 +51,17 @@ New adventure ahead 😃😃
 ## Update May 29th 2022
 Today I heard that a plane has gone missing in Nepal doing the the exact same flight (allbeit in the opposite direction)
 I knew that Nepalese airlines are not allowed to fly to/from the EU due to their safety issues but this is a little more unsettling to hear.
-The [flight](https://www.flightradar24.com/data/aircraft/9n-aet#2c093470) I will be taking would be from the end of the trek in Jomsom and it will take us to Pokhara where we were supposed to stay for a couple of days. 
-The airplane in question is a De Havilland Canada DHC-6-300 Twin Otter 9N-AET operated by Tara Air, a plane I know quite well from my skydiving times and its a very reliable piece of kit. 
+The [flight](https://www.flightradar24.com/data/aircraft/9n-aet#2c093470) I will be taking would be from the end of the trek in Jomsom and it will take us to Pokhara where we were supposed to stay for a couple of days. The airplane in question is a De Havilland Canada DHC-6-300 Twin Otter 9N-AET operated by Tara Air, a plane I know quite well from my skydiving times and its a very reliable piece of kit.
+
 Now I'm not sure if [Tara Air](https://www.taraair.com/) would have been the operator I would have flown on but it seems likely as its the [only official operator for this route](https://english.onlinekhabar.com/pokhara-jomsom-flight-reopens.html).
+
+Sadly the following day they found the wreckage with no survivors.
 
 https://kathmandupost.com/national/2022/05/29/bad-weather-forces-nepal-army-to-halt-search-for-missing-tara-air-plane
 
 https://news.sky.com/story/nepal-plane-goes-missing-with-22-people-on-board-officials-say-12623429
+
+https://kathmandupost.com/national/2022/05/30/missing-tara-air-plane-found-crashed-14-bodies-recovered
 
 **Further bad news...**
 This is not the first airplane crash involving Tara Air. The [Tara Air flight 193](https://en.wikipedia.org/wiki/Tara_Air_Flight_193) crashed in 2016 less than 10 km from the suspected crash site of this airplane. 
