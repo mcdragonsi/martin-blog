@@ -35,7 +35,7 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary
-  #fontFamilyPrimary = "'Open Sans', Helvetica, Arial, sans-serif"
+  fontFamilyPrimary = "'Open Sans'"
   #fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
  
 [Params.sidebar]
