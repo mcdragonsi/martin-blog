@@ -31,7 +31,8 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
   title = "Martin's Blog"
 
 [Params.style.vars]
-  highlightColor = "#D38412" # Override highlight color
+  #highlightColor = "#D38412" # Override highlight color
+  highlightColor = "#3f3f3f" # Override highlight color - changed for HM 2022
 
   # Override font-family sets. Secondary font-family set responsible for pre, code, kbd, and samp tags font
   # Take care of different quotes OR escaping symbols in these params if necessary

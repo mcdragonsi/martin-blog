@@ -8,13 +8,15 @@
     font-size: 2.7rem;
     font-weight: 700;
     line-height: 1;
-    color: #3a4d5c;
+    /*color: #3a4d5c;*/
+    color: #000000;
     font-family: 'Ubuntu Condensed', 'Open Sans', sans-serif;
 }
 
 .menu__btn,
 .menu__list {
-    background: #3a4d5c;
+    /*background: #3a4d5c;*/
+    background: #000000;
 }
 
 .menu__btn {
@@ -64,6 +66,12 @@ blockquote {
 
 .footer {
     color: #ffffff;
-    background: #3a4d5c;
+    /*background: #3a4d5c;*/
+    background: #000000;
     border-top: 3px solid #999;
+}
+
+/* Logo changed to grayscale */
+.logo__img {
+    filter: grayscale(100%);
 }
