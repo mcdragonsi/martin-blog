@@ -4,7 +4,7 @@ date: 2022-08-20
 thumbnail: https://img.mcdowell.si/2022/Slovenia2022/Slovenia2022_680x680.jpg
 lead: "Met with the end of the UK drought with a BANG!" # Lead text
 toc: true # Enable Table of Contents for specific page
-draft: true
+draft: false
 tags:
 - Slovenia
 - Motorcycling
