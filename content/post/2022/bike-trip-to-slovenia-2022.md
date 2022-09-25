@@ -12,19 +12,23 @@ tags:
 
 # Herefordshire to Slovenia
 
+![UK to Slovenia, Day 1 of 2](https://img.mcdowell.si/2022/Slovenia2022/UK-Slo-Day1.jpg "UK to Slovenia, Day 1 of 2")
+
 Had a similar plan to last year's bike trip but this time consolidates both ways into 2 day riding each way. 
 
 My first worry was what was going to happen in Folkestone. Not two weeks before there were severe delays in the area and drivers were queuing for hours on end to get to the Eurotunnel port.
 
 Thankfully they seemed to have sorted out the issues and there was only a slight delay at passport control.
 
-Had a bit of a brown-trouser moment when I boarded the train though. Compared to last year when I had the carriage to myself, this time they packed the train carriage to the rim. There was another rider in front of me and the rest of the carriage was filled with cars. I was the last one on and as I manoeuvred the bike I unknowingly hit a discreet metal stud which pushed my bike to the right just as I parked the bike. This caused the bike to forcefully tilt to the right and if it was not for the assistance of others I would have dropped the bike. 
+Had a bit of a brown-trouser moment when I boarded the train though. Compared to last year when I had the carriage to myself, this time they packed the train carriage to the rim. There was another rider in front of me and the rest of the carriage was filled with cars. I was the last one on and as I manoeuvered the bike I unknowingly hit a discreet metal stud which pushed my bike to the right just as I parked the bike. This caused the bike to forcefully tilt to the right and if it was not for the assistance of others I would have dropped the bike. 
 
 ![The little reason for almost dropping my motorcycle in the Eurotunnel](https://img.mcdowell.si/2022/Slovenia2022/eurotunnel-le-shuttle-train-carriage.jpg "The little reason for almost dropping my motorcycle in the Eurotunnel")
 
 Coming off the train was fine, I just needed a little help again as the bike was still leaning against that stud. The French part and the Belgian parts of the journey were boring. No congestion around Brussels compared to last year. After Brussels I continued towards Liege and then to St Vith near the F1 circuit of Spa-Francorchamps and the German border.
 
 This is one of the most stunning areas of the trip, excluding the Alpine part, of course. Picturesque rolling hills covered with thick pine forests. Also, no bloody services so if you expect a petrol station next to the motorway, forget it. The first one was next to the Frankfurt-Hahn Airport which was over an hour away. Not that I knew that at the time. I was almost getting the blinking petrol warning of doom. I am not a religious person but seeing that petrol station was somewhat like the second coming. 
+
+![UK to Slovenia, Day 2 of 2](https://img.mcdowell.si/2022/Slovenia2022/UK-Slo-Day2.jpg "UK to Slovenia, Day 2 of 2")
 
 About 15 min before arriving at my hotel in Alzey I had a slight technical issue. Not that I realised at the time but when I almost dropped the bike earlier that day on the Eurotunnel I managed to move both wing mirrors. I did straighten them out but the right one was apparently loosened and this only became apparent minutes before arriving at the hotel. Lucky me. Bikers will know there is a double bolt system that can sometimes get loose. But you need two wrenches of the same size to fix the problem and I had not one. Anyway, bolting down the Autobahn 61 the mirror gave out completely and folded towards me like a cheap suit. This was definitely a no bueno. Having no right mirror in Europe is better than in the UK but still… Every time I moved back into the first lane I was rather worried I was not ploughing straight into a path of a keen undertaking beemer. 
 
@@ -82,6 +86,9 @@ The access to the trailhead was a little easier this time as there is a proper r
 
 # Slovenia to Herefordshire
 
+![UK to Slovenia, Day 1 of 2](https://img.mcdowell.si/2022/Slovenia2022/Slo-UK-Day1.jpg "UK to Slovenia, Day 1 of 2")
+
 Was quite lucky with the weather on the way back. However the drought that was troubling most of the UK was definitely over at the exact time I was on the M20 and M25. The skies opened in a spectacular way and I got royally soaked. Filtering was almost impossible. Partly because the lanes on the M25 have been made quite narrow to accommodate more traffic, partly because most of the drivers either didn’t see you or intentionally chose to ignore motorcycle riders. 
 Just wanted to get home and at that point Herefordshire felt very far away. The rain completely disappeared when I was on the M4 and it stayed like that till home sweet home. 
 
+![UK to Slovenia, Day 2 of 2](https://img.mcdowell.si/2022/Slovenia2022/Slo-UK-Day2.jpg "UK to Slovenia, Day 2 of 2")
