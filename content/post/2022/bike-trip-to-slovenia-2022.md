@@ -59,7 +59,7 @@ The trailhead for this hike is at the end of a very long gravel road on the Pokl
 ![Top of Mt Debela Peč](https://img.mcdowell.si/2022/Slovenia2022/05-debela-pec.jpg "Top of Mt Debela Peč")
 ![The view of the top after my descent](https://img.mcdowell.si/2022/Slovenia2022/06-debela-pec.jpg "The view of the top after my descent")
 
-## My mini escapade into the Prečna airfield
+## My mini escapade onto the Prečna airfield
 
 Hope I am not incriminating myself but I completely and utterly by accident managed to ride onto an airfield. 
 Was doing a nice tour that Calimoto made for me and when I was in the town of Novo mesto I decided to pay a visit to see the Prečna airfield where I did my first skydive jump back in 2005. However I got a bit satnaved. I somehow ended up on a gravel road leading me towards the airport which was rather weird as the only road that leads to it is tarmacked. Had corn fields to the left and right and when I came into a clearing there was a sign in front of me warning about not entering the airfield. OK, turned right hoping to be able to circle around the airfield and get to the entrance. But as the gravel track continued it turned left and all of a sudden I saw a plane taking off. Right above me. 
