@@ -2,21 +2,22 @@
 author: mcdragon
 date: 2021-12-12
 layout: post
-title: 'Annapurna: first post'
-thumbnail: https://img.mcdowell.si/Annapurna-2022/annapurna-2022_680x680.jpg
+title: 'Nepal: first post'
+thumbnail: https://img.mcdowell.si/Nepal-2022/nepal-2022_680x680.jpg
 lead: "My Himalayan adventure!" # Lead text
 draft: false
 summary: The trip will start from Kathmandu, Nepal after which we will drive for 5-6 hours to Besisahar where the actual trek starts. According to Wikipedia the trek is anything between 160–230 km long and I can tell you after how long it will be for me. The highest point is the (in)famous Thorong La pass at 5,416 metre altitude so just about where I started to have some issues on the Kilimanjaro hike in 2019. 
 categories:
-- Annapurna 2022
+- Nepal 2022
 tags:
 - mountaineering
-- Annapurna
 - Nepal
+- Annapurna
+- Annapurna Circuit Trek
 - Thorong La pass
 
 ---
-![Photo of boy looking at Annapurna](https://img.mcdowell.si/Annapurna-2022/annapurna-child.jpg)
+![Photo of boy looking at Annapurna](https://img.mcdowell.si/Nepal-2022/annapurna-child.jpg)
 
 There. I did it. I sometimes tend jump in before I think but as much as I like to plan my life I like to have a few surprises around the corner. 
 
@@ -38,7 +39,7 @@ Oh, and to add to this ... none of the Nepalese airlines is allowed to fly to th
 
 The trek ends in Jomsom from where we take a flight to Pokhara where the overall trip ends. 
 
-![Preliminary map of the trek](https://img.mcdowell.si/Annapurna-2022/rough-map-of-trek.gif "Preliminary map of the trek")
+![Preliminary map of the trek](https://img.mcdowell.si/Nepal-2022/rough-map-of-trek.gif "Preliminary map of the trek")
 
 {{< rawhtml >}}
   <iframe src="https://www.komoot.com/tour/606980637/embed?profile=1" width="100%" height="680" frameborder="0" scrolling="no"></iframe>
@@ -66,10 +67,10 @@ https://kathmandupost.com/national/2022/05/30/missing-tara-air-plane-found-crash
 **Further bad news...**
 This is not the first airplane crash involving Tara Air. The [Tara Air flight 193](https://en.wikipedia.org/wiki/Tara_Air_Flight_193) crashed in 2016 less than 10 km from the suspected crash site of this airplane. 
 
-![Tara Air DHC-6 Twin Otter 9N-AEV in Jomsom airport - not the plane involved in the crash, image: Solundir / Wikimedia](https://img.mcdowell.si/Annapurna-2022/Tara_Air_Twin_Otter_in_Jomsom.jpg "Tara Air DHC-6 Twin Otter 9N-AEV in Jomsom airport, image: Solundir / Wikimedia")
+![Tara Air DHC-6 Twin Otter 9N-AEV in Jomsom airport - not the plane involved in the crash, image: Solundir / Wikimedia](https://img.mcdowell.si/Nepal-2022/Tara_Air_Twin_Otter_in_Jomsom.jpg "Tara Air DHC-6 Twin Otter 9N-AEV in Jomsom airport, image: Solundir / Wikimedia")
 
 This is the actual plane that went missing today
-![Tara Air DHC-6 Twin Otter 9N-AET in Lukla airport, image: Matias Trachsel, JetPhotos](https://img.mcdowell.si/Annapurna-2022/9N-AET.jpeg "Tara Air DHC-6 Twin Otter 9N-AET in Lukla airport, image: Matias Trachsel, JetPhotos")
+![Tara Air DHC-6 Twin Otter 9N-AET in Lukla airport, image: Matias Trachsel, JetPhotos](https://img.mcdowell.si/Nepal-2022/9N-AET.jpeg "Tara Air DHC-6 Twin Otter 9N-AET in Lukla airport, image: Matias Trachsel, JetPhotos")
 
 **External links:**
 - Plotted route on Komoot: https://www.komoot.com/tour/606980637

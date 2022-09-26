@@ -59,7 +59,14 @@ googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your trac
     name = "Home"
     pre = "<i class='fa fa-heart'></i>"
     url = "/"
-    weight = -500
+    weight = -700
+
+[[menu.main]]
+    name = "Nepal 2022"
+    post = ""
+    pre = "<i class='fa fa-road'></i>"
+    url = "/categories/Nepal-2022/"
+    weight = -600
     
  [[menu.main]]
     name = "Kilimanjaro 2019"
