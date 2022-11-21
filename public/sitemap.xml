@@ -2,32 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.mcdowell.si/tags/annapurna/</loc>
+    <loc>https://blog.mcdowell.si/categories/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/cave-in/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/glasgow/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/heathrow/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/london/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/mountaineering/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/nepal/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/categories/nepal-2022/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/post/nepal-2022/2022-10-25-annapurna-last-post/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/post/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/room-2/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/55-windowed-palace/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/bhaktapur/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/post/nepal-2022/2022-10-24-bhaktapur/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mcdowell.si/categories/</loc>
+    <loc>https://blog.mcdowell.si/tags/dattatraya-temple/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mcdowell.si/</loc>
+    <loc>https://blog.mcdowell.si/tags/durbar-square/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mcdowell.si/tags/mountaineering/</loc>
+    <loc>https://blog.mcdowell.si/tags/nepal-earthquake/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mcdowell.si/tags/nepal/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mcdowell.si/categories/nepal-2022/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mcdowell.si/post/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mcdowell.si/tags/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <loc>https://blog.mcdowell.si/tags/annapurna/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/tags/kathmandu/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
@@ -44,7 +77,16 @@
     <loc>https://blog.mcdowell.si/post/nepal-2022/2022-10-22-pokhara/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://blog.mcdowell.si/tags/annapurna-base-camp/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/hiking/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.mcdowell.si/post/nepal-2022/2022-10-21-hike-day-11/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.mcdowell.si/tags/trekking/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/post/nepal-2022/2022-10-20-hike-day-10/</loc>
@@ -635,9 +677,6 @@
     <loc>https://blog.mcdowell.si/tags/add-new-tag/</loc>
     <lastmod>2010-01-03T21:01:54+00:00</lastmod>
   </url><url>
-    <loc>https://blog.mcdowell.si/tags/hiking/</loc>
-    <lastmod>2010-01-03T21:01:54+00:00</lastmod>
-  </url><url>
     <loc>https://blog.mcdowell.si/tags/pembrokeshire/</loc>
     <lastmod>2010-01-03T21:01:54+00:00</lastmod>
   </url><url>
@@ -687,9 +726,6 @@
     <lastmod>2009-12-18T21:23:38+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/tags/england/</loc>
-    <lastmod>2009-12-14T19:33:51+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.mcdowell.si/tags/london/</loc>
     <lastmod>2009-12-14T19:33:51+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/tags/london-eye/</loc>
@@ -1257,7 +1293,7 @@
     <lastmod>2007-03-14T13:50:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/post/2007/the-skydiving-grandma/</loc>
-    <lastmod>2007-01-17T09:27:00+00:00</lastmod>
+    <lastmod>2007-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.mcdowell.si/post/2007/is-this-21st-century-plumbing/</loc>
     <lastmod>2007-01-16T14:07:00+00:00</lastmod>

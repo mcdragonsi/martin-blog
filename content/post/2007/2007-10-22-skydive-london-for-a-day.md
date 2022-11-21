@@ -3,7 +3,6 @@ author: mcdragon
 date: 2007-10-22 20:00:00+00:00
 layout: post
 title: Skydive London for a day
-wordpress_id: 65
 categories:
 - skydiving
 tags:
