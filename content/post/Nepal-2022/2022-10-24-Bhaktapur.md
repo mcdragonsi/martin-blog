@@ -5,7 +5,7 @@ layout: post
 title: 'Bhaktapur'
 thumbnail: https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/2022-10-24-Bhaktapur_680x680.jpg
 lead: "The ancient city. On crutches" # Lead text
-draft: true
+draft: false
 summary: 
 categories:
 - Nepal 2022
@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake
 ![Durbar square](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-1.jpg "Durbar square")
 ![Durbar square](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-2.jpg "Durbar square")
 ![Durbar square](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-3.jpg "Durbar square")
-![](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-4.jpg "Durbar square")
+![Durbar square](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-4.jpg "Durbar square")
 ![Inside the Sundari Chowk Temple](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-5.jpg "Inside the Sundari Chowk Temple")
 ![55 Windowed palace](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-6.jpg "55 Windowed palace")
 ![Durbar square](https://img.mcdowell.si/Nepal-2022/2022-10-24-Bhaktapur/Bhaktapur-7.jpg "Durbar square")

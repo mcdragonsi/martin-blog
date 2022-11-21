@@ -13,6 +13,9 @@ tags:
 - mountaineering
 - Nepal
 - Annapurna
+- Kathmandu
+- Swayambhu
+- Monkey temple
 ---
 ![Swayambhu (Monkey temple)](https://img.mcdowell.si/Nepal-2022/2022-10-23-Kathmandu/Kathmandu-12.jpg)
 
