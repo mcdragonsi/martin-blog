@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2008-02-10 10:07:00+00:00
+date: 2008-02-10
 layout: post
 title: Moje prve ure Valežanščine
 wordpress_id: 87
@@ -11,7 +11,7 @@ Na začetku je bilo malo zmede, ko so nas začeli razporejati v skupine - v Vale
 
 Začetek tečaja, je bil precej težak, sredina nekoliko manj, konec pa spet glavobolno zakompliciran. Jezik ni prav ničemur podoben in si trenutno sploh ne predstavljam, da bi ga kdaj tekoč govoril. Sem imel pa na tečaju vsaj enega sotrpina, ki je prav tako frišna angleško-govoreča oseba, in je prav tako debelo zijal ob poslušanju vseh teh čudovitih a popolnoma tujih besed. Priznam, da sem bil sicer verjetno v majceni prednosti in to samo zato, ker sem se že od kolegice v službi uspel naučiti izgovorjavo besed za "dobro jutro", "dober dan", "lahko noč" in "čas je za kosilo".
 
-Mnogim, ki jim povem za Wales in Valežanščino, so presenečeni, da imajo tu svoj jezik. Vsi več ali manj vedo za Škote in njihov keltski jezik, za valežane in valežanski jezik pa jih ve precej manj. Wales sicer nima enake stopnje avtonomije, kot Škotska, je pa še vedno strogo ločena od Anglije in ima svoj parlament imenovan [National Assembly of Wales](https://en.wikipedia.org/wiki/National_Assembly_for_Wales) ([uradna stran](https://www.walesassembly.org/)).
+Mnogim, ki jim povem za Wales in Valežanščino, so presenečeni, da imajo tu svoj jezik. Vsi več ali manj vedo za Škote in njihov keltski jezik, za valežane in valežanski jezik pa jih ve precej manj. Wales sicer nima enake stopnje avtonomije, kot Škotska, je pa še vedno strogo ločena od Anglije in ima svoj parlament imenovan [National Assembly of Wales](https://en.wikipedia.org/wiki/National_Assembly_for_Wales).
 
 Kar se tiče valežanskega jezika se govori, da je najstarejši še danes uporabljen jezik v Evropi. Več glede keltskih jezikov in od kod izvirajo si preberite na [tej strani](https://en.wikipedia.org/wiki/Celtic_languages). Čeprav članek v Wikipediji deli proto Keltščino v 4 skupine, določene razlage govorijo o dejansko dveh večjih skupinah. V prvo spadajo jeziki, ki jih govorijo na Irskem in Škotskem, v drugo pa jeziki, kot so Valežanščina, Bretonščina (ki jo govorijo v področju Francije imenovana Brittanny), potem pa še Cornwallščina (ki jo uporabljajo v Cornwallu) in Cumbrijščina, jo uporabljajo na jugu Škotske in severu Anglije imenovanem Cumbria.
 

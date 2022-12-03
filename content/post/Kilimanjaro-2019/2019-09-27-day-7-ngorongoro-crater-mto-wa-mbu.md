@@ -1,10 +1,9 @@
 ---
 author: mcdragon
-date: 2019-09-27 20:00:00+00:00
+date: 2019-09-27
 layout: post
 title: 'Day 7: Ngorongoro Crater / Mto Wa Mbu'
 thumbnail: "https://img.mcdowell.si/2019/09/NgorongoroCrater2-680x680.jpg"
-wordpress_id: 3809
 categories:
 - Kilimanjaro 2019
 ---
@@ -14,7 +13,6 @@ categories:
 Just woke up going to the loo only to realise there is a large herd of zebras right besides the tents. I pitched up on the outside edge of the other tents so at one point they were only a metre or so away.
 
 ![](https://img.mcdowell.si/2019/09/IMG_20190927_075342.jpg)
-{{< image src="2019/09/IMG_20190927_075342.jpg">}}
 
 Today we changed vehicles and switched to 4x4 Toyota Land cruisers. We had 4 but one of them had a problem so their passengers had to get into the other three. We descended into what could only be described as a giant crater although it's actually not a volcanic crater but a mountain that "blew up".
 

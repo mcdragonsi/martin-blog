@@ -26,15 +26,10 @@ By the time I came to my third and fourth Oregon petrol station I had more or le
 
 One of the attendants even threatened that he and I could get a fine if we didn't comply with this rule but I did not see one signs, not even one on any of the petrol stations I stopped in Oregon. I was also quite surprised that New Jersey has similar laws in place.
 
-Oh, and yes, in case you think I am making this up, here is the legislature - [https://www.leg.state.or.us/ors/480.html](https://www.leg.state.or.us/ors/480.html)
-
 They lost me after slick surfaces and "Self-service dispensing at retail contributes to unemployment, particularly among young people;".
 
 The list of excuses why this has ended up and still remains a legislation is not short at all. The excuses are actually listed in the legislature text. I have sifted through it for your entertainment:
 
-
-
- 	
   * safety standards often are unenforceable at retail self-service stations in other states because cashiers are often unable to maintain a clear view of and give undivided attention to the dispensing of Class 1 flammable liquids by customers.
 _When I arrived at one of the Oregon stations I had to wait a while to get the attention of the attendant._
 

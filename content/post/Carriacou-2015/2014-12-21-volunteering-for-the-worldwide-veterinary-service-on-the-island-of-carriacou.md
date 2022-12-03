@@ -9,9 +9,9 @@ categories:
 - Carriacou 2015
 ---
 
-After months of preparation I will finally been taking a trip to the Caribbean island of [Carriacou](https://en.wikipedia.org/wiki/Carriacou) to do a few weeks of volunteer work for the [Carriacou Animal Hospital](https://www.carriacouanimalclinic.com/) ([Facebook page](https://www.facebook.com/CarriacouAnimalHospital/timeline)). The trip was coordinated in conjunction with the [WVS](https://www.wvs.org.uk/) (Worldwide Veterinary Service) who has offered me loads of support and guidance.
+After months of preparation I will finally been taking a trip to the Caribbean island of [Carriacou](https://en.wikipedia.org/wiki/Carriacou) to do a few weeks of volunteer work for the Carriacou Animal Hospital. The trip was coordinated in conjunction with the [WVS](https://www.wvs.org.uk/) (Worldwide Veterinary Service) who has offered me loads of support and guidance.
 
-I have put over £1,000 towards the trip but the CAH, WVS and I are also looking for any charitable donations of veterinary medical supplies. Get in contact with WVS here: [https://wvs.org.uk/donate](https://wvs.org.uk/donate)
+I have put over £1,000 towards the trip but the CAH, WVS and I are also looking for any charitable donations of veterinary medical supplies.
 
 I have also created a JustGiving page where you can donate
 [![JustGiving - Sponsor me now!](https://www.justgiving.com/App_Themes/JustGiving/images/badges/badge10.gif)](https://www.justgiving.com/Martin-McDowell)

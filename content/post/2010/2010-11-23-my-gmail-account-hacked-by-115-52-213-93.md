@@ -1,6 +1,6 @@
 ---
 author: mcdragon
-date: 2010-11-23 21:26:15+00:00
+date: 2010-11-23
 layout: post
 title: My GMail account hacked by 115.52.213.93
 wordpress_id: 1725
@@ -12,7 +12,7 @@ categories:
 
 Unfortunately my GMail account martin [dot] mcdowell got somehow hacked today and someone (or something) in China sent a spam message to all my 119 e-mail contacts in my address book at 15.35 this afternoon. The IP address the hack originated from was [**115.52.213.93**](https://whois.domaintools.com/115.52.213.93) and is assigned to the Chinese ISP **CNC Group CHINA169**.
 
-It looks like there was a [Google-wide attack](https://www.google.com/support/forum/p/gmail/thread?fid=3d06568e966df9f0000495be59b0950c&hl=en) as their systems crashed. There are several reports of hacked accounts on Google forums. The message was just a [spam](https://en.wikipedia.org/wiki/E-mail_spam) and did not contain any viruses or worms in itself.
+It looks like there was a Google-wide attack as their systems crashed. There are several reports of hacked accounts on Google forums. The message was just a [spam](https://en.wikipedia.org/wiki/E-mail_spam) and did not contain any viruses or worms in itself.
 
 > Subject: How are you doing,my dear friend?
 > 
@@ -25,7 +25,7 @@ It looks like there was a [Google-wide attack](https://www.google.com/support/fo
 > Have a nice day and best regards!
 
 
-For what its worth I have reported the matter to the [police](https://www.dyfed-powys.police.uk/en/) and I have also got in touch with the attacker's internet service provider China 169. Unfortunately I have no suggestions, other than change your password regularly, on how anybody else should avoid this specific attack as I am convinced that both my computers are clean, one of them is even a GNU/Linux machine! I take security quite seriously but I do apologize to anyone who received this spam from my e-mail account.
+For what its worth I have reported the matter to the police and I have also got in touch with the attacker's internet service provider China 169. Unfortunately I have no suggestions, other than change your password regularly, on how anybody else should avoid this specific attack as I am convinced that both my computers are clean, one of them is even a GNU/Linux machine! I take security quite seriously but I do apologize to anyone who received this spam from my e-mail account.
 
 Here is what I saw when I tried to access Google calendar about the time of the attack:
 
