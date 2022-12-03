@@ -16,7 +16,7 @@ Great journey but very exhausting at took me much longer than it does in the car
 
 The day I travelled back to was even better than the trip down - stunning Bank holiday sunshine, very warm, summer-like temperatures - I mean British summer-like temperatures, of course and loads of other bikers on the road. Had a lunch on one of the picnic tables at the [Corris](https://en.wikipedia.org/wiki/Corris) rest site at Tan-y-Coed.
 
-[![A picnic area near Corris](https://img.mcdowell.si/2013/05/Tan-y-coed-1.jpg)](https://img.mcdowell.si/2013/05/Tan-y-coed.jpg "A picnic area near Corris")
+[![A picnic area near Corris](https://img.mcdowell.si/2013/05/Tan-y-coed-1.jpg)](https://img.mcdowell.si/2013/05/Tan-y-coed-1.jpg "A picnic area near Corris")
 
 I was was nicely surprised when I drove up to the Mersey tunnel as I was dreading having to pay the toll: trying to get the right toll booth that was attended, getting my gloves off, finding my wallet and hoping I would have enough money and that I didn't pack the wallet in one of the panniers. It turns out the tunnels are free for motorcyclists - all you have to do is to drive on the far left side of the tolls and there is a narrow drive for bikers only. Cool :-)
 

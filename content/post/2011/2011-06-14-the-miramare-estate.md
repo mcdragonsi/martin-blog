@@ -1,9 +1,8 @@
 ---
 author: mcdragon
-date: 2011-06-14 19:00:46+00:00
+date: 2011-06-14
 layout: post
 title: The Miramare estate
-wordpress_id: 1924
 categories:
 - Trips and outings
 tags:
@@ -18,4 +17,3 @@ The Miramare Castle is a stunning Carl Junker designed 19th century castle near 
 
 The castle itself is very interesting and worth the charged visit, but be prepared to be charged first for the visit, then for the audio guide that you rent and then by a huge parking fee on your way out. The gardens are worth a walk but when I was there (June 2011) they were extremely unkempt, there were signs of the paths not being cleared for months if not years
 
-[https://www.castello-miramare.it/](https://www.castello-miramare.it/)

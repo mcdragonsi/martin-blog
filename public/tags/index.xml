@@ -476,15 +476,6 @@
     </item>
     
     <item>
-      <title>Miramare</title>
-      <link>https://blog.mcdowell.si/tags/miramare/</link>
-      <pubDate>Tue, 14 Jun 2011 19:00:46 +0000</pubDate>
-      
-      <guid>https://blog.mcdowell.si/tags/miramare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aquileia</title>
       <link>https://blog.mcdowell.si/tags/aquileia/</link>
       <pubDate>Tue, 14 Jun 2011 19:00:16 +0000</pubDate>
@@ -508,6 +499,15 @@
       <pubDate>Tue, 14 Jun 2011 19:00:16 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/oglej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miramare</title>
+      <link>https://blog.mcdowell.si/tags/miramare/</link>
+      <pubDate>Tue, 14 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.mcdowell.si/tags/miramare/</guid>
       <description></description>
     </item>
     
@@ -1495,7 +1495,7 @@
     <item>
       <title>Energy</title>
       <link>https://blog.mcdowell.si/tags/energy/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/energy/</guid>
       <description></description>
@@ -1504,7 +1504,7 @@
     <item>
       <title>gas bill</title>
       <link>https://blog.mcdowell.si/tags/gas-bill/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/gas-bill/</guid>
       <description></description>
@@ -1513,7 +1513,7 @@
     <item>
       <title>Gas meter</title>
       <link>https://blog.mcdowell.si/tags/gas-meter/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/gas-meter/</guid>
       <description></description>
@@ -1522,7 +1522,7 @@
     <item>
       <title>overcharging</title>
       <link>https://blog.mcdowell.si/tags/overcharging/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/overcharging/</guid>
       <description></description>
@@ -1531,7 +1531,7 @@
     <item>
       <title>Swalec</title>
       <link>https://blog.mcdowell.si/tags/swalec/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/swalec/</guid>
       <description></description>
@@ -1540,7 +1540,7 @@
     <item>
       <title>Utilities</title>
       <link>https://blog.mcdowell.si/tags/utilities/</link>
-      <pubDate>Sat, 11 Oct 2008 15:03:22 +0000</pubDate>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
       
       <guid>https://blog.mcdowell.si/tags/utilities/</guid>
       <description></description>

@@ -1,9 +1,8 @@
 ---
 author: mcdragon
-date: 2010-12-10 08:46:05+00:00
+date: 2010-12-10
 layout: post
 title: London visit 2010 – day 1 of 6
-wordpress_id: 1745
 categories:
 - Trips and outings
 tags:
@@ -22,4 +21,4 @@ This is why I did end up seeing one of my clients on the train with whom I tried
 
 To come back to the client I saw on the train to London. She was travelling with her family and I couldn't help but overhear that they were going to [Llanelli](https://en.wikipedia.org/wiki/Llanelli), but getting off the train was taking them to long and did not get off on time so they had to go all the way to [Swansea](https://en.wikipedia.org/wiki/Swansea) for the privilege – outch.
 
-Went to this excellent Argentinian restaurant [El Gaucho](https://www.elgaucho.co.uk/) in [South Kensington](https://en.wikipedia.org/wiki/South_Kensington) last night where I satisfied my taste for lots of beef.
+Went to this excellent Argentinian restaurant El Gaucho in South Kensington last night where I satisfied my taste for lots of beef.

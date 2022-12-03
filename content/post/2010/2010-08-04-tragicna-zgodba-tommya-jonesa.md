@@ -28,14 +28,14 @@ Dne 4. avgusta daljnega leta 1900 se je oče, po poklicu rudar, odpravil skupaj 
 Bila sta namenjena v še danes obstoječo majhno kmetijo z imenom Cwm-llwch. Od Logina do kmetije je bilo le okoli pol kilometra rahle hoje navkreber. Kljub temu, sta oče in sin za nekaj časa postala z vojaki in se okrepčala. Čisto po naključju, pa sta takrat v Login prispela še Tommyev dedek in 13-letni bratranec Willie John. Willija so poslali nazaj domov v Cwm llwch, da družino obvesti o skorajšnjem prihodu sorodnikov, za njim pa je stekel tudi mladi Tommy. Pot je bila za Tommya kar strašljiva, saj sta morala prečkati dve brvi postavljeni med gosto pozidanimi stavbami. Ena od brvi ni imela ograje in vse skupaj je bilo preveč za Tommya, ki je planil v jok. Želel je iti nazaj k očetu v Login. Dečka sta se zato ločila: Willie John navkreber po dolini proti kmetiji, Tommy pa nazaj navzdol v Login. Willie je v kmetijo prispel okoli petnajst minut potem, ko je zapustil strica in dedka, mladi Tommy pa v Login nikoli ni prispel.
 
 
-<blockquote>Sam sem bil v tej dolini v mesecu, ko je Tommy izginil in v večernih urah, okoli osme zvečer. Dan v Walesu traja precej dolgo in ob osmih je svetlobe še veliko, se pa sonce hitro spusti za zahodnim grebenom Pen Milan in stemni se precej hitro.</blockquote>
+>Sam sem bil v tej dolini v mesecu, ko je Tommy izginil in v večernih urah, okoli osme zvečer. Dan v Walesu traja precej dolgo in ob osmih je svetlobe še veliko, se pa sonce hitro spusti za zahodnim grebenom Pen Milan in stemni se precej hitro.
 
 
 Ko sta oče in dedek tudi sama končno prispela na kmetijo in ugotovila, da je Tommy izginil, sta ga začela takoj iskati. Po kakih dvajsetih minutah so se iskanju pridružili še vojaki iz Logina. Iskanje so prekinili ob polnoči, a ga že tri ure kasneje nadaljevali. Iskanju so se ta dan potem še pridružili še policija in sovaščani. Tommya nikakor niso našli in tako se je nadaljevalo iz tedna v teden.
 
 Vsak dan so sistematično preiskali dolino in okoliške travnike, porezali grmovja, in prečesali gozdove. Porodila se je celo ideja, da bi preiskali tudi dno jezera Cwm llwch, vendar je prevladalo mnenje, da petletni deček zagotovo ni uspel priti tako visoko v dolini. Predvidevali so, da se je ob poskusu vrnitve v Login izgubil in šel predaleč v dolino ali pa je celo ob prečkanju brvi padel v vodo. Iskanje so zato osredotočili na dolino in celo do mesta Brecon. Ker dečka še vedno niso našli, so se porodile ideje, da so ga ugrabili - to je bilo za svojce tudi zadnji up, da bi Tommy še našli živega. V tistih časih so bil glavni osumljenec za taka dejanja okoliško Romsko prebivalstvo. Tudi preiskave njihovih naselbin niso obrodila sadov.
 
-Zgodba je seveda prišla v medije in časopis [The Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail) je ponudil nagrado, njihov predstavnik pa je tudi aktivno sodeloval v iskalnih akcijah. Po tednih iskanja je bil Tommyev oče primoran zapustiti dolino in se vrniti domov v [Maerdy](https://maps.google.co.uk/maps?client=ubuntu&channel=cs&q=maerdy&ie=UTF8&hq=&hnear=Maerdy,+Ferndale,+Mid+Glamorgan,+United+Kingdom&gl=uk&ei=IWVeTLeyIpP40wTU1rTCBw&ved=0CB0Q8gEwAA&ll=51.669148,-3.456573&spn=0.213781,0.441513&z=11), vendar se je uspel kmalu vrniti in sodelovati v nadaljnjih iskanjih. Bil je tudi eden redkih, ki so se pri iskanju povzpeli na vrh Pen-y-fan.
+Zgodba je seveda prišla v medije in časopis [The Daily Mail](https://en.wikipedia.org/wiki/Daily_Mail) je ponudil nagrado, njihov predstavnik pa je tudi aktivno sodeloval v iskalnih akcijah. Po tednih iskanja je bil Tommyev oče primoran zapustiti dolino in se vrniti domov v Maerdy, vendar se je uspel kmalu vrniti in sodelovati v nadaljnjih iskanjih. Bil je tudi eden redkih, ki so se pri iskanju povzpeli na vrh Pen-y-fan.
 
 Ravno približno v tem času pa je imela gospa Hamer svoje razsvetljujoče sanje, kjer je v njih videla mesto, kjer leži Tommy. In tako se je okoli mesec po izginotju - 2. septembra še z nekaterimi drugimi svojci podala na iskanje visoko v dolino Cwm llwch in na greben nad njim.
 
@@ -59,10 +59,3 @@ Napis na obelisku:
 
 
 > This obelisk marks the spot where the body of Tommy Jones aged 5 was found. He lost his way between Cwmllwch Farm and the Login on the night of August 4th 1900. After an anxious search of 29 days his body was found on September 2nd.
-
-
-Vir:
-  1. [Victim of the Beacons](https://www.breconbeacons.org/visit-us/about-the-brecon-beacons/victim-of-the-beacons)
-  2. [Wikipedia](https://en.wikipedia.org/wiki/Pen-y-Fan#Tommy_Jones.27_Obelisk)
-
-

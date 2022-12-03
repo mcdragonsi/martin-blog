@@ -30,7 +30,7 @@ No, kak odgovor sem dobil:
 > 
 > Thank you for your recent letter and the 'certificate' from the Dean of the University of Ljubljana confirming that the approved post-nominal for the primary veterinary qualification is DrVetMed.
 > 
-> We have looked into this further with interesting results.  As indicated to you in August, EU Directive 2005/36/EU does indeed not list this post-nominal against the entry for the Ljubljana qualification. However, having now also looked at the [The Veterinary Surgeons' Qualifications (European Recognition) Regulations 2008](https://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) - which transpose EU Directive [2005/36/EU](https://eur-lex.europa.eu/Notice.do?val=412521%3Acs&lang=sl&list=487955%3Acs%2C467972%3Acs%2C457343%3Acs%2C456959%3Acs%2C412521%3Acs%2C393697%3Acs%2C393370%3Acs%2C&pos=5&page=1&nbl=7&pgs=10&hwords=) into UK law - the table of qualifications herein does list 'DrVetMed' alongside the qualification.
+> We have looked into this further with interesting results.  As indicated to you in August, EU Directive 2005/36/EU does indeed not list this post-nominal against the entry for the Ljubljana qualification. However, having now also looked at the [The Veterinary Surgeons' Qualifications (European Recognition) Regulations 2008](https://www.opsi.gov.uk/si/si2008/uksi_20081824_en_1) - which transpose EU Directive 2005/36/EU into UK law - the table of qualifications herein does list 'DrVetMed' alongside the qualification.
 > 
 > Whether it was omitted from EU Directive 2005/36/EU in error is not clear but, in short, we will add this to your RCVS Register entry and to that of the only other graduate from Ljubljana on the RCVS Register.
 > 

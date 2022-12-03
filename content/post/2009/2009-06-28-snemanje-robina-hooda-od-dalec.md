@@ -14,7 +14,7 @@ tags:
 - Wales
 ---
 
-![V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.](https://img.mcdowell.si/2009/06/P62300131-1-768x316.jpg "V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.")
+![V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.](https://img.mcdowell.si/2009/06/P62300131-1.jpg "V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.")
 V mesecu juniju 2009 so pričeli nedaleč od tod s snemanjem naslednje filmske upodobitve princa tatov - Robina Hooda.
 
 Lokacija, kjer poteka snemanje, se imenuje [Freshwater West](https://en.wikipedia.org/wiki/Freshwater_West) in gre za eno lepših plaž v [Pembrokeshire](https://en.wikipedia.org/wiki/Pembrokeshire)-ju in Wales-u nasploh. Tu so pejšnji mesec celo snemali naslednji film o Harryu Potterju. Produkcija za Robina Hooda pa je precej večja in vključuje veliko več ljudi in opreme. Pred tedni so imeli v bližnji dvorani avdicijo za statiste in prijaviti se jih je hotelo veliko več, kolikor je bilo mest na voljo.
@@ -25,9 +25,9 @@ Sam sem bil priča snemanju prejšnji torek. Čeprav so govorili, da bo plaža o
 
 Sredi zaliva pred Freshwater West plažo je bilo kar nekaj plovil, nekateri v stilu robinhoodovskih časov (baje) in nekateri malo bolj današnji. No, iz enega iz slednje skupine se je vsake toliko časa izpustil gost oblak dima - verjetno je šlo za posebno meglo, ki jo uporabljajo za snemanje. Ta megla se je najprej razprostrla preko zaliva in potem še naprej na celino in prav čudno je smrdela.
 
-[![P6230029](https://img.mcdowell.si/2009/06/P62300291-1.jpg)](https://img.mcdowell.si/2009/06/P62300291.jpg)Tik pred snemanjem se je potem pojavil še helikopter za katerega sem najprej sumil, da je pripeljal glavne zvezde - najverjetneje pa je bil uporabljen samo za snemanje - na nosu je imel namreč namontirano ogromno okroglo belo ohišje s kamero v njej. Ko snemanja ni bilo, je šel začasno "parkirat" na bližnji hrib. Takoj, ko se je snemanje nadaljevalo, je zopet zaštartal motorje in nadaljeval delo. Meni je bilo vse skupaj precej zanimivo, ker še nikoli nisem bil na prizorišču snemanja filma, kaj šele za snemanje tako velikega holivudskega filma. Bi bilo kar kul, če bi me spustili na plažo, da bi si zadevo bolje ogledal in kaj poslikal - avtogram Russel-a Crowe-a me namreč niti malo ne interesira.
+![](https://img.mcdowell.si/2009/06/P62300291-1.jpg) Tik pred snemanjem se je potem pojavil še helikopter za katerega sem najprej sumil, da je pripeljal glavne zvezde - najverjetneje pa je bil uporabljen samo za snemanje - na nosu je imel namreč namontirano ogromno okroglo belo ohišje s kamero v njej. Ko snemanja ni bilo, je šel začasno "parkirat" na bližnji hrib. Takoj, ko se je snemanje nadaljevalo, je zopet zaštartal motorje in nadaljeval delo. Meni je bilo vse skupaj precej zanimivo, ker še nikoli nisem bil na prizorišču snemanja filma, kaj šele za snemanje tako velikega holivudskega filma. Bi bilo kar kul, če bi me spustili na plažo, da bi si zadevo bolje ogledal in kaj poslikal - avtogram Russel-a Crowe-a me namreč niti malo ne interesira.
 
-[![P6230015](https://img.mcdowell.si/2009/06/P62300151-1.jpg)](https://img.mcdowell.si/2009/06/P62300151.jpg)
+![](https://img.mcdowell.si/2009/06/P62300151-1.jpg)
 
 Na trenutke je bilo dogajanje na plaži kar gledljivo, prav kamlu pa se mi je začelo dolgočasit. Prav hecno pa je bilo gledati eno prvih vaj pri spopadu prej omenjene pehote in konjenice. Ko se je režiser zadrl "Action" in ko so planili eni proti drugim, se je režiser kmalu zadrl "Cut". Statisti so bili očitno toliko zagreti ali pa so začasno oglušeli, da so nadaljevali z bitko, tako da se je moral režiser še večkrat zadreti Rez ...  rez, da so končno prenehali s klofanjem. Fotograf, ki je spremljaj dogajanje mi je povedal, da gre za igralce rugbija, ki so bili precej zagreti za dober "fajt".
 
