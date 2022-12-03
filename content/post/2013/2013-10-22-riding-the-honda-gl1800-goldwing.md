@@ -24,7 +24,7 @@ The bike itself was great and much more comfortable than the Pan European. It al
 
 ![](https://img.mcdowell.si/2013/10/IMG_2559-1.jpg "Honda GL1800 Goldwing")
 ![](https://img.mcdowell.si/2013/10/IMG_2558-1.jpg "Honda GL1800 Goldwing")
-![](https://img.mcdowell.si/2013/10/IMG_2557-1.jpg "Honda GL1800 Goldwing") "A stop-over on the M6")
-![](https://img.mcdowell.si/2013/10/IMG_2556-1.jpg "Honda GL1800 Goldwing") "A stop-over on the M6")
-![](https://img.mcdowell.si/2013/10/IMG_2555-1.jpg "Honda GL1800 Goldwing") "A stop-over on the M6")
+![](https://img.mcdowell.si/2013/10/IMG_2557-1.jpg "Honda GL1800 Goldwing")
+![](https://img.mcdowell.si/2013/10/IMG_2556-1.jpg "Honda GL1800 Goldwing")
+![](https://img.mcdowell.si/2013/10/IMG_2555-1.jpg "Honda GL1800 Goldwing")
 ![](https://img.mcdowell.si/2013/10/2013-10-20-10.24.25-1.jpg "A stop-over on the M6")
