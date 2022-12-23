@@ -4,7 +4,7 @@ date: 2022-10-25
 layout: post
 title: 'Nepal: last post'
 thumbnail: https://img.mcdowell.si/Nepal-2022/Room2-Glasgow_680x680.jpg
-lead: "Cave In to end finish off the adventure" # Lead text
+lead: "Cave In to finish off the adventure" # Lead text
 draft: false
 summary: 
 categories:
