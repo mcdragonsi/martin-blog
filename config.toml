@@ -5,8 +5,10 @@ languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 enableInlineShortcodes = true
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your tracking id
+#googleAnalytics = "UA-3561361-8" # Enable Google Analytics by entering your tracking id
+
+[services.googleAnalytics]
+  ID = "UA-3561361-8" # Enable Google Analytics by entering your tracking ID
 
 [Author]
   name = "Martin"
