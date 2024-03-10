@@ -47,7 +47,7 @@ Bring your own padlocks but make them different size as they won't fit if they a
 The situation at the Stratford City Westfield if very VERY different.
 You cannot access the normal carpark on motorcycle, unless you pay I guess. They have two designated areas just outside Carpak entrance B. The pne on the left is small but kinda more suitable for larger motorcycles but not secure. The one on the right is much smaller and really designed for scooters and also not secure. Neither have any barriers. 
 
-![The larger parking on the left of the entrance](https://img.mcdowell.si/2024/2024-01-01_motorcycle-parking-westfield/westfield-stratford-1.jpg "This was the "larger" of the two and suitable only for larger bikes. Not sure what you would do if this place got busy.")
+![The larger parking on the left of the entrance](https://img.mcdowell.si/2024/2024-01-01_motorcycle-parking-westfield/westfield-stratford-1.jpg "This was the larger of the two and suitable only for larger bikes. Not sure what you would do if this place got busy.")
 
 ![The much smaller parking on the right of the entrance](https://img.mcdowell.si/2024/2024-01-01_motorcycle-parking-westfield/westfield-stratford-2.jpg "This was also not very busy when I was there but would be very difficult to manoeuvre a larger bike if it was busy")
 
